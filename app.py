@@ -13,17 +13,17 @@ mongo = PyMongo(app, uri="mongodb://localhost:27017/test")
 @app.route("/")
 def home():
 
-    # Find one record of data from the mongo database
-    # Not sure exactly the MongoDB/Pymongo syntax for referencing a
-    # particular document (in this case yelp and citibike) within the collection
-    citibike_c = mongo.db.citibike.find()
-    yelp_c = mongo.db.yelp.find()
+    # Initialize data arrays
     citibike_data = []
     yelp_data = []
-    for cursor in citibike_c:
+
+    # Query all documents of citibike and yelp collections
+    # deleting mongoBD's "_id" key, as it causes issues in javascript
+    for cursor in mongo.db.citibike.find({}):
         del cursor["_id"]
         citibike_data.append(cursor)
-    for cursor in yelp_c:
+
+    for cursor in mongo.db.yelp.find({}):
         del cursor["_id"]
         yelp_data.append(cursor)
 
@@ -37,21 +37,22 @@ def home():
 @app.route("/logic.js")
 def logic():
 
-    # Find one record of data from the mongo database
-    # Not sure exactly the MongoDB/Pymongo syntax for referencing a
-    # particular document (in this case yelp and citibike) within the collection
-    citibike_c = mongo.db.citibike.find()
-    yelp_c = mongo.db.yelp.find()
+    # Initialize data arrays
     citibike_data = []
     yelp_data = []
-    for cursor in citibike_c:
+
+    # Query all documents of citibike and yelp collections
+    # deleting mongoBD's "_id" key, as it causes issues in javascript
+    for cursor in mongo.db.citibike.find({}):
         del cursor["_id"]
         citibike_data.append(cursor)
-    for cursor in yelp_c:
+
+    for cursor in mongo.db.yelp.find({}):
         del cursor["_id"]
         yelp_data.append(cursor)
 
     combined_data = [citibike_data, yelp_data]
+    
     # Return template and data
     return render_template("logic.js", combined_data=combined_data)
 
