@@ -6,7 +6,7 @@ import scrape_yelp
 app = Flask(__name__)
 
 # Use PyMongo to establish Mongo connection
-mongo = PyMongo(app, uri="mongodb://localhost:27017/project-2")
+mongo = PyMongo(app, uri="mongodb://localhost:27017/test")
 
 
 # Route to render index.html template using data from Mongo
@@ -16,8 +16,17 @@ def home():
     # Find one record of data from the mongo database
     # Not sure exactly the MongoDB/Pymongo syntax for referencing a
     # particular document (in this case yelp and citibike) within the collection
-    citibike_data = mongo.db.collection.citibike.find_one()
-    yelp_data = mongo.db.collection.yelp.find_one()
+    citibike_c = mongo.db.citibike.find()
+    yelp_c = mongo.db.yelp.find()
+    citibike_data = []
+    yelp_data = []
+    for cursor in citibike_c:
+        del cursor["_id"]
+        citibike_data.append(cursor)
+    for cursor in yelp_c:
+        del cursor["_id"]
+        yelp_data.append(cursor)
+
     combined_data = [citibike_data, yelp_data]
 
     # Return template and data
@@ -31,10 +40,18 @@ def logic():
     # Find one record of data from the mongo database
     # Not sure exactly the MongoDB/Pymongo syntax for referencing a
     # particular document (in this case yelp and citibike) within the collection
-    yelp_data = mongo.db.collection.yelp.find_one()
-    citibike_data = mongo.db.collection.citibike.find_one()
-    combined_data = [citibike_data, yelp_data]
+    citibike_c = mongo.db.citibike.find()
+    yelp_c = mongo.db.yelp.find()
+    citibike_data = []
+    yelp_data = []
+    for cursor in citibike_c:
+        del cursor["_id"]
+        citibike_data.append(cursor)
+    for cursor in yelp_c:
+        del cursor["_id"]
+        yelp_data.append(cursor)
 
+    combined_data = [citibike_data, yelp_data]
     # Return template and data
     return render_template("logic.js", combined_data=combined_data)
 
