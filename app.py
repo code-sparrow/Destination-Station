@@ -6,31 +6,15 @@ import scrape_yelp
 app = Flask(__name__)
 
 # Use PyMongo to establish Mongo connection
-mongo = PyMongo(app, uri="mongodb://localhost:27017/test")
-
+database = "project_2"
+mongo = PyMongo(app, uri=f"mongodb://localhost:27017/{database}")
 
 # Route to render index.html template using data from Mongo
 @app.route("/")
 def home():
 
-    # Initialize data arrays
-    citibike_data = []
-    yelp_data = []
-
-    # Query all documents of citibike and yelp collections
-    # deleting mongoBD's "_id" key, as it causes issues in javascript
-    for cursor in mongo.db.citibike.find({}):
-        del cursor["_id"]
-        citibike_data.append(cursor)
-
-    for cursor in mongo.db.yelp.find({}):
-        del cursor["_id"]
-        yelp_data.append(cursor)
-
-    combined_data = [citibike_data, yelp_data]
-
     # Return template and data
-    return render_template("index.html", combined_data=combined_data)
+    return render_template("index.html")
 
 # Route to render logic.js template using data from Mongo
 # Should this be a part of home route or a seperate route like this?
@@ -41,36 +25,37 @@ def logic():
     citibike_data = []
     yelp_data = []
 
-    # Query all documents of citibike and yelp collections
-    # deleting mongoBD's "_id" key, as it causes issues in javascript
-    for cursor in mongo.db.citibike.find({}):
-        del cursor["_id"]
+    selection = {"start_station_id": 1, "start_station_name": 1, "start_station_latitude": 1, "start_station_longitude": 1, "_id": 0}
+    stations = mongo.db.citibike.distinct("start_station_id")
+
+    for station in stations[1:]:
+        cursor = mongo.db.citibike.find_one({"start_station_id": station}, selection)
         citibike_data.append(cursor)
 
-    for cursor in mongo.db.yelp.find({}):
-        del cursor["_id"]
-        yelp_data.append(cursor)
+    #for cursor in mongo.db.yelp.find({}):
+    #    del cursor["_id"]
+    #    yelp_data.append(cursor)
 
-    combined_data = [citibike_data, yelp_data]
+    combined_data = [citibike_data]
     
     # Return template and data
     return render_template("logic.js", combined_data=combined_data)
 
 
-# Route that will trigger the scrape function
-@app.route("/scrape")
-def scrape():
+# # Route that will trigger the scrape function
+# @app.route("/scrape")
+# def scrape():
 
-    # Run the scrape function
-    new_yelp_data = scrape_yelp.scrape()
+#     # Run the scrape function
+#     new_yelp_data = scrape_yelp.scrape()
 
-    # Update the Mongo database using update and upsert=True
-    # Again: Not sure exactly the MongoDB/Pymongo syntax for referencing a
-    # particular document (in this case yelp) within the collection
-    mongo.db.collection.yelp.update({}, new_yelp_data, upsert=True)
+#     # Update the Mongo database using update and upsert=True
+#     # Again: Not sure exactly the MongoDB/Pymongo syntax for referencing a
+#     # particular document (in this case yelp) within the collection
+#     mongo.db.collection.yelp.update({}, new_yelp_data, upsert=True)
 
-    # Redirect back to home page
-    return redirect("/")
+#     # Redirect back to home page
+#     return redirect("/")
 
 
 if __name__ == "__main__":

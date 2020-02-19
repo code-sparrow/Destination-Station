@@ -3,3 +3,14 @@
     text-align: center;
     background-color: darkseagreen;
 }
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#map-id,
+body,
+html {
+    height: 100%;
+}
