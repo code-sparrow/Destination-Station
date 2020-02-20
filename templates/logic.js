@@ -1,6 +1,7 @@
 // Our data from app.py render_template
 var citibikeData = {{ combined_data[0] }};
-//var yelpData = {{ combined_data[1] }};
+var popDestinations = {{ combined_data[1] }};
+console.log(popDestinations);
 
 citibikeData.forEach(d => {
     d.start_station_latitude = +d.start_station_latitude;
@@ -21,12 +22,18 @@ citibikeData.forEach(station => {
             color: "#black",
             weight: 0.7,
             fillColor: "black",
-            radius: 70
+            radius: 50,
+            className: station.start_station_id
+
         })
     );
 
 });
 var markerLayer = L.layerGroup(stationMarkers);
+
+markerLayer.on('click', function(ev){
+    console.log("hello")
+});
 
 
 // Create the tile layer that will be the background of our map
@@ -57,4 +64,3 @@ var map = L.map("map-id", {
 L.control.layers(baseMaps, overlayMaps, {
     collapsed: false
 }).addTo(map);
-  

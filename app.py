@@ -13,30 +13,27 @@ mongo = PyMongo(app, uri=f"mongodb://localhost:27017/{database}")
 @app.route("/")
 def home():
 
-    # Return template and data
+    # Return template
     return render_template("index.html")
 
 # Route to render logic.js template using data from Mongo
-# Should this be a part of home route or a seperate route like this?
 @app.route("/logic.js")
 def logic():
 
     # Initialize data arrays
-    citibike_data = []
-    yelp_data = []
+    station_data = []
+    popular_destination_data = []
 
-    selection = {"start_station_id": 1, "start_station_name": 1, "start_station_latitude": 1, "start_station_longitude": 1, "_id": 0}
-    stations = mongo.db.citibike.distinct("start_station_id")
+    for cursor in mongo.db.stations.find({}):
+        del cursor["_id"]
+        station_data.append(cursor)
 
-    for station in stations[1:]:
-        cursor = mongo.db.citibike.find_one({"start_station_id": station}, selection)
-        citibike_data.append(cursor)
+    for cursor in mongo.db.popular_destinations.find({}):
+        del cursor["_id"]
+        popular_destination_data.append(cursor)
 
-    #for cursor in mongo.db.yelp.find({}):
-    #    del cursor["_id"]
-    #    yelp_data.append(cursor)
 
-    combined_data = [citibike_data]
+    combined_data = [station_data, popular_destination_data]
     
     # Return template and data
     return render_template("logic.js", combined_data=combined_data)
