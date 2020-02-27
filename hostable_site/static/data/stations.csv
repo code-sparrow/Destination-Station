@@ -1,0 +1,792 @@
+_id,start_station_id,start_station_name,start_station_latitude,start_station_longitude
+ObjectId("5e4e2e36dbd3e62f6ebce415"),116,W 17 St & 8 Ave,40.74177603,-74.00149746
+ObjectId("5e4e2e36dbd3e62f6ebce416"),119,Park Ave & St Edwards St,40.69608941,-73.97803415
+ObjectId("5e4e2e36dbd3e62f6ebce417"),120,Lexington Ave & Classon Ave,40.68676793,-73.95928168
+ObjectId("5e4e2e36dbd3e62f6ebce418"),127,Barrow St & Hudson St,40.73172428,-74.00674436
+ObjectId("5e4e2e36dbd3e62f6ebce419"),128,MacDougal St & Prince St,40.72710258,-74.00297088
+ObjectId("5e4e2e36dbd3e62f6ebce41a"),143,Clinton St & Joralemon St,40.69239502,-73.99337909
+ObjectId("5e4e2e36dbd3e62f6ebce41b"),144,Nassau St & Navy St,40.69839895,-73.98068914
+ObjectId("5e4e2e36dbd3e62f6ebce41c"),146,Hudson St & Reade St,40.71625008,-74.0091059
+ObjectId("5e4e2e36dbd3e62f6ebce41d"),150,E 2 St & Avenue C,40.7208736,-73.98085795
+ObjectId("5e4e2e36dbd3e62f6ebce41e"),151,Cleveland Pl & Spring St,40.72210379,-73.99724901
+ObjectId("5e4e2e36dbd3e62f6ebce41f"),157,Henry St & Atlantic Ave,40.69089272,-73.99612349
+ObjectId("5e4e2e36dbd3e62f6ebce420"),161,LaGuardia Pl & W 3 St,40.72917025,-73.99810231
+ObjectId("5e4e2e36dbd3e62f6ebce421"),164,E 47 St & 2 Ave,40.75323098,-73.97032517
+ObjectId("5e4e2e36dbd3e62f6ebce422"),167,E 39 St & 3 Ave,40.7489006,-73.97604882
+ObjectId("5e4e2e36dbd3e62f6ebce423"),168,W 18 St & 6 Ave,40.73971301,-73.99456405
+ObjectId("5e4e2e36dbd3e62f6ebce424"),173,Broadway & W 49 St,40.76068327,-73.98452729
+ObjectId("5e4e2e36dbd3e62f6ebce425"),174,E 25 St & 1 Ave,40.7381765,-73.97738662
+ObjectId("5e4e2e36dbd3e62f6ebce426"),195,Liberty St & Broadway,40.70905623,-74.01043382
+ObjectId("5e4e2e36dbd3e62f6ebce427"),2000,Front St & Washington St,40.70255088,-73.98940236
+ObjectId("5e4e2e36dbd3e62f6ebce428"),2002,Wythe Ave & Metropolitan Ave,40.716887,-73.963198
+ObjectId("5e4e2e36dbd3e62f6ebce429"),2003,1 Ave & E 18 St,40.73381219,-73.98054421
+ObjectId("5e4e2e36dbd3e62f6ebce42a"),2005,Railroad Ave & Kay Ave,40.70531194,-73.97100056
+ObjectId("5e4e2e36dbd3e62f6ebce42b"),2006,Central Park S & 6 Ave,40.76590936,-73.97634151
+ObjectId("5e4e2e36dbd3e62f6ebce42c"),2008,Little West St & 1 Pl,40.70569254,-74.01677685
+ObjectId("5e4e2e36dbd3e62f6ebce42d"),2009,Catherine St & Monroe St,40.71117444,-73.99682619
+ObjectId("5e4e2e36dbd3e62f6ebce42e"),2012,E 27 St & 1 Ave,40.739445,-73.976806
+ObjectId("5e4e2e36dbd3e62f6ebce42f"),2017,E 43 St & 2 Ave,40.75022392,-73.97121414
+ObjectId("5e4e2e36dbd3e62f6ebce430"),2021,W 45 St & 8 Ave,40.75929124,-73.98859651
+ObjectId("5e4e2e36dbd3e62f6ebce431"),2022,E 60 St & York Ave,40.759107,-73.959223
+ObjectId("5e4e2e36dbd3e62f6ebce432"),212,W 16 St & The High Line,40.74334935,-74.00681753
+ObjectId("5e4e2e36dbd3e62f6ebce433"),216,Columbia Heights & Cranberry St,40.70037867,-73.99548059
+ObjectId("5e4e2e36dbd3e62f6ebce434"),217,Old Fulton St,40.70277159,-73.99383605
+ObjectId("5e4e2e36dbd3e62f6ebce435"),223,W 13 St & 7 Ave,40.73781509,-73.99994661
+ObjectId("5e4e2e36dbd3e62f6ebce436"),224,Spruce St & Nassau St,40.71146364,-74.00552427
+ObjectId("5e4e2e36dbd3e62f6ebce437"),228,E 48 St & 3 Ave,40.7546011,-73.97187886
+ObjectId("5e4e2e36dbd3e62f6ebce438"),229,Great Jones St,40.72743423,-73.99379025
+ObjectId("5e4e2e36dbd3e62f6ebce439"),236,St Marks Pl & 2 Ave,40.7284186,-73.98713956
+ObjectId("5e4e2e36dbd3e62f6ebce43a"),237,E 11 St & 2 Ave,40.73047309,-73.98672378
+ObjectId("5e4e2e36dbd3e62f6ebce43b"),238,Bank St & Washington St,40.7361967,-74.00859207
+ObjectId("5e4e2e36dbd3e62f6ebce43c"),239,Willoughby St & Fleet St,40.69196566,-73.9813018
+ObjectId("5e4e2e36dbd3e62f6ebce43d"),241,DeKalb Ave & S Portland Ave,40.68981035,-73.97493121
+ObjectId("5e4e2e36dbd3e62f6ebce43e"),242,Carlton Ave & Flushing Ave,40.697787,-73.973736
+ObjectId("5e4e2e36dbd3e62f6ebce43f"),243,Fulton St & Rockwell Pl,40.68841,-73.979458
+ObjectId("5e4e2e36dbd3e62f6ebce440"),244,Willoughby Ave & Hall St,40.69196035,-73.96536851
+ObjectId("5e4e2e36dbd3e62f6ebce441"),245,Myrtle Ave & St Edwards St,40.69327018,-73.97703874
+ObjectId("5e4e2e36dbd3e62f6ebce442"),247,Perry St & Bleecker St,40.73535398,-74.00483091
+ObjectId("5e4e2e36dbd3e62f6ebce443"),248,Laight St & Hudson St,40.72185379,-74.00771779
+ObjectId("5e4e2e36dbd3e62f6ebce444"),249,Harrison St & Hudson St,40.71870987,-74.0090009
+ObjectId("5e4e2e36dbd3e62f6ebce445"),250,Lafayette St & Jersey St,40.72456089,-73.99565293
+ObjectId("5e4e2e36dbd3e62f6ebce446"),251,Mott St & Prince St,40.72317958,-73.99480012
+ObjectId("5e4e2e36dbd3e62f6ebce447"),252,MacDougal St & Washington Sq,40.73226398,-73.99852205
+ObjectId("5e4e2e36dbd3e62f6ebce448"),254,W 11 St & 6 Ave,40.73532427,-73.99800419
+ObjectId("5e4e2e36dbd3e62f6ebce449"),257,Lispenard St & Broadway,40.71939226,-74.00247214
+ObjectId("5e4e2e36dbd3e62f6ebce44a"),258,DeKalb Ave & Vanderbilt Ave,40.68940747,-73.96885458
+ObjectId("5e4e2e36dbd3e62f6ebce44b"),259,South St & Whitehall St,40.70122128,-74.01234218
+ObjectId("5e4e2e36dbd3e62f6ebce44c"),260,Broad St & Bridge St,40.70365182,-74.01167797
+ObjectId("5e4e2e36dbd3e62f6ebce44d"),261,Johnson St & Gold St,40.69474881,-73.98362464
+ObjectId("5e4e2e36dbd3e62f6ebce44e"),262,Washington Park,40.6917823,-73.9737299
+ObjectId("5e4e2e36dbd3e62f6ebce44f"),264,Maiden Ln & Pearl St,40.70706456,-74.00731853
+ObjectId("5e4e2e36dbd3e62f6ebce450"),265,Stanton St & Chrystie St,40.72229346,-73.99147535
+ObjectId("5e4e2e36dbd3e62f6ebce451"),266,Avenue D & E 8 St,40.72368361,-73.97574813
+ObjectId("5e4e2e36dbd3e62f6ebce452"),267,Broadway & W 36 St,40.75097711,-73.98765428
+ObjectId("5e4e2e36dbd3e62f6ebce453"),268,Howard St & Centre St,40.71910537,-73.99973337
+ObjectId("5e4e2e36dbd3e62f6ebce454"),270,Adelphi St & Myrtle Ave,40.69308257,-73.97178913
+ObjectId("5e4e2e36dbd3e62f6ebce455"),274,Lafayette Ave & Fort Greene Pl,40.68691865,-73.976682
+ObjectId("5e4e2e36dbd3e62f6ebce456"),275,Washington Ave & Greene Ave,40.68650065,-73.96563307
+ObjectId("5e4e2e36dbd3e62f6ebce457"),276,Duane St & Greenwich St,40.71748752,-74.0104554
+ObjectId("5e4e2e36dbd3e62f6ebce458"),278,Concord St & Bridge St,40.69766564,-73.98476437
+ObjectId("5e4e2e36dbd3e62f6ebce459"),279,Peck Slip & Front St,40.707873,-74.00167
+ObjectId("5e4e2e36dbd3e62f6ebce45a"),280,E 10 St & 5 Ave,40.73331967,-73.99510132
+ObjectId("5e4e2e36dbd3e62f6ebce45b"),281,Grand Army Plaza & Central Park S,40.7643971,-73.97371465
+ObjectId("5e4e2e36dbd3e62f6ebce45c"),282,Kent Ave & S 11 St,40.70764494,-73.96841526
+ObjectId("5e4e2e36dbd3e62f6ebce45d"),284,Greenwich Ave & 8 Ave,40.73901691,-74.00263761
+ObjectId("5e4e2e36dbd3e62f6ebce45e"),285,Broadway & E 14 St,40.73454567,-73.99074142
+ObjectId("5e4e2e36dbd3e62f6ebce45f"),289,Monroe St & Classon Ave,40.6845683,-73.95881081
+ObjectId("5e4e2e36dbd3e62f6ebce460"),291,Madison St & Montgomery St,40.713126,-73.984844
+ObjectId("5e4e2e36dbd3e62f6ebce461"),293,Lafayette St & E 8 St,40.73020661,-73.99102628
+ObjectId("5e4e2e36dbd3e62f6ebce462"),295,Pike St & E Broadway,40.71406667,-73.99293911
+ObjectId("5e4e2e36dbd3e62f6ebce463"),296,Division St & Bowery,40.71413089,-73.9970468
+ObjectId("5e4e2e36dbd3e62f6ebce464"),297,E 15 St & 3 Ave,40.734232,-73.986923
+ObjectId("5e4e2e36dbd3e62f6ebce465"),298,3 Ave & Schermerhorn St,40.68683208,-73.9796772
+ObjectId("5e4e2e36dbd3e62f6ebce466"),3002,South End Ave & Liberty St,40.711512,-74.015756
+ObjectId("5e4e2e36dbd3e62f6ebce467"),301,E 2 St & Avenue B,40.72217444,-73.98368779
+ObjectId("5e4e2e36dbd3e62f6ebce468"),3016,Kent Ave & N 7 St,40.72036775,-73.96165073
+ObjectId("5e4e2e36dbd3e62f6ebce469"),302,Avenue D & E 3 St,40.72082834,-73.97793172
+ObjectId("5e4e2e36dbd3e62f6ebce46a"),303,Mercer St & Spring St,40.72362738,-73.99949601
+ObjectId("5e4e2e36dbd3e62f6ebce46b"),304,Broadway & Battery Pl,40.70463334,-74.01361706
+ObjectId("5e4e2e36dbd3e62f6ebce46c"),3041,Kingston Ave & Herkimer St,40.67890679,-73.94142771
+ObjectId("5e4e2e36dbd3e62f6ebce46d"),3042,Fulton St & Utica Ave,40.6794268,-73.9298911
+ObjectId("5e4e2e36dbd3e62f6ebce46e"),3043,Lewis Ave & Decatur St,40.6814598,-73.934903
+ObjectId("5e4e2e36dbd3e62f6ebce46f"),3044,Albany Ave & Fulton St,40.6800105,-73.938475
+ObjectId("5e4e2e36dbd3e62f6ebce470"),3046,Marcus Garvey Blvd & Macon St,40.682601,-73.938037
+ObjectId("5e4e2e36dbd3e62f6ebce471"),3047,Halsey St & Tompkins Ave,40.6823687,-73.944118
+ObjectId("5e4e2e36dbd3e62f6ebce472"),3048,Putnam Ave & Nostrand Ave,40.68402,-73.94977
+ObjectId("5e4e2e36dbd3e62f6ebce473"),3049,Cambridge Pl & Gates Ave,40.68488,-73.96304
+ObjectId("5e4e2e36dbd3e62f6ebce474"),305,E 58 St & 3 Ave,40.76095756,-73.96724467
+ObjectId("5e4e2e36dbd3e62f6ebce475"),3050,Putnam Ave & Throop Ave,40.6851532,-73.94111
+ObjectId("5e4e2e36dbd3e62f6ebce476"),3052,Lewis Ave & Madison St,40.686312,-73.935775
+ObjectId("5e4e2e36dbd3e62f6ebce477"),3053,Marcy Ave & Lafayette Ave,40.6900815,-73.947915
+ObjectId("5e4e2e36dbd3e62f6ebce478"),3054,Greene Ave & Throop Ave,40.6894932,-73.942061
+ObjectId("5e4e2e36dbd3e62f6ebce479"),3055,Greene Ave & Nostrand Ave,40.6883337,-73.950916
+ObjectId("5e4e2e36dbd3e62f6ebce47a"),3056,Kosciuszko St & Nostrand Ave,40.69072549,-73.95133465
+ObjectId("5e4e2e36dbd3e62f6ebce47b"),3057,Kosciuszko St & Tompkins Ave,40.69128258,-73.9452416
+ObjectId("5e4e2e36dbd3e62f6ebce47c"),3058,Lewis Ave & Kosciuszko St,40.69237074,-73.93705428
+ObjectId("5e4e2e36dbd3e62f6ebce47d"),3059,Pulaski St & Marcus Garvey Blvd,40.6933982,-73.939877
+ObjectId("5e4e2e36dbd3e62f6ebce47e"),3060,Willoughby Ave & Tompkins Ave,40.69425403,-73.94626915
+ObjectId("5e4e2e36dbd3e62f6ebce47f"),3061,Throop Ave & Myrtle Ave,40.69622937,-73.94371094
+ObjectId("5e4e2e36dbd3e62f6ebce480"),3062,Myrtle Ave & Marcy Ave,40.69539817,-73.94954908
+ObjectId("5e4e2e36dbd3e62f6ebce481"),3063,Nostrand Ave & Myrtle Ave,40.69527008,-73.95238108
+ObjectId("5e4e2e36dbd3e62f6ebce482"),3064,Myrtle Ave & Lewis Ave,40.69681963,-73.93756926
+ObjectId("5e4e2e36dbd3e62f6ebce483"),3065,Union Ave & Wallabout St,40.70029511,-73.95032283
+ObjectId("5e4e2e36dbd3e62f6ebce484"),3066,Tompkins Ave & Hopkins St,40.69957608,-73.94708417
+ObjectId("5e4e2e36dbd3e62f6ebce485"),3067,Broadway & Whipple St,40.7016657,-73.9437303
+ObjectId("5e4e2e36dbd3e62f6ebce486"),3068,Humboldt St & Varet St,40.7031724,-73.940636
+ObjectId("5e4e2e36dbd3e62f6ebce487"),3069,Lorimer St & Broadway,40.70411791,-73.94818595
+ObjectId("5e4e2e36dbd3e62f6ebce488"),307,Canal St & Rutgers St,40.71427487,-73.98990025
+ObjectId("5e4e2e36dbd3e62f6ebce489"),3070,McKibbin St & Manhattan Ave,40.70510918,-73.94407279
+ObjectId("5e4e2e36dbd3e62f6ebce48a"),3071,Boerum St & Broadway,40.70538077,-73.94976519
+ObjectId("5e4e2e36dbd3e62f6ebce48b"),3072,Leonard St & Boerum St,40.70583339,-73.94644578
+ObjectId("5e4e2e36dbd3e62f6ebce48c"),3074,Montrose Ave & Bushwick Ave,40.70767788,-73.94016171
+ObjectId("5e4e2e36dbd3e62f6ebce48d"),3075,Division Ave & Marcy Ave,40.70708701,-73.95796783
+ObjectId("5e4e2e36dbd3e62f6ebce48e"),3076,Scholes St & Manhattan Ave,40.70870368,-73.9448625
+ObjectId("5e4e2e36dbd3e62f6ebce48f"),3077,Stagg St & Union Ave,40.70877084,-73.95095259
+ObjectId("5e4e2e36dbd3e62f6ebce490"),3078,Broadway & Roebling St,40.70924826,-73.96063149
+ObjectId("5e4e2e36dbd3e62f6ebce491"),308,St James Pl & Oliver St,40.71307916,-73.99851193
+ObjectId("5e4e2e36dbd3e62f6ebce492"),3080,S 4 St & Rodney St,40.70934,-73.95608
+ObjectId("5e4e2e36dbd3e62f6ebce493"),3081,Graham Ave & Grand St,40.711863,-73.944024
+ObjectId("5e4e2e36dbd3e62f6ebce494"),3082,Hope St & Union Ave,40.71167351,-73.95141312
+ObjectId("5e4e2e36dbd3e62f6ebce495"),3083,Bushwick Ave & Powers St,40.71247661,-73.94100005
+ObjectId("5e4e2e36dbd3e62f6ebce496"),3085,Roebling St & N 4 St,40.71469,-73.95739
+ObjectId("5e4e2e36dbd3e62f6ebce497"),3086,Graham Ave & Conselyea St,40.715143,-73.944507
+ObjectId("5e4e2e36dbd3e62f6ebce498"),3087,Metropolitan Ave & Meeker Ave,40.71413311,-73.95234386
+ObjectId("5e4e2e36dbd3e62f6ebce499"),3088,Union Ave & Jackson St,40.7160751,-73.952029
+ObjectId("5e4e2e36dbd3e62f6ebce49a"),309,Murray St & West St,40.7149787,-74.013012
+ObjectId("5e4e2e36dbd3e62f6ebce49b"),3092,Berry St & N 8 St,40.7190095,-73.95852515
+ObjectId("5e4e2e36dbd3e62f6ebce49c"),3093,N 6 St & Bedford Ave,40.71745169,-73.95850939
+ObjectId("5e4e2e36dbd3e62f6ebce49d"),3094,Graham Ave & Withers St,40.7169811,-73.94485918
+ObjectId("5e4e2e36dbd3e62f6ebce49e"),3095,Graham Ave & Herbert St,40.71929301,-73.94500379
+ObjectId("5e4e2e36dbd3e62f6ebce49f"),3096,Union Ave & N 12 St,40.71924,-73.95242
+ObjectId("5e4e2e36dbd3e62f6ebce4a0"),310,State St & Smith St,40.68926942,-73.98912867
+ObjectId("5e4e2e36dbd3e62f6ebce4a1"),3100,Nassau Ave & Newell St,40.72481256,-73.94752622
+ObjectId("5e4e2e36dbd3e62f6ebce4a2"),3101,N 12 St & Bedford Ave,40.72079821,-73.95484712
+ObjectId("5e4e2e36dbd3e62f6ebce4a3"),3102,Driggs Ave & Lorimer St,40.72179134,-73.9504154
+ObjectId("5e4e2e36dbd3e62f6ebce4a4"),3105,N 15 St & Wythe Ave,40.724055,-73.955736
+ObjectId("5e4e2e36dbd3e62f6ebce4a5"),3106,Driggs Ave & N Henry St,40.72325,-73.94308
+ObjectId("5e4e2e36dbd3e62f6ebce4a6"),3107,Bedford Ave & Nassau Ave,40.72311651,-73.95212324
+ObjectId("5e4e2e36dbd3e62f6ebce4a7"),3108,Nassau Ave & Russell St,40.72557,-73.94434
+ObjectId("5e4e2e36dbd3e62f6ebce4a8"),3109,Banker St & Meserole Ave,40.72606,-73.95621
+ObjectId("5e4e2e36dbd3e62f6ebce4a9"),311,Norfolk St & Broome St,40.7172274,-73.98802084
+ObjectId("5e4e2e36dbd3e62f6ebce4aa"),3110,Meserole Ave & Manhattan Ave,40.72708584,-73.95299117
+ObjectId("5e4e2e36dbd3e62f6ebce4ab"),3112,Milton St & Franklin St,40.72906,-73.95779
+ObjectId("5e4e2e36dbd3e62f6ebce4ac"),3113,Greenpoint Ave & Manhattan Ave,40.73026,-73.95394
+ObjectId("5e4e2e36dbd3e62f6ebce4ad"),3115,India St & Manhattan Ave,40.73232194,-73.9550858
+ObjectId("5e4e2e36dbd3e62f6ebce4ae"),3116,Huron St & Franklin St,40.73266,-73.95826
+ObjectId("5e4e2e36dbd3e62f6ebce4af"),3117,Franklin St & Dupont St,40.73564,-73.95866
+ObjectId("5e4e2e36dbd3e62f6ebce4b0"),3118,McGuinness Blvd & Eagle St,40.73555,-73.95284
+ObjectId("5e4e2e36dbd3e62f6ebce4b1"),3119,Vernon Blvd & 50 Ave,40.74232744,-73.95411749
+ObjectId("5e4e2e36dbd3e62f6ebce4b2"),312,Allen St & Stanton St,40.722055,-73.989111
+ObjectId("5e4e2e36dbd3e62f6ebce4b3"),3121,Jackson Ave & 46 Rd,40.74524768,-73.94733276
+ObjectId("5e4e2e36dbd3e62f6ebce4b4"),3122,48 Ave & 5 St,40.74436329,-73.95587325
+ObjectId("5e4e2e36dbd3e62f6ebce4b5"),3123,31 St & Thomson Ave,40.74469738,-73.93540375
+ObjectId("5e4e2e36dbd3e62f6ebce4b6"),3124,46 Ave & 5 St,40.74731,-73.95451
+ObjectId("5e4e2e36dbd3e62f6ebce4b7"),3125,45 Rd & 11 St,40.74708586,-73.94977234
+ObjectId("5e4e2e36dbd3e62f6ebce4b8"),3126,44 Dr & Jackson Ave,40.74718234,-73.9432635
+ObjectId("5e4e2e36dbd3e62f6ebce4b9"),3127,9 St & 44 Rd,40.74966,-73.9521
+ObjectId("5e4e2e36dbd3e62f6ebce4ba"),3128,21 St & 43 Ave,40.75052534,-73.94594845
+ObjectId("5e4e2e36dbd3e62f6ebce4bb"),3129,Queens Plaza North & Crescent St,40.75110165,-73.94073717
+ObjectId("5e4e2e36dbd3e62f6ebce4bc"),313,Washington Ave & Park Ave,40.69610226,-73.96751037
+ObjectId("5e4e2e36dbd3e62f6ebce4bd"),3130,21 St & Queens Plaza North,40.75325964,-73.94335788
+ObjectId("5e4e2e36dbd3e62f6ebce4be"),3131,E 68 St & 3 Ave,40.7671284,-73.96224618
+ObjectId("5e4e2e36dbd3e62f6ebce4bf"),3132,E 59 St & Madison Ave,40.76350532,-73.97109243
+ObjectId("5e4e2e36dbd3e62f6ebce4c0"),3134,3 Ave & E 62 St,40.76312584,-73.96526895
+ObjectId("5e4e2e36dbd3e62f6ebce4c1"),3135,E 75 St & 3 Ave,40.77112927,-73.95772297
+ObjectId("5e4e2e36dbd3e62f6ebce4c2"),3136,5 Ave & E 63 St,40.766368,-73.971518
+ObjectId("5e4e2e36dbd3e62f6ebce4c3"),3137,5 Ave & E 73 St,40.77282817,-73.96685276
+ObjectId("5e4e2e36dbd3e62f6ebce4c4"),3139,E 72 St & Park Ave,40.77118288,-73.96409422
+ObjectId("5e4e2e36dbd3e62f6ebce4c5"),314,Cadman Plaza West & Montague St,40.69383,-73.990539
+ObjectId("5e4e2e36dbd3e62f6ebce4c6"),3140,1 Ave & E 78 St,40.77140426,-73.9535166
+ObjectId("5e4e2e36dbd3e62f6ebce4c7"),3141,1 Ave & E 68 St,40.76500525,-73.95818491
+ObjectId("5e4e2e36dbd3e62f6ebce4c8"),3142,1 Ave & E 62 St,40.7612274,-73.96094022
+ObjectId("5e4e2e36dbd3e62f6ebce4c9"),3143,5 Ave & E 78 St,40.77632142,-73.96427393
+ObjectId("5e4e2e36dbd3e62f6ebce4ca"),3145,E 84 St & Park Ave,40.77862688,-73.95772073
+ObjectId("5e4e2e36dbd3e62f6ebce4cb"),3146,E 81 St & 3 Ave,40.77573034,-73.9567526
+ObjectId("5e4e2e36dbd3e62f6ebce4cc"),3148,E 84 St & 1 Ave,40.77565541,-73.95068615
+ObjectId("5e4e2e36dbd3e62f6ebce4cd"),315,South St & Gouverneur Ln,40.70355377,-74.00670227
+ObjectId("5e4e2e36dbd3e62f6ebce4ce"),3150,E 85 St & York Ave,40.77536905,-73.94803392
+ObjectId("5e4e2e36dbd3e62f6ebce4cf"),3151,E 81 St & York Ave,40.7728384,-73.94989233
+ObjectId("5e4e2e36dbd3e62f6ebce4d0"),3152,3 Ave & E 71 St,40.76873687,-73.96119945
+ObjectId("5e4e2e36dbd3e62f6ebce4d1"),3154,E 77 St & 3 Ave,40.77314236,-73.95856158
+ObjectId("5e4e2e36dbd3e62f6ebce4d2"),3155,Lexington Ave & E 63 St,40.76440023,-73.96648977
+ObjectId("5e4e2e36dbd3e62f6ebce4d3"),3156,E 72 St & York Ave,40.76663814,-73.95348296
+ObjectId("5e4e2e36dbd3e62f6ebce4d4"),3157,East End Ave & E 86 St,40.77518615,-73.94446054
+ObjectId("5e4e2e36dbd3e62f6ebce4d5"),3158,W 63 St & Broadway,40.77163851,-73.98261428
+ObjectId("5e4e2e36dbd3e62f6ebce4d6"),3159,W 67 St & Broadway,40.77492513,-73.98266566
+ObjectId("5e4e2e36dbd3e62f6ebce4d7"),316,Fulton St & William St,40.70955958,-74.00653609
+ObjectId("5e4e2e36dbd3e62f6ebce4d8"),3160,Central Park West & W 76 St,40.77896784,-73.97374737
+ObjectId("5e4e2e36dbd3e62f6ebce4d9"),3161,W 76 St & Columbus Ave,40.78018397,-73.97728533
+ObjectId("5e4e2e36dbd3e62f6ebce4da"),3162,W 78 St & Broadway,40.78339981,-73.98093133
+ObjectId("5e4e2e36dbd3e62f6ebce4db"),3163,Central Park West & W 68 St,40.7734066,-73.97782542
+ObjectId("5e4e2e36dbd3e62f6ebce4dc"),3164,Columbus Ave & W 72 St,40.7770575,-73.97898475
+ObjectId("5e4e2e36dbd3e62f6ebce4dd"),3165,Central Park West & W 72 St,40.77579377,-73.97620574
+ObjectId("5e4e2e36dbd3e62f6ebce4de"),3166,Riverside Dr & W 72 St,40.78057799,-73.98562431
+ObjectId("5e4e2e36dbd3e62f6ebce4df"),3167,Amsterdam Ave & W 73 St,40.77966809,-73.98093045
+ObjectId("5e4e2e36dbd3e62f6ebce4e0"),3168,Central Park West & W 85 St,40.78472675,-73.96961715
+ObjectId("5e4e2e36dbd3e62f6ebce4e1"),3169,Riverside Dr & W 82 St,40.78720869,-73.98128127
+ObjectId("5e4e2e36dbd3e62f6ebce4e2"),317,E 6 St & Avenue B,40.72453734,-73.98185424
+ObjectId("5e4e2e36dbd3e62f6ebce4e3"),3170,W 84 St & Columbus Ave,40.78499979,-73.97283406
+ObjectId("5e4e2e36dbd3e62f6ebce4e4"),3171,Amsterdam Ave & W 82 St,40.78524672,-73.97667321
+ObjectId("5e4e2e36dbd3e62f6ebce4e5"),3172,W 74 St & Columbus Ave,40.7785669,-73.97754961
+ObjectId("5e4e2e36dbd3e62f6ebce4e6"),3173,Riverside Blvd & W 67 St,40.77750703,-73.98888588
+ObjectId("5e4e2e36dbd3e62f6ebce4e7"),3175,W 70 St & Amsterdam Ave,40.77748046,-73.98288594
+ObjectId("5e4e2e36dbd3e62f6ebce4e8"),3177,W 84 St & Broadway,40.7867947,-73.977112
+ObjectId("5e4e2e36dbd3e62f6ebce4e9"),3178,Riverside Dr & W 78 St,40.78414472,-73.98362492
+ObjectId("5e4e2e36dbd3e62f6ebce4ea"),3179,Park Ave & Marcus Garvey Blvd,40.698617,-73.941342
+ObjectId("5e4e2e36dbd3e62f6ebce4eb"),3182,Yankee Ferry Terminal,40.686931,-74.016966
+ObjectId("5e4e2e36dbd3e62f6ebce4ec"),319,Fulton St & Broadway,40.711066,-74.009447
+ObjectId("5e4e2e36dbd3e62f6ebce4ed"),320,Leonard St & Church St,40.717571,-74.005549
+ObjectId("5e4e2e36dbd3e62f6ebce4ee"),321,Cadman Plaza E & Red Cross Pl,40.69991755,-73.98971773
+ObjectId("5e4e2e36dbd3e62f6ebce4ef"),3221,47 Ave & 31 St,40.743,-73.93561
+ObjectId("5e4e2e36dbd3e62f6ebce4f0"),323,Lawrence St & Willoughby St,40.69236178,-73.98631746
+ObjectId("5e4e2e36dbd3e62f6ebce4f1"),3231,E 67 St & Park Ave,40.7678008,-73.96592081
+ObjectId("5e4e2e36dbd3e62f6ebce4f2"),3232,Bond St & Fulton St,40.68962189,-73.98304269
+ObjectId("5e4e2e36dbd3e62f6ebce4f3"),3233,E 48 St & 5 Ave,40.75724568,-73.97805914
+ObjectId("5e4e2e36dbd3e62f6ebce4f4"),3235,E 41 St & Madison Ave,40.75216528,-73.97992194
+ObjectId("5e4e2e36dbd3e62f6ebce4f5"),3236,W 42 St & Dyer Ave,40.75898481,-73.99379969
+ObjectId("5e4e2e36dbd3e62f6ebce4f6"),324,DeKalb Ave & Hudson Ave,40.689888,-73.981013
+ObjectId("5e4e2e36dbd3e62f6ebce4f7"),3241,Monroe St & Tompkins Ave,40.686203,-73.944694
+ObjectId("5e4e2e36dbd3e62f6ebce4f8"),3242,Schermerhorn St & Court St,40.69102926,-73.99183363
+ObjectId("5e4e2e36dbd3e62f6ebce4f9"),3243,E 58 St & 1 Ave (NE Corner),40.75892386,-73.96226227
+ObjectId("5e4e2e36dbd3e62f6ebce4fa"),3244,University Pl & E 8 St,40.73143724,-73.99490342
+ObjectId("5e4e2e36dbd3e62f6ebce4fb"),3249,Verona Pl & Fulton St,40.68035608,-73.9476791
+ObjectId("5e4e2e36dbd3e62f6ebce4fc"),325,E 19 St & 3 Ave,40.73624527,-73.98473765
+ObjectId("5e4e2e36dbd3e62f6ebce4fd"),3254,Soissons Landing,40.69231661,-74.01486576
+ObjectId("5e4e2e36dbd3e62f6ebce4fe"),3255,8 Ave & W 31 St,40.75058535,-73.99468482
+ObjectId("5e4e2e36dbd3e62f6ebce4ff"),3256,Pier 40 - Hudson River Park,40.72771408,-74.01129574
+ObjectId("5e4e2e36dbd3e62f6ebce500"),3259,9 Ave & W 28 St,40.74937024,-73.99923384
+ObjectId("5e4e2e36dbd3e62f6ebce501"),326,E 11 St & 1 Ave,40.72953837,-73.98426726
+ObjectId("5e4e2e36dbd3e62f6ebce502"),3260,Mercer St & Bleecker St,40.72706363,-73.99662137
+ObjectId("5e4e2e36dbd3e62f6ebce503"),3263,Cooper Square & Astor Pl,40.72951496,-73.9907527
+ObjectId("5e4e2e36dbd3e62f6ebce504"),327,Vesey Pl & River Terrace,40.7153379,-74.01658354
+ObjectId("5e4e2e36dbd3e62f6ebce505"),328,Watts St & Greenwich St,40.72405549,-74.00965965
+ObjectId("5e4e2e36dbd3e62f6ebce506"),3282,5 Ave & E 88 St,40.78307,-73.95939
+ObjectId("5e4e2e36dbd3e62f6ebce507"),3283,W 89 St & Columbus Ave,40.7882213,-73.97041561
+ObjectId("5e4e2e36dbd3e62f6ebce508"),3284,E 88 St & Park Ave,40.7814107,-73.95595908
+ObjectId("5e4e2e36dbd3e62f6ebce509"),3285,W 87 St & Amsterdam Ave,40.78839,-73.9747
+ObjectId("5e4e2e36dbd3e62f6ebce50a"),3286,E 89 St & 3 Ave,40.7806284,-73.9521667
+ObjectId("5e4e2e36dbd3e62f6ebce50b"),3287,W 87 St & West End Ave,40.789622,-73.97757
+ObjectId("5e4e2e36dbd3e62f6ebce50c"),3288,E 88 St & 1 Ave,40.778301,-73.9488134
+ObjectId("5e4e2e36dbd3e62f6ebce50d"),3289,W 90 St & Amsterdam Ave,40.79017948,-73.97288918
+ObjectId("5e4e2e36dbd3e62f6ebce50e"),3290,E 89 St & York Ave,40.7779453,-73.946041
+ObjectId("5e4e2e36dbd3e62f6ebce50f"),3292,5 Ave & E 93 St,40.7857851,-73.957481
+ObjectId("5e4e2e36dbd3e62f6ebce510"),3293,W 92 St & Broadway,40.7921,-73.9739
+ObjectId("5e4e2e36dbd3e62f6ebce511"),3294,E 91 St & Park Ave,40.7835016,-73.955327
+ObjectId("5e4e2e36dbd3e62f6ebce512"),3295,Central Park W & W 96 St,40.79127,-73.964839
+ObjectId("5e4e2e36dbd3e62f6ebce513"),3296,E 93 St & 2 Ave,40.78245418,-73.94891962
+ObjectId("5e4e2e36dbd3e62f6ebce514"),3297,6 St & 7 Ave,40.6686627,-73.97988067
+ObjectId("5e4e2e36dbd3e62f6ebce515"),3298,Warren St & Court St,40.686371,-73.99383324
+ObjectId("5e4e2e36dbd3e62f6ebce516"),3299,E 98 St & Park Ave,40.78813,-73.95206
+ObjectId("5e4e2e36dbd3e62f6ebce517"),330,Reade St & Broadway,40.71450451,-74.00562789
+ObjectId("5e4e2e36dbd3e62f6ebce518"),3300,Prospect Park West & 8 St,40.66514682,-73.97637606
+ObjectId("5e4e2e36dbd3e62f6ebce519"),3301,Columbus Ave & W 95 St,40.7919557,-73.968087
+ObjectId("5e4e2e36dbd3e62f6ebce51a"),3302,Columbus Ave & W 103 St,40.7969347,-73.96434123
+ObjectId("5e4e2e36dbd3e62f6ebce51b"),3303,Butler St & Court St,40.6849894,-73.99440329
+ObjectId("5e4e2e36dbd3e62f6ebce51c"),3304,6 Ave & 9 St,40.668127,-73.98377641
+ObjectId("5e4e2e36dbd3e62f6ebce51d"),3305,E 91 St & 2 Ave,40.7811223,-73.94965589
+ObjectId("5e4e2e36dbd3e62f6ebce51e"),3306,10 St & 7 Ave,40.6662078,-73.98199886
+ObjectId("5e4e2e36dbd3e62f6ebce51f"),3307,West End Ave & W 94 St,40.7941654,-73.974124
+ObjectId("5e4e2e36dbd3e62f6ebce520"),3308,Kane St & Clinton St,40.6861758,-73.99645295
+ObjectId("5e4e2e36dbd3e62f6ebce521"),3309,E 97 St & 3 Ave,40.7859201,-73.94860294
+ObjectId("5e4e2e36dbd3e62f6ebce522"),331,Pike St & Monroe St,40.71173107,-73.99193043
+ObjectId("5e4e2e36dbd3e62f6ebce523"),3310,14 St & 7 Ave,40.663779,-73.98396846
+ObjectId("5e4e2e36dbd3e62f6ebce524"),3311,Columbia St & Kane St,40.68763155,-74.0016256
+ObjectId("5e4e2e36dbd3e62f6ebce525"),3312,1 Ave & E 94 St,40.7817212,-73.94594
+ObjectId("5e4e2e36dbd3e62f6ebce526"),3313,6 Ave & 12 St,40.6663181,-73.9854617
+ObjectId("5e4e2e36dbd3e62f6ebce527"),3314,W 95 St & Broadway,40.7937704,-73.971888
+ObjectId("5e4e2e36dbd3e62f6ebce528"),3315,Henry St & Degraw St,40.6847514,-73.99917254
+ObjectId("5e4e2e36dbd3e62f6ebce529"),3317,10 St & 5 Ave,40.6686273,-73.98700053
+ObjectId("5e4e2e36dbd3e62f6ebce52a"),3318,2 Ave & E 96 St,40.7839636,-73.9471673
+ObjectId("5e4e2e36dbd3e62f6ebce52b"),3319,14 St & 5 Ave,40.666287,-73.98895053
+ObjectId("5e4e2e36dbd3e62f6ebce52c"),332,Cherry St,40.71219906,-73.97948148
+ObjectId("5e4e2e36dbd3e62f6ebce52d"),3320,Central Park West & W 100 St,40.79406661,-73.96286845
+ObjectId("5e4e2e36dbd3e62f6ebce52e"),3321,Clinton St & Union St,40.6831164,-73.99785267
+ObjectId("5e4e2e36dbd3e62f6ebce52f"),3322,12 St & 4 Ave,40.668603,-73.9904394
+ObjectId("5e4e2e36dbd3e62f6ebce530"),3323,W 106 St & Central Park West,40.7981856,-73.9605909
+ObjectId("5e4e2e36dbd3e62f6ebce531"),3324,3 Ave & 14 St,40.6685455,-73.99333264
+ObjectId("5e4e2e36dbd3e62f6ebce532"),3325,E 95 St & 3 Ave,40.7849032,-73.950503
+ObjectId("5e4e2e36dbd3e62f6ebce533"),3326,Clinton St & Centre St,40.67434,-74.00194698
+ObjectId("5e4e2e36dbd3e62f6ebce534"),3327,3 Ave & E 100 St,40.7877214,-73.94728331
+ObjectId("5e4e2e36dbd3e62f6ebce535"),3328,W 100 St & Manhattan Ave,40.795,-73.9645
+ObjectId("5e4e2e36dbd3e62f6ebce536"),3329,Degraw St & Smith St,40.6829151,-73.99318208
+ObjectId("5e4e2e36dbd3e62f6ebce537"),3330,Henry St & Bay St,40.6725058,-74.00494695
+ObjectId("5e4e2e36dbd3e62f6ebce538"),3331,Riverside Dr & W 104 St,40.8013434,-73.97114574
+ObjectId("5e4e2e36dbd3e62f6ebce539"),3332,Degraw St & Hoyt St,40.68199044,-73.99079025
+ObjectId("5e4e2e36dbd3e62f6ebce53a"),3333,Columbia St & Lorraine St,40.6747055,-74.0075572
+ObjectId("5e4e2e36dbd3e62f6ebce53b"),3335,Union St & 4 Ave,40.6772744,-73.98282002
+ObjectId("5e4e2e36dbd3e62f6ebce53c"),3336,E 97 St & Madison Ave,40.787801,-73.953559
+ObjectId("5e4e2e36dbd3e62f6ebce53d"),3337,Dwight St & Van Dyke St,40.67363551,-74.01195556
+ObjectId("5e4e2e36dbd3e62f6ebce53e"),3338,2 Ave & E 99 St,40.7862586,-73.94552579
+ObjectId("5e4e2e36dbd3e62f6ebce53f"),3339,Berkeley Pl & 6 Ave,40.6765304,-73.97846879
+ObjectId("5e4e2e36dbd3e62f6ebce540"),334,W 20 St & 7 Ave,40.74238787,-73.99726235
+ObjectId("5e4e2e36dbd3e62f6ebce541"),3340,Wolcott St & Dwight St,40.6753274,-74.0100698
+ObjectId("5e4e2e36dbd3e62f6ebce542"),3341,Central Park West & W 102 St,40.795346,-73.96186
+ObjectId("5e4e2e36dbd3e62f6ebce543"),3342,Pioneer St & Richards St,40.6777748,-74.0094613
+ObjectId("5e4e2e36dbd3e62f6ebce544"),3343,W 107 St & Columbus Ave,40.7997568,-73.96211287
+ObjectId("5e4e2e36dbd3e62f6ebce545"),3344,Pioneer St & Van Brunt St,40.679043,-74.011169
+ObjectId("5e4e2e36dbd3e62f6ebce546"),3345,Madison Ave & E 99 St,40.78948542,-73.95242929
+ObjectId("5e4e2e36dbd3e62f6ebce547"),3346,Berkeley Pl & 7 Ave,40.67514684,-73.97523209
+ObjectId("5e4e2e36dbd3e62f6ebce548"),3347,Van Brunt St & Wolcott St,40.6773429,-74.01275056
+ObjectId("5e4e2e36dbd3e62f6ebce549"),3348,Coffey St & Conover St,40.677236,-74.015665
+ObjectId("5e4e2e36dbd3e62f6ebce54a"),3349,Grand Army Plaza & Plaza St West,40.6729679,-73.97087984
+ObjectId("5e4e2e36dbd3e62f6ebce54b"),335,Washington Pl & Broadway,40.72903917,-73.99404649
+ObjectId("5e4e2e36dbd3e62f6ebce54c"),3350,W 100 St & Broadway,40.7973721,-73.97041192
+ObjectId("5e4e2e36dbd3e62f6ebce54d"),3351,E 102 St & 1 Ave,40.7869946,-73.94164802
+ObjectId("5e4e2e36dbd3e62f6ebce54e"),3352,Sigourney St & Columbia St,40.67267243,-74.00879525
+ObjectId("5e4e2e36dbd3e62f6ebce54f"),3354,3 St & Prospect Park West,40.668132,-73.97363831
+ObjectId("5e4e2e36dbd3e62f6ebce550"),3355,E 66 St & Madison Ave,40.76800889,-73.96845281
+ObjectId("5e4e2e36dbd3e62f6ebce551"),3356,Amsterdam Ave & W 66 St,40.7746671,-73.98470567
+ObjectId("5e4e2e36dbd3e62f6ebce552"),3357,W 106 St & Amsterdam Ave,40.8008363,-73.96644925
+ObjectId("5e4e2e36dbd3e62f6ebce553"),3358,Garfield Pl & 8 Ave,40.6711978,-73.97484126
+ObjectId("5e4e2e36dbd3e62f6ebce554"),3359,E 68 St & Madison Ave,40.7691572,-73.96703464
+ObjectId("5e4e2e36dbd3e62f6ebce555"),336,Sullivan St & Washington Sq,40.73047747,-73.99906065
+ObjectId("5e4e2e36dbd3e62f6ebce556"),3360,Amsterdam Ave & W 79 St,40.7829391,-73.9786517
+ObjectId("5e4e2e36dbd3e62f6ebce557"),3362,Madison Ave & E 82 St,40.7781314,-73.96069399
+ObjectId("5e4e2e36dbd3e62f6ebce558"),3363,E 102 St & Park Ave,40.7904828,-73.95033068
+ObjectId("5e4e2e36dbd3e62f6ebce559"),3364,Carroll St & 5 Ave,40.6751622,-73.9814832
+ObjectId("5e4e2e36dbd3e62f6ebce55a"),3365,3 St & 7 Ave,40.6703837,-73.97839676
+ObjectId("5e4e2e36dbd3e62f6ebce55b"),3366,West End Ave & W 107 St,40.8021174,-73.96818053
+ObjectId("5e4e2e36dbd3e62f6ebce55c"),3367,5 Ave & E 103 St,40.7922553,-73.95249933
+ObjectId("5e4e2e36dbd3e62f6ebce55d"),3368,5 Ave & 3 St,40.6728155,-73.98352355
+ObjectId("5e4e2e36dbd3e62f6ebce55e"),3369,E 82 St & East End Ave,40.7724607,-73.9468208
+ObjectId("5e4e2e36dbd3e62f6ebce55f"),337,Old Slip & Front St,40.7037992,-74.00838676
+ObjectId("5e4e2e36dbd3e62f6ebce560"),3370,E 78 St & 2 Ave,40.7727966,-73.95577801
+ObjectId("5e4e2e36dbd3e62f6ebce561"),3372,E 74 St & 1 Ave,40.7689738,-73.95482273
+ObjectId("5e4e2e36dbd3e62f6ebce562"),3373,3 St & 3 Ave,40.6750705,-73.98775226
+ObjectId("5e4e2e36dbd3e62f6ebce563"),3374,Central Park North & Adam Clayton Powell Blvd,40.799484,-73.955613
+ObjectId("5e4e2e36dbd3e62f6ebce564"),3375,3 Ave & E 72 St,40.7699426,-73.96060712
+ObjectId("5e4e2e36dbd3e62f6ebce565"),3376,E 65 St & 2 Ave,40.76471852,-73.9622207
+ObjectId("5e4e2e36dbd3e62f6ebce566"),3377,Carroll St & Bond St,40.6786115,-73.99037292
+ObjectId("5e4e2e36dbd3e62f6ebce567"),3378,E 76 St & Park Ave,40.773763,-73.96222088
+ObjectId("5e4e2e36dbd3e62f6ebce568"),3379,E 103 St & Lexington Ave,40.7903051,-73.94755757
+ObjectId("5e4e2e36dbd3e62f6ebce569"),3381,3 St & Hoyt St,40.6777287,-73.99364123
+ObjectId("5e4e2e36dbd3e62f6ebce56a"),3382,Carroll St & Smith St,40.680611,-73.99475825
+ObjectId("5e4e2e36dbd3e62f6ebce56b"),3383,Cathedral Pkwy & Broadway,40.804213,-73.96699104
+ObjectId("5e4e2e36dbd3e62f6ebce56c"),3384,Smith St & 3 St,40.6787242,-73.99599099
+ObjectId("5e4e2e36dbd3e62f6ebce56d"),3386,1 Pl & Clinton St,40.6809591,-73.99905709
+ObjectId("5e4e2e36dbd3e62f6ebce56e"),3387,E 106 St & Madison Ave,40.7934337,-73.94945003
+ObjectId("5e4e2e36dbd3e62f6ebce56f"),3388,President St & Henry St,40.6828003,-73.99990419
+ObjectId("5e4e2e36dbd3e62f6ebce570"),3389,Carroll St & Columbia St,40.6830456,-74.00348559
+ObjectId("5e4e2e36dbd3e62f6ebce571"),339,Avenue D & E 12 St,40.72580614,-73.97422494
+ObjectId("5e4e2e36dbd3e62f6ebce572"),3390,E 109 St & 3 Ave,40.79329668,-73.9432083
+ObjectId("5e4e2e36dbd3e62f6ebce573"),3391,E 106 St & 1 Ave,40.7892529,-73.93956237
+ObjectId("5e4e2e36dbd3e62f6ebce574"),3392,Commerce St & Van Brunt St,40.6812117,-74.00860912
+ObjectId("5e4e2e36dbd3e62f6ebce575"),3393,Richards St & Delavan St,40.6794327,-74.00785041
+ObjectId("5e4e2e36dbd3e62f6ebce576"),3394,Columbia St & W 9 St,40.6769993,-74.00647134
+ObjectId("5e4e2e36dbd3e62f6ebce577"),3395,Henry St & W 9 St,40.6763744,-74.00324957
+ObjectId("5e4e2e36dbd3e62f6ebce578"),3396,Clinton St & 4 Place,40.6783563,-74.00014502
+ObjectId("5e4e2e36dbd3e62f6ebce579"),3397,Court St & Nelson St,40.6763947,-73.99869893
+ObjectId("5e4e2e36dbd3e62f6ebce57a"),3398,Smith St & 9 St,40.6746957,-73.99785768
+ObjectId("5e4e2e36dbd3e62f6ebce57b"),3399,7 St & 3 Ave,40.67260298,-73.98983002
+ObjectId("5e4e2e36dbd3e62f6ebce57c"),340,Madison St & Clinton St,40.71269042,-73.98776323
+ObjectId("5e4e2e36dbd3e62f6ebce57d"),3400,E 110 St & Madison Ave,40.7961535,-73.94782145
+ObjectId("5e4e2e36dbd3e62f6ebce57e"),3402,Court St & State St,40.6902375,-73.99203074
+ObjectId("5e4e2e36dbd3e62f6ebce57f"),3403,4 Ave & 9 St,40.6705135,-73.98876585
+ObjectId("5e4e2e36dbd3e62f6ebce580"),3404,7 St & 5 Ave,40.6704922,-73.98541675
+ObjectId("5e4e2e36dbd3e62f6ebce581"),3405,5 St & 6 Ave,40.6704836,-73.98208968
+ObjectId("5e4e2e36dbd3e62f6ebce582"),3407,Union St & Nevins St,40.679098,-73.98765475
+ObjectId("5e4e2e36dbd3e62f6ebce583"),3408,Congress St & Clinton St,40.6881529,-73.99520919
+ObjectId("5e4e2e36dbd3e62f6ebce584"),3409,Bergen St & Smith St,40.6867443,-73.99063168
+ObjectId("5e4e2e36dbd3e62f6ebce585"),341,Stanton St & Mangin St,40.71782143,-73.97628939
+ObjectId("5e4e2e36dbd3e62f6ebce586"),3410,Dean St & Hoyt St,40.6864442,-73.98759104
+ObjectId("5e4e2e36dbd3e62f6ebce587"),3411,Bond St & Bergen St,40.6849668,-73.98620772
+ObjectId("5e4e2e36dbd3e62f6ebce588"),3412,Pacific St & Nevins St,40.6853761,-73.98302136
+ObjectId("5e4e2e36dbd3e62f6ebce589"),3413,Wyckoff St & 3 Ave,40.6827549,-73.98258555
+ObjectId("5e4e2e36dbd3e62f6ebce58a"),3414,Bergen St & Flatbush Ave,40.68094472,-73.97567332
+ObjectId("5e4e2e36dbd3e62f6ebce58b"),3415,Prospect Pl & 6 Ave,40.6793307,-73.97519523
+ObjectId("5e4e2e36dbd3e62f6ebce58c"),3416,7 Ave & Park Pl,40.6776147,-73.97324283
+ObjectId("5e4e2e36dbd3e62f6ebce58d"),3417,Baltic St & 5 Ave,40.6795766,-73.97854971
+ObjectId("5e4e2e36dbd3e62f6ebce58e"),3418,Plaza St West & Flatbush Ave,40.6750207,-73.97111473
+ObjectId("5e4e2e36dbd3e62f6ebce58f"),3419,Douglass St & 4 Ave,40.6792788,-73.98154004
+ObjectId("5e4e2e36dbd3e62f6ebce590"),342,Columbia St & Rivington St,40.71739973,-73.98016555
+ObjectId("5e4e2e36dbd3e62f6ebce591"),3420,Douglass St & 3 Ave,40.6802133,-73.98432695
+ObjectId("5e4e2e36dbd3e62f6ebce592"),3422,Columbia St & Degraw St,40.6859296,-74.00242364
+ObjectId("5e4e2e36dbd3e62f6ebce593"),3423,West Drive & Prospect Park West,40.66106337,-73.97945255
+ObjectId("5e4e2e36dbd3e62f6ebce594"),3424,E 106 St & Lexington Ave,40.791976,-73.945993
+ObjectId("5e4e2e36dbd3e62f6ebce595"),3425,2 Ave & E 104 St,40.7892105,-73.94370784
+ObjectId("5e4e2e36dbd3e62f6ebce596"),3429,Hanson Pl & Ashland Pl,40.68506807,-73.9779076
+ObjectId("5e4e2e36dbd3e62f6ebce597"),343,Clinton Ave & Flushing Ave,40.69794,-73.96986848
+ObjectId("5e4e2e36dbd3e62f6ebce598"),3430,Richardson St & N Henry St,40.71907891,-73.9422369
+ObjectId("5e4e2e36dbd3e62f6ebce599"),3435,Grand St & Elizabeth St,40.718822,-73.99596
+ObjectId("5e4e2e36dbd3e62f6ebce59a"),3437,Riverside Dr & W 91 St,40.79313481,-73.97700369
+ObjectId("5e4e2e36dbd3e62f6ebce59b"),344,Monroe St & Bedford Ave,40.6851443,-73.95380904
+ObjectId("5e4e2e36dbd3e62f6ebce59c"),3440,Fulton St & Adams St,40.69241829,-73.98949474
+ObjectId("5e4e2e36dbd3e62f6ebce59d"),3441,10 Hudson Yards,40.752957,-74.00264
+ObjectId("5e4e2e36dbd3e62f6ebce59e"),3443,W 52 St & 6 Ave,40.76132983,-73.97982001
+ObjectId("5e4e2e36dbd3e62f6ebce59f"),3449,Eckford St & Engert Ave,40.72146256,-73.94800901
+ObjectId("5e4e2e36dbd3e62f6ebce5a0"),3452,Bayard St & Leonard St,40.71915572,-73.94885391
+ObjectId("5e4e2e36dbd3e62f6ebce5a1"),3453,Devoe St & Lorimer St,40.71335226,-73.94910336
+ObjectId("5e4e2e36dbd3e62f6ebce5a2"),3454,Leonard St & Maujer St,40.71036854,-73.94705951
+ObjectId("5e4e2e36dbd3e62f6ebce5a3"),3456,Jackson St & Leonard St,40.71638032,-73.94821286
+ObjectId("5e4e2e36dbd3e62f6ebce5a4"),3457,E 58 St & Madison Ave,40.76302594,-73.97209525
+ObjectId("5e4e2e36dbd3e62f6ebce5a5"),3459,E 53 St & 3 Ave,40.75763228,-73.96930575
+ObjectId("5e4e2e36dbd3e62f6ebce5a6"),346,Bank St & Hudson St,40.73652889,-74.00618026
+ObjectId("5e4e2e36dbd3e62f6ebce5a7"),3461,Murray St & Greenwich St,40.71485151,-74.01122332
+ObjectId("5e4e2e36dbd3e62f6ebce5a8"),3463,E 16 St & Irving Pl,40.73536706,-73.98797393
+ObjectId("5e4e2e36dbd3e62f6ebce5a9"),3467,W Broadway & Spring Street,40.72494672,-74.00165856
+ObjectId("5e4e2e36dbd3e62f6ebce5aa"),3469,India St & West St,40.73181402,-73.95995021
+ObjectId("5e4e2e36dbd3e62f6ebce5ab"),347,Greenwich St & W Houston St,40.728846,-74.008591
+ObjectId("5e4e2e36dbd3e62f6ebce5ac"),3472,W 15 St & 10 Ave,40.74275383,-74.00747359
+ObjectId("5e4e2e36dbd3e62f6ebce5ad"),3477,39 St & 2 Ave - Citi Bike HQ at Industry City,40.65539977,-74.01062787
+ObjectId("5e4e2e36dbd3e62f6ebce5ae"),3478,2 Ave & 36 St - Citi Bike HQ at Industry City,40.65708867,-74.00870204
+ObjectId("5e4e2e36dbd3e62f6ebce5af"),3479,Picnic Point,40.6851256,-74.02535319
+ObjectId("5e4e2e36dbd3e62f6ebce5b0"),3486,Schermerhorn St & Bond St,40.68841743,-73.98451656
+ObjectId("5e4e2e36dbd3e62f6ebce5b1"),349,Rivington St & Ridge St,40.71850211,-73.98329859
+ObjectId("5e4e2e36dbd3e62f6ebce5b2"),3490,E 116 St & 2 Ave,40.796879,-73.937261
+ObjectId("5e4e2e36dbd3e62f6ebce5b3"),3491,E 118 St & 1 Ave,40.79747,-73.93504
+ObjectId("5e4e2e36dbd3e62f6ebce5b4"),3492,E 118 St & Park Ave,40.8005385,-73.9419949
+ObjectId("5e4e2e36dbd3e62f6ebce5b5"),3493,E 118 St & 3 Ave,40.799139,-73.9389152
+ObjectId("5e4e2e36dbd3e62f6ebce5b6"),3494,E 115 St & Lexington Ave,40.797911,-73.9423
+ObjectId("5e4e2e36dbd3e62f6ebce5b7"),3495,E 114 St & 1 Ave,40.7945663,-73.9362541
+ObjectId("5e4e2e36dbd3e62f6ebce5b8"),3496,1 Ave & E 110 St,40.7923272,-73.9383
+ObjectId("5e4e2e36dbd3e62f6ebce5b9"),3497,Pleasant Ave & E 116 St,40.7949879,-73.9333349
+ObjectId("5e4e2e36dbd3e62f6ebce5ba"),3498,Pleasant Ave & E 120 St,40.7974772,-73.9311847
+ObjectId("5e4e2e36dbd3e62f6ebce5bb"),3499,2 Ave & E 122 St,40.8006721,-73.9349
+ObjectId("5e4e2e36dbd3e62f6ebce5bc"),350,Clinton St & Grand St,40.71559509,-73.9870295
+ObjectId("5e4e2e36dbd3e62f6ebce5bd"),3500,E 115 St & Madison Ave,40.7989445,-73.944846
+ObjectId("5e4e2e36dbd3e62f6ebce5be"),3501,E 118 St & Madison Ave,40.8014866,-73.9442507
+ObjectId("5e4e2e36dbd3e62f6ebce5bf"),3502,Lexington Ave & E 111 St,40.7954121,-73.9441232
+ObjectId("5e4e2e36dbd3e62f6ebce5c0"),3503,Madison Ave & E 120 St,40.80295,-73.942954
+ObjectId("5e4e2e36dbd3e62f6ebce5c1"),3504,E 123 St & Lexington Ave,40.8029263,-73.9379
+ObjectId("5e4e2e36dbd3e62f6ebce5c2"),3505,Lexington Ave & E 127 St,40.805726,-73.936322
+ObjectId("5e4e2e36dbd3e62f6ebce5c3"),3506,Lexington Ave & E 120 St,40.8013066,-73.9398167
+ObjectId("5e4e2e36dbd3e62f6ebce5c4"),3507,Park Ave & E 124 St,40.8045555,-73.9396861
+ObjectId("5e4e2e36dbd3e62f6ebce5c5"),3508,St Nicholas Ave & Manhattan Ave,40.809725,-73.953149
+ObjectId("5e4e2e36dbd3e62f6ebce5c6"),3509,Lenox Ave & W 115 St,40.8011939,-73.9500739
+ObjectId("5e4e2e36dbd3e62f6ebce5c7"),351,Front St & Maiden Ln,40.70530954,-74.00612572
+ObjectId("5e4e2e36dbd3e62f6ebce5c8"),3510,Adam Clayton Powell Blvd & W 123 St,40.8078316,-73.949373
+ObjectId("5e4e2e36dbd3e62f6ebce5c9"),3511,Adam Clayton Powell Blvd & W 115 St,40.802535,-73.9532423
+ObjectId("5e4e2e36dbd3e62f6ebce5ca"),3513,21 St & Hoyt Ave S,40.774645,-73.923706
+ObjectId("5e4e2e36dbd3e62f6ebce5cb"),3514,Astoria Park S & Shore Blvd,40.7767,-73.927631
+ObjectId("5e4e2e36dbd3e62f6ebce5cc"),3515,24 Ave & 26 St,40.774591,-73.918544
+ObjectId("5e4e2e36dbd3e62f6ebce5cd"),3516,31 St & Astoria Blvd,40.7699176,-73.9184057
+ObjectId("5e4e2e36dbd3e62f6ebce5ce"),3517,31 St & Hoyt Ave N,40.7711528,-73.9170074
+ObjectId("5e4e2e36dbd3e62f6ebce5cf"),3518,Lenox Ave & W 126 St,40.808442,-73.9452087
+ObjectId("5e4e2e36dbd3e62f6ebce5d0"),3520,Adam Clayton Powell Blvd & W 118 St,40.804372,-73.951475
+ObjectId("5e4e2e36dbd3e62f6ebce5d1"),3521,Lenox Ave & W 111 St,40.7987859,-73.9523
+ObjectId("5e4e2e36dbd3e62f6ebce5d2"),3522,37 St & 24 Ave,40.7701477,-73.9120938
+ObjectId("5e4e2e36dbd3e62f6ebce5d3"),3523,24 Ave & 29 St,40.7729,-73.916142
+ObjectId("5e4e2e36dbd3e62f6ebce5d4"),3524,19 St & 24 Ave,40.7774552,-73.9225403
+ObjectId("5e4e2e36dbd3e62f6ebce5d5"),3525,23 Ave & 27 St,40.776165,-73.9153175
+ObjectId("5e4e2e36dbd3e62f6ebce5d6"),3526,31 St & 23 Ave,40.7747878,-73.9125551
+ObjectId("5e4e2e36dbd3e62f6ebce5d7"),3527,5 Ave & E 126 St,40.80698,-73.941747
+ObjectId("5e4e2e36dbd3e62f6ebce5d8"),3528,Steinway St & 23 Ave,40.7713937,-73.9077436
+ObjectId("5e4e2e36dbd3e62f6ebce5d9"),3529,Lenox Ave & W 130 St,40.8107922,-73.9430681
+ObjectId("5e4e2e36dbd3e62f6ebce5da"),353,S Portland Ave & Hanson Pl,40.68539567,-73.97431458
+ObjectId("5e4e2e36dbd3e62f6ebce5db"),3530,Crescent St & Ditmars Blvd,40.7787185,-73.9145645
+ObjectId("5e4e2e36dbd3e62f6ebce5dc"),3531,Frederick Douglass Blvd & W 129 St,40.8125511,-73.9492286
+ObjectId("5e4e2e36dbd3e62f6ebce5dd"),3532,Ditmars Blvd & 19 St,40.78145,-73.9183302
+ObjectId("5e4e2e36dbd3e62f6ebce5de"),3533,St. Nicholas Ave & W 126 St,40.8114323,-73.9518776
+ObjectId("5e4e2e36dbd3e62f6ebce5df"),3534,Frederick Douglass Blvd & W 117 St,40.805159,-73.954692
+ObjectId("5e4e2e36dbd3e62f6ebce5e0"),3535,Mt Morris Park W & W 120 St,40.804038,-73.945925
+ObjectId("5e4e2e36dbd3e62f6ebce5e1"),3536,W 116 St & Broadway,40.8082,-73.9641
+ObjectId("5e4e2e36dbd3e62f6ebce5e2"),3537,Carlton Ave & Dean St,40.6809741,-73.9710097
+ObjectId("5e4e2e36dbd3e62f6ebce5e3"),3538,W 110 St & Amsterdam Ave,40.802692,-73.96295
+ObjectId("5e4e2e36dbd3e62f6ebce5e4"),3539,W 116 St & Amsterdam Ave,40.8067581,-73.9607082
+ObjectId("5e4e2e36dbd3e62f6ebce5e5"),354,Emerson Pl & Myrtle Ave,40.69363137,-73.96223558
+ObjectId("5e4e2e36dbd3e62f6ebce5e6"),3540,Morningside Ave & W 123 St,40.81,-73.9551508
+ObjectId("5e4e2e36dbd3e62f6ebce5e7"),3541,Amsterdam Ave & W 125 St,40.813358,-73.956461
+ObjectId("5e4e2e36dbd3e62f6ebce5e8"),3542,Amsterdam Ave & W 119 St,40.8086249,-73.9596214
+ObjectId("5e4e2e36dbd3e62f6ebce5e9"),3543,Morningside Dr & Amsterdam Ave,40.81028506,-73.95736456
+ObjectId("5e4e2e36dbd3e62f6ebce5ea"),3544,Underhill Ave & Pacific St,40.6804836,-73.9646795
+ObjectId("5e4e2e36dbd3e62f6ebce5eb"),3545,Broadway & W 122 St,40.8120562,-73.9612547
+ObjectId("5e4e2e36dbd3e62f6ebce5ec"),3546,Pacific St & Classon Ave,40.6791944,-73.9587903
+ObjectId("5e4e2e36dbd3e62f6ebce5ed"),3547,Broadway & Moylan Pl,40.8143256,-73.9590255
+ObjectId("5e4e2e36dbd3e62f6ebce5ee"),3549,Grand Ave & Bergen St,40.678045,-73.962408
+ObjectId("5e4e2e36dbd3e62f6ebce5ef"),355,Bayard St & Baxter St,40.71602118,-73.99974372
+ObjectId("5e4e2e36dbd3e62f6ebce5f0"),3551,3 Ave & E 112 St,40.795508,-73.941606
+ObjectId("5e4e2e36dbd3e62f6ebce5f1"),3552,W 113 St & Broadway,40.805973,-73.964928
+ObjectId("5e4e2e36dbd3e62f6ebce5f2"),3553,Frederick Douglass Blvd & W 112 St,40.801694,-73.957145
+ObjectId("5e4e2e36dbd3e62f6ebce5f3"),3554,Vernon Blvd & 41 Rd,40.7552433,-73.9485678
+ObjectId("5e4e2e36dbd3e62f6ebce5f4"),3555,28 St & 41 Ave,40.751047,-73.93797
+ObjectId("5e4e2e36dbd3e62f6ebce5f5"),3556,24 St & 41 Ave,40.7527085,-73.9397405
+ObjectId("5e4e2e36dbd3e62f6ebce5f6"),3557,40 Ave & 9 St,40.75742,-73.945133
+ObjectId("5e4e2e36dbd3e62f6ebce5f7"),3558,Bergen St & Vanderbilt Ave,40.6794388,-73.9680438
+ObjectId("5e4e2e36dbd3e62f6ebce5f8"),3559,21 St & 38 Ave,40.7576314,-73.9391224
+ObjectId("5e4e2e36dbd3e62f6ebce5f9"),356,Bialystoker Pl & Delancey St,40.71622644,-73.98261206
+ObjectId("5e4e2e36dbd3e62f6ebce5fa"),3560,28 St & 38 Ave,40.754876,-73.934326
+ObjectId("5e4e2e36dbd3e62f6ebce5fb"),3561,37 Ave & 35 St,40.7531106,-73.9279917
+ObjectId("5e4e2e36dbd3e62f6ebce5fc"),3562,Classon Ave & St Marks Ave,40.6765198,-73.9596082
+ObjectId("5e4e2e36dbd3e62f6ebce5fd"),3563,28 St & 36 Ave,40.757186,-73.932719
+ObjectId("5e4e2e36dbd3e62f6ebce5fe"),3564,21 St & 36 Ave,40.7601853,-73.9362726
+ObjectId("5e4e2e36dbd3e62f6ebce5ff"),3565,36 Ave & 10 St,40.7614376,-73.9411265
+ObjectId("5e4e2e36dbd3e62f6ebce600"),3566,Crescent St & 35 Ave,40.7596276,-73.9321455
+ObjectId("5e4e2e36dbd3e62f6ebce601"),3567,11 St & 35 Ave,40.7627442,-73.9391141
+ObjectId("5e4e2e36dbd3e62f6ebce602"),3568,34 St & 35 Ave,40.7569332,-73.9262231
+ObjectId("5e4e2e36dbd3e62f6ebce603"),3569,Franklin Ave & St Marks Ave,40.6758324,-73.9561677
+ObjectId("5e4e2e36dbd3e62f6ebce604"),3570,35 Ave & 37 St,40.7557327,-73.9236611
+ObjectId("5e4e2e36dbd3e62f6ebce605"),3571,Bedford Ave & Bergen St,40.676368,-73.952918
+ObjectId("5e4e2e36dbd3e62f6ebce606"),3572,34 Ave & 38 St,40.756913,-73.921631
+ObjectId("5e4e2e36dbd3e62f6ebce607"),3573,35 St & 34 Ave,40.7580583,-73.9242751
+ObjectId("5e4e2e36dbd3e62f6ebce608"),3574,Prospect Pl & Underhill Ave,40.6769694,-73.96579
+ObjectId("5e4e2e36dbd3e62f6ebce609"),3575,Crescent St & 34 Ave,40.76108,-73.930562
+ObjectId("5e4e2e36dbd3e62f6ebce60a"),3576,Park Pl & Vanderbilt Ave,40.6767,-73.969024
+ObjectId("5e4e2e36dbd3e62f6ebce60b"),3577,34 Ave & 21 St,40.7628138,-73.9342862
+ObjectId("5e4e2e36dbd3e62f6ebce60c"),3578,Park Pl & Franklin Ave,40.6741806,-73.9564947
+ObjectId("5e4e2e36dbd3e62f6ebce60d"),3579,Sterling Pl & Bedford Ave,40.672695,-73.954131
+ObjectId("5e4e2e36dbd3e62f6ebce60e"),358,Christopher St & Greenwich St,40.73291553,-74.00711384
+ObjectId("5e4e2e36dbd3e62f6ebce60f"),3580,St Johns Pl & Washington Ave,40.6737236,-73.9631611
+ObjectId("5e4e2e36dbd3e62f6ebce610"),3581,Underhill Ave & Lincoln Pl,40.6740123,-73.9671457
+ObjectId("5e4e2e36dbd3e62f6ebce611"),3582,Lincoln Pl & Classon Ave,40.6721683,-73.9609
+ObjectId("5e4e2e36dbd3e62f6ebce612"),3583,Eastern Pkwy & Washington Ave,40.6716493,-73.9631145
+ObjectId("5e4e2e36dbd3e62f6ebce613"),3584,Eastern Pkwy & Franklin Ave,40.6707767,-73.9576801
+ObjectId("5e4e2e36dbd3e62f6ebce614"),3585,Union St & Bedford Ave,40.6691783,-73.9554162
+ObjectId("5e4e2e36dbd3e62f6ebce615"),3586,34 Ave & 13 St,40.7638753,-73.9364848
+ObjectId("5e4e2e36dbd3e62f6ebce616"),3587,Carroll St & Washington Ave,40.6686744,-73.9618148
+ObjectId("5e4e2e36dbd3e62f6ebce617"),3588,Vernon Blvd & 10 St,40.7671863,-73.9373554
+ObjectId("5e4e2e36dbd3e62f6ebce618"),3589,Broadway & 12 St,40.7668,-73.9347774
+ObjectId("5e4e2e36dbd3e62f6ebce619"),359,E 47 St & Park Ave,40.75510267,-73.97498696
+ObjectId("5e4e2e36dbd3e62f6ebce61a"),3590,Carroll St & Franklin Ave,40.6679411,-73.9588
+ObjectId("5e4e2e36dbd3e62f6ebce61b"),3591,21 St & 31 Dr,40.7659,-73.930819
+ObjectId("5e4e2e36dbd3e62f6ebce61c"),3592,Crescent St & Broadway,40.7633589,-73.9286471
+ObjectId("5e4e2e36dbd3e62f6ebce61d"),3593,31 St & Broadway,40.761584,-73.925921
+ObjectId("5e4e2e36dbd3e62f6ebce61e"),3595,35 St & Broadway,40.760339,-73.9222427
+ObjectId("5e4e2e36dbd3e62f6ebce61f"),3596,Sullivan Pl & Bedford Ave,40.6642406,-73.9574686
+ObjectId("5e4e2e36dbd3e62f6ebce620"),3597,43 St & Broadway,40.7577284,-73.9166368
+ObjectId("5e4e2e36dbd3e62f6ebce621"),3598,Newton Rd & 44 St,40.7595701,-73.9142678
+ObjectId("5e4e2e36dbd3e62f6ebce622"),3599,Franklin Ave & Empire Blvd,40.66314,-73.9605695
+ObjectId("5e4e2e36dbd3e62f6ebce623"),360,William St & Pine St,40.70717936,-74.00887308
+ObjectId("5e4e2e36dbd3e62f6ebce624"),3601,Sterling St & Bedford Ave,40.6627059,-73.9569115
+ObjectId("5e4e2e36dbd3e62f6ebce625"),3602,31 Ave & 34 St,40.763154,-73.920827
+ObjectId("5e4e2e36dbd3e62f6ebce626"),3603,31 Ave & 30 St,40.7647,-73.9240312
+ObjectId("5e4e2e36dbd3e62f6ebce627"),3604,Rogers Ave & Sterling St,40.6630619,-73.9538746
+ObjectId("5e4e2e36dbd3e62f6ebce628"),3605,31 Ave & Crescent St,40.7658346,-73.9265474
+ObjectId("5e4e2e36dbd3e62f6ebce629"),3606,49 Ave & 21 St,40.74252,-73.948852
+ObjectId("5e4e2e36dbd3e62f6ebce62a"),3607,31 Ave & 14 St,40.7682,-73.9322662
+ObjectId("5e4e2e36dbd3e62f6ebce62b"),3608,5 St & 51 Ave,40.7423737,-73.9566
+ObjectId("5e4e2e36dbd3e62f6ebce62c"),3609,Vernon Blvd & 31 Ave,40.7692475,-73.9354504
+ObjectId("5e4e2e36dbd3e62f6ebce62d"),361,Allen St & Hester St,40.71605866,-73.99190759
+ObjectId("5e4e2e36dbd3e62f6ebce62e"),3610,Vernon Blvd & 30 Rd,40.770845,-73.934171
+ObjectId("5e4e2e36dbd3e62f6ebce62f"),3611,Vernon Blvd & 47 Rd,40.7449067,-73.9534573
+ObjectId("5e4e2e36dbd3e62f6ebce630"),3612,30 Ave & 21 St,40.7703743,-73.9286078
+ObjectId("5e4e2e36dbd3e62f6ebce631"),3613,Center Blvd & 48 Ave,40.745038,-73.957539
+ObjectId("5e4e2e36dbd3e62f6ebce632"),3614,Crescent St & 30 Ave,40.768692,-73.9249574
+ObjectId("5e4e2e36dbd3e62f6ebce633"),3615,44 Dr & 21 St,40.748,-73.9460927
+ObjectId("5e4e2e36dbd3e62f6ebce634"),3616,Steinway St & 28 Ave,40.7656251,-73.9136695
+ObjectId("5e4e2e36dbd3e62f6ebce635"),3617,28 Ave & 35 St,40.7671,-73.9169858
+ObjectId("5e4e2e36dbd3e62f6ebce636"),3618,27 St & Hunter St,40.7485,-73.941275
+ObjectId("5e4e2e36dbd3e62f6ebce637"),3619,Newtown Ave & 23 St,40.7713615,-73.9246145
+ObjectId("5e4e2e36dbd3e62f6ebce638"),362,Broadway & W 37 St,40.75172632,-73.98753523
+ObjectId("5e4e2e36dbd3e62f6ebce639"),3620,11 St & 43 Ave,40.7519071,-73.9479119
+ObjectId("5e4e2e36dbd3e62f6ebce63a"),3621,27 Ave & 9 St,40.7739825,-73.9309134
+ObjectId("5e4e2e36dbd3e62f6ebce63b"),3622,E 128 St & Madison Ave,40.80756,-73.939182
+ObjectId("5e4e2e36dbd3e62f6ebce63c"),3623,W 120 St & Claremont Ave,40.8109494,-73.9634
+ObjectId("5e4e2e36dbd3e62f6ebce63d"),3628,Lenox Ave & W 117 St,40.8025566,-73.9490782
+ObjectId("5e4e2e36dbd3e62f6ebce63e"),3629,Adam Clayton Powell Blvd & W 126 St,40.80949535,-73.94776493
+ObjectId("5e4e2e36dbd3e62f6ebce63f"),363,West Thames St,40.70834698,-74.01713445
+ObjectId("5e4e2e36dbd3e62f6ebce640"),3630,Frederick Douglass Blvd & W 115 St,40.8038654,-73.9559308
+ObjectId("5e4e2e36dbd3e62f6ebce641"),3637,Fulton St & Waverly Ave,40.68323865,-73.96599591
+ObjectId("5e4e2e36dbd3e62f6ebce642"),364,Lafayette Ave & Classon Ave,40.68900443,-73.96023854
+ObjectId("5e4e2e36dbd3e62f6ebce643"),3641,Broadway & W 25 St,40.74286877,-73.98918629
+ObjectId("5e4e2e36dbd3e62f6ebce644"),3646,35 Ave & 10 St,40.76315482,-73.9398551
+ObjectId("5e4e2e36dbd3e62f6ebce645"),3647,48 Ave & 30 Pl,40.74128309,-73.93725872
+ObjectId("5e4e2e36dbd3e62f6ebce646"),3648,Flushing Ave & Vanderbilt Ave,40.69795032,-73.9707756
+ObjectId("5e4e2e36dbd3e62f6ebce647"),3649,W 129 St & Convent Ave,40.81439444,-73.95324737
+ObjectId("5e4e2e36dbd3e62f6ebce648"),3654,31 St & Northern Blvd,40.75186951,-73.9334929
+ObjectId("5e4e2e36dbd3e62f6ebce649"),3656,E 2 St & Avenue A,40.72307749,-73.98583621
+ObjectId("5e4e2e36dbd3e62f6ebce64a"),3658,W 18 St & 9 Ave,40.74353373,-74.00367558
+ObjectId("5e4e2e36dbd3e62f6ebce64b"),366,Clinton Ave & Myrtle Ave,40.693261,-73.968896
+ObjectId("5e4e2e36dbd3e62f6ebce64c"),3661,Montgomery St & Franklin Ave,40.66643931,-73.96055639
+ObjectId("5e4e2e36dbd3e62f6ebce64d"),3662,31 Ave & Steinway St,40.7612939,-73.91691685
+ObjectId("5e4e2e36dbd3e62f6ebce64e"),3664,North Moore St & Greenwich St,40.72019521,-74.01030064
+ObjectId("5e4e2e36dbd3e62f6ebce64f"),3668,Leonard St & Nassau Ave,40.72395678,-73.94984365
+ObjectId("5e4e2e36dbd3e62f6ebce650"),3671,E 81 St & 2 Ave,40.77477945,-73.95427465
+ObjectId("5e4e2e36dbd3e62f6ebce651"),3673,Dean St & Franklin Ave,40.67759207,-73.95563722
+ObjectId("5e4e2e36dbd3e62f6ebce652"),3674,Jay St & York St,40.70140317,-73.9867267
+ObjectId("5e4e2e36dbd3e62f6ebce653"),3675,3 Ave & E 95 St,40.7845968,-73.94968539
+ObjectId("5e4e2e36dbd3e62f6ebce654"),3676,Van Brunt St & Van Dyke St,40.67583294,-74.01472628
+ObjectId("5e4e2e36dbd3e62f6ebce655"),368,Carmine St & 6 Ave,40.73038599,-74.00214988
+ObjectId("5e4e2e36dbd3e62f6ebce656"),3680,E 43 St & 5 Ave,40.75412081,-73.98025185
+ObjectId("5e4e2e36dbd3e62f6ebce657"),3686,Gansevoort St & Hudson St,40.7394482,-74.00507033
+ObjectId("5e4e2e36dbd3e62f6ebce658"),3687,E 33 St & 1 Ave,40.74322681,-73.97449784
+ObjectId("5e4e2e36dbd3e62f6ebce659"),3689,W 104 St & Amsterdam Ave,40.79904139,-73.9664948
+ObjectId("5e4e2e36dbd3e62f6ebce65a"),369,Washington Pl & 6 Ave,40.73224119,-74.00026394
+ObjectId("5e4e2e36dbd3e62f6ebce65b"),3690,Park Pl & Church St,40.71334184,-74.00935516
+ObjectId("5e4e2e36dbd3e62f6ebce65c"),3691,28 Ave & 44 St,40.76408932,-73.91065121
+ObjectId("5e4e2e36dbd3e62f6ebce65d"),3692,5 St & Market St,40.69999748,-73.97440128
+ObjectId("5e4e2e36dbd3e62f6ebce65e"),3693,N 11 St & Kent Ave,40.72248189,-73.95921931
+ObjectId("5e4e2e36dbd3e62f6ebce65f"),3697,W 64 St & Thelonious Monk Circle,40.77515953,-73.98918696
+ObjectId("5e4e2e36dbd3e62f6ebce660"),3699,W 50 St & 9 Ave,40.76360468,-73.98917958
+ObjectId("5e4e2e36dbd3e62f6ebce661"),3704,47 Ave & Skillman Ave,40.74375241,-73.94176483
+ObjectId("5e4e2e36dbd3e62f6ebce662"),3707,Lexington Ave & E 26 St,40.741459,-73.983293
+ObjectId("5e4e2e36dbd3e62f6ebce663"),3708,W 13 St & 5 Ave,40.735445,-73.99431
+ObjectId("5e4e2e36dbd3e62f6ebce664"),3711,E 13 St & Avenue A,40.72966729,-73.98067966
+ObjectId("5e4e2e36dbd3e62f6ebce665"),3712,W 35 St & Dyer Ave,40.75469175,-73.99740189
+ObjectId("5e4e2e36dbd3e62f6ebce666"),3714,Division Av & Hooper St,40.70684203,-73.9544354
+ObjectId("5e4e2e36dbd3e62f6ebce667"),3715,Driggs Ave & N 9 St,40.71816969,-73.95520136
+ObjectId("5e4e2e36dbd3e62f6ebce668"),3716,40 Ave & Crescent St,40.7535992,-73.93795609
+ObjectId("5e4e2e36dbd3e62f6ebce669"),3718,E 11 St & Avenue B,40.72746421,-73.97950418
+ObjectId("5e4e2e36dbd3e62f6ebce66a"),372,Franklin Ave & Myrtle Ave,40.69454609,-73.95801365
+ObjectId("5e4e2e36dbd3e62f6ebce66b"),3720,Wyckoff St & Bond St,40.68461654,-73.98721285
+ObjectId("5e4e2e36dbd3e62f6ebce66c"),3721,31 St & Newtown Ave,40.76754878,-73.92093346
+ObjectId("5e4e2e36dbd3e62f6ebce66d"),3723,Cadman Plaza E & Johnson St,40.69531728,-73.99015725
+ObjectId("5e4e2e36dbd3e62f6ebce66e"),3724,7 Ave & Central Park South,40.76674056,-73.97906899
+ObjectId("5e4e2e36dbd3e62f6ebce66f"),3725,2 Ave & E 72 St,40.76876203,-73.95840794
+ObjectId("5e4e2e36dbd3e62f6ebce670"),3726,Center Blvd & 51 Ave,40.74336608,-73.95960689
+ObjectId("5e4e2e36dbd3e62f6ebce671"),3727,Frost St & Meeker Ave,40.71766197,-73.94880027
+ObjectId("5e4e2e36dbd3e62f6ebce672"),3728,Pierrepont St & Monroe Pl,40.69535693,-73.99344027
+ObjectId("5e4e2e36dbd3e62f6ebce673"),373,Willoughby Ave & Walworth St,40.69331716,-73.95381995
+ObjectId("5e4e2e36dbd3e62f6ebce674"),3733,Avenue C & E 18 St,40.730563,-73.973984
+ObjectId("5e4e2e36dbd3e62f6ebce675"),3734,E 58 St &  1 Ave (NW Corner),40.759125,-73.962658
+ObjectId("5e4e2e36dbd3e62f6ebce676"),3737,Stanton St & Norfolk St,40.720747,-73.986274
+ObjectId("5e4e2e36dbd3e62f6ebce677"),3745,36 Ave & 31 St,40.75651273,-73.92957486
+ObjectId("5e4e2e36dbd3e62f6ebce678"),3746,6 Ave & Broome St,40.72430832,-74.00473036
+ObjectId("5e4e2e36dbd3e62f6ebce679"),3747,E 84 St & 3 Ave,40.77755374,-73.9551276
+ObjectId("5e4e2e36dbd3e62f6ebce67a"),3749,Lexington Ave & E 36 St,40.74757396,-73.97880077
+ObjectId("5e4e2e36dbd3e62f6ebce67b"),3755,DeKalb Ave & Franklin Ave,40.69064807,-73.95746179
+ObjectId("5e4e2e36dbd3e62f6ebce67c"),3756,White St & Moore St,40.704508,-73.9351
+ObjectId("5e4e2e36dbd3e62f6ebce67d"),3757,Stagg St & Morgan Ave,40.710681,-73.93372
+ObjectId("5e4e2e36dbd3e62f6ebce67e"),3758,George St & Wilson Ave,40.702997,-73.92997
+ObjectId("5e4e2e36dbd3e62f6ebce67f"),3759,Irving Ave & Jefferson St,40.70538,-73.92535
+ObjectId("5e4e2e36dbd3e62f6ebce680"),376,John St & William St,40.70862144,-74.00722156
+ObjectId("5e4e2e36dbd3e62f6ebce681"),3760,Willoughby Ave & Wyckoff Ave,40.705614,-73.92153
+ObjectId("5e4e2e36dbd3e62f6ebce682"),3761,Cedar St & Myrtle Ave,40.697842,-73.926241
+ObjectId("5e4e2e36dbd3e62f6ebce683"),3762,3 Ave & Carroll St,40.677027,-73.9865
+ObjectId("5e4e2e36dbd3e62f6ebce684"),3763,Wyckoff Av & Jefferson St,40.707165,-73.923711
+ObjectId("5e4e2e36dbd3e62f6ebce685"),3764,Bushwick Ave & McKibbin St,40.705517,-73.93936
+ObjectId("5e4e2e36dbd3e62f6ebce686"),3765,Bushwick Ave & Stagg St,40.709897,-73.94008
+ObjectId("5e4e2e36dbd3e62f6ebce687"),3766,Sharon St & Olive St,40.715353,-73.93856
+ObjectId("5e4e2e36dbd3e62f6ebce688"),3767,Powers St & Olive St,40.71323,-73.93894
+ObjectId("5e4e2e36dbd3e62f6ebce689"),3768,Waterbury St & Stagg St,40.71019,-73.93734
+ObjectId("5e4e2e36dbd3e62f6ebce68a"),3769,White St & Johnson Ave,40.707174,-73.93581
+ObjectId("5e4e2e36dbd3e62f6ebce68b"),377,6 Ave & Canal St,40.72243797,-74.00566443
+ObjectId("5e4e2e36dbd3e62f6ebce68c"),3770,Central Ave & Flushing Ave,40.702831,-73.9333
+ObjectId("5e4e2e36dbd3e62f6ebce68d"),3771,McKibbin St & Bogart St,40.706237,-73.933871
+ObjectId("5e4e2e36dbd3e62f6ebce68e"),3772,Devoe St & Morgan Ave,40.713811,-73.93515
+ObjectId("5e4e2e36dbd3e62f6ebce68f"),3773,Knickerbocker Ave & Thames St,40.70539,-73.92976
+ObjectId("5e4e2e36dbd3e62f6ebce690"),3774,Knickerbocker Ave & George St,40.704425,-73.92836
+ObjectId("5e4e2e36dbd3e62f6ebce691"),3775,Suydam St & Knickerbocker Ave,40.702013,-73.923769
+ObjectId("5e4e2e36dbd3e62f6ebce692"),3776,Central Ave & Starr Street,40.700003,-73.92834
+ObjectId("5e4e2e36dbd3e62f6ebce693"),3777,Stockholm St & Wilson Ave,40.699304,-73.923044
+ObjectId("5e4e2e36dbd3e62f6ebce694"),3778,Irving Ave & DeKalb Ave,40.7027,-73.92095
+ObjectId("5e4e2e36dbd3e62f6ebce695"),3779,Hart St & Wyckoff Ave,40.704876,-73.919911
+ObjectId("5e4e2e36dbd3e62f6ebce696"),3781,Greene Av & Myrtle Av,40.698568,-73.918877
+ObjectId("5e4e2e36dbd3e62f6ebce697"),3782,Brooklyn Bridge Park - Pier 2,40.698458,-73.997178
+ObjectId("5e4e2e36dbd3e62f6ebce698"),3783,Cliff St & Fulton St,40.70838,-74.00495
+ObjectId("5e4e2e36dbd3e62f6ebce699"),3787,Dock 72 Way & Market St,40.69985,-73.97141
+ObjectId("5e4e2e36dbd3e62f6ebce69a"),3788,E 12 St & 4 Av,40.73269,-73.98974
+ObjectId("5e4e2e36dbd3e62f6ebce69b"),3789,Fulton St & Irving Pl,40.68186,-73.959432
+ObjectId("5e4e2e36dbd3e62f6ebce69c"),379,W 31 St & 7 Ave,40.749156,-73.9916
+ObjectId("5e4e2e36dbd3e62f6ebce69d"),3790,Henry St & Middagh St,40.7003,-73.991581
+ObjectId("5e4e2e36dbd3e62f6ebce69e"),3793,Stuyvesant Walk & 1 Av Loop,40.73233978,-73.97898383
+ObjectId("5e4e2e36dbd3e62f6ebce69f"),3795,10 St & 2 Ave,40.671907,-73.993612
+ObjectId("5e4e2e36dbd3e62f6ebce6a0"),3798,W 40 St & 5 Ave,40.752269,-73.982079
+ObjectId("5e4e2e36dbd3e62f6ebce6a1"),3799,6 Ave & W 34 St,40.74964,-73.98805
+ObjectId("5e4e2e36dbd3e62f6ebce6a2"),380,W 4 St & 7 Ave S,40.73401143,-74.00293877
+ObjectId("5e4e2e36dbd3e62f6ebce6a3"),3803,Bedford Ave & Montgomery St,40.665816,-73.956934
+ObjectId("5e4e2e36dbd3e62f6ebce6a4"),3804,Front St & Jay St,40.702461,-73.986842
+ObjectId("5e4e2e36dbd3e62f6ebce6a5"),3805,E 80 St & Park Ave,40.776173,-73.959757
+ObjectId("5e4e2e36dbd3e62f6ebce6a6"),3809,W 55 St & 6 Ave,40.763189,-73.978434
+ObjectId("5e4e2e36dbd3e62f6ebce6a7"),3810,Central Park West & W 82 St,40.782593,-73.971211
+ObjectId("5e4e2e36dbd3e62f6ebce6a8"),3811,27 Ave & 3 St,40.77485,-73.9342
+ObjectId("5e4e2e36dbd3e62f6ebce6a9"),383,Greenwich Ave & Charles St,40.735238,-74.000271
+ObjectId("5e4e2e36dbd3e62f6ebce6aa"),385,E 55 St & 2 Ave,40.75797322,-73.96603308
+ObjectId("5e4e2e36dbd3e62f6ebce6ab"),386,Centre St & Worth St,40.71494807,-74.00234482
+ObjectId("5e4e2e36dbd3e62f6ebce6ac"),387,Centre St & Chambers St,40.71273266,-74.0046073
+ObjectId("5e4e2e36dbd3e62f6ebce6ad"),388,W 26 St & 10 Ave,40.74971775,-74.00295035
+ObjectId("5e4e2e36dbd3e62f6ebce6ae"),389,Broadway & Berry St,40.71044554,-73.96525063
+ObjectId("5e4e2e36dbd3e62f6ebce6af"),390,Duffield St & Willoughby St,40.69221589,-73.9842844
+ObjectId("5e4e2e36dbd3e62f6ebce6b0"),391,Clark St & Henry St,40.69760127,-73.99344559
+ObjectId("5e4e2e36dbd3e62f6ebce6b1"),392,Jay St & Tech Pl,40.695065,-73.987167
+ObjectId("5e4e2e36dbd3e62f6ebce6b2"),393,E 5 St & Avenue C,40.72299208,-73.97995466
+ObjectId("5e4e2e36dbd3e62f6ebce6b3"),394,E 9 St & Avenue C,40.72521311,-73.97768752
+ObjectId("5e4e2e36dbd3e62f6ebce6b4"),396,Lefferts Pl & Franklin Ave,40.68034242,-73.95576894
+ObjectId("5e4e2e36dbd3e62f6ebce6b5"),397,Fulton St & Clermont Ave,40.68415748,-73.96922273
+ObjectId("5e4e2e36dbd3e62f6ebce6b6"),398,Atlantic Ave & Furman St,40.69165183,-73.9999786
+ObjectId("5e4e2e36dbd3e62f6ebce6b7"),399,Lafayette Ave & St James Pl,40.68851534,-73.9647628
+ObjectId("5e4e2e36dbd3e62f6ebce6b8"),400,Pitt St & Stanton St,40.71926081,-73.98178024
+ObjectId("5e4e2e36dbd3e62f6ebce6b9"),401,Allen St & Rivington St,40.72019576,-73.98997825
+ObjectId("5e4e2e36dbd3e62f6ebce6ba"),402,Broadway & E 22 St,40.7403432,-73.98955109
+ObjectId("5e4e2e36dbd3e62f6ebce6bb"),403,E 2 St & 2 Ave,40.72502876,-73.99069656
+ObjectId("5e4e2e36dbd3e62f6ebce6bc"),405,Washington St & Gansevoort St,40.739323,-74.008119
+ObjectId("5e4e2e36dbd3e62f6ebce6bd"),406,Hicks St & Montague St,40.69512845,-73.99595065
+ObjectId("5e4e2e36dbd3e62f6ebce6be"),408,Market St & Cherry St,40.71076228,-73.99400398
+ObjectId("5e4e2e36dbd3e62f6ebce6bf"),410,Suffolk St & Stanton St,40.72066442,-73.98517977
+ObjectId("5e4e2e36dbd3e62f6ebce6c0"),411,E 6 St & Avenue D,40.72228087,-73.97668709
+ObjectId("5e4e2e36dbd3e62f6ebce6c1"),412,Forsyth St & Canal St,40.7158155,-73.99422366
+ObjectId("5e4e2e36dbd3e62f6ebce6c2"),415,Pearl St & Hanover Square,40.7047177,-74.00926027
+ObjectId("5e4e2e36dbd3e62f6ebce6c3"),416,Cumberland St & Lafayette Ave,40.68753406,-73.97265183
+ObjectId("5e4e2e36dbd3e62f6ebce6c4"),417,Barclay St & Church St,40.71291224,-74.01020234
+ObjectId("5e4e2e36dbd3e62f6ebce6c5"),418,Front St & Gold St,40.70224,-73.982578
+ObjectId("5e4e2e36dbd3e62f6ebce6c6"),419,Carlton Ave & Park Ave,40.69580705,-73.97355569
+ObjectId("5e4e2e36dbd3e62f6ebce6c7"),420,Clermont Ave & Lafayette Ave,40.68764484,-73.96968902
+ObjectId("5e4e2e36dbd3e62f6ebce6c8"),421,Clermont Ave & Park Ave,40.69573398,-73.97129668
+ObjectId("5e4e2e36dbd3e62f6ebce6c9"),422,W 59 St & 10 Ave,40.770513,-73.988038
+ObjectId("5e4e2e36dbd3e62f6ebce6ca"),423,W 54 St & 9 Ave,40.76584941,-73.98690506
+ObjectId("5e4e2e36dbd3e62f6ebce6cb"),426,West St & Chambers St,40.71754834,-74.01322069
+ObjectId("5e4e2e36dbd3e62f6ebce6cc"),427,Bus Slip & State St,40.701907,-74.013942
+ObjectId("5e4e2e36dbd3e62f6ebce6cd"),432,E 7 St & Avenue A,40.72621788,-73.98379855
+ObjectId("5e4e2e36dbd3e62f6ebce6ce"),434,9 Ave & W 18 St,40.74317449,-74.00366443
+ObjectId("5e4e2e36dbd3e62f6ebce6cf"),435,W 21 St & 6 Ave,40.74173969,-73.99415556
+ObjectId("5e4e2e36dbd3e62f6ebce6d0"),436,Hancock St & Bedford Ave,40.68216564,-73.95399026
+ObjectId("5e4e2e36dbd3e62f6ebce6d1"),437,Macon St & Nostrand Ave,40.68098339,-73.95004798
+ObjectId("5e4e2e36dbd3e62f6ebce6d2"),438,St Marks Pl & 1 Ave,40.72779126,-73.98564945
+ObjectId("5e4e2e36dbd3e62f6ebce6d3"),439,E 4 St & 2 Ave,40.7262807,-73.98978041
+ObjectId("5e4e2e36dbd3e62f6ebce6d4"),440,E 45 St & 3 Ave,40.75255434,-73.97282625
+ObjectId("5e4e2e36dbd3e62f6ebce6d5"),442,W 27 St & 7 Ave,40.746647,-73.993915
+ObjectId("5e4e2e36dbd3e62f6ebce6d6"),443,Bedford Ave & S 9 St,40.70853074,-73.96408963
+ObjectId("5e4e2e36dbd3e62f6ebce6d7"),445,E 10 St & Avenue A,40.72740794,-73.98142006
+ObjectId("5e4e2e36dbd3e62f6ebce6d8"),446,W 24 St & 7 Ave,40.74487634,-73.99529885
+ObjectId("5e4e2e36dbd3e62f6ebce6d9"),447,8 Ave & W 52 St,40.76370739,-73.9851615
+ObjectId("5e4e2e36dbd3e62f6ebce6da"),448,W 37 St & 10 Ave,40.75660359,-73.9979009
+ObjectId("5e4e2e36dbd3e62f6ebce6db"),450,W 49 St & 8 Ave,40.76227205,-73.98788205
+ObjectId("5e4e2e36dbd3e62f6ebce6dc"),453,W 22 St & 8 Ave,40.74475148,-73.99915362
+ObjectId("5e4e2e36dbd3e62f6ebce6dd"),454,E 51 St & 1 Ave,40.75455731,-73.96592976
+ObjectId("5e4e2e36dbd3e62f6ebce6de"),455,1 Ave & E 44 St,40.75001986,-73.96905301
+ObjectId("5e4e2e36dbd3e62f6ebce6df"),456,E 53 St & Madison Ave,40.7597108,-73.97402311
+ObjectId("5e4e2e36dbd3e62f6ebce6e0"),458,11 Ave & W 27 St,40.751396,-74.005226
+ObjectId("5e4e2e36dbd3e62f6ebce6e1"),459,W 20 St & 11 Ave,40.746745,-74.007756
+ObjectId("5e4e2e36dbd3e62f6ebce6e2"),460,S 4 St & Wythe Ave,40.71285887,-73.96590294
+ObjectId("5e4e2e36dbd3e62f6ebce6e3"),461,E 20 St & 2 Ave,40.73587678,-73.98205027
+ObjectId("5e4e2e36dbd3e62f6ebce6e4"),462,W 22 St & 10 Ave,40.74691959,-74.00451887
+ObjectId("5e4e2e36dbd3e62f6ebce6e5"),464,E 56 St & 3 Ave,40.75934501,-73.96759673
+ObjectId("5e4e2e36dbd3e62f6ebce6e6"),465,Broadway & W 41 St,40.75513557,-73.98658032
+ObjectId("5e4e2e36dbd3e62f6ebce6e7"),466,W 25 St & 6 Ave,40.74395411,-73.99144871
+ObjectId("5e4e2e36dbd3e62f6ebce6e8"),467,Dean St & 4 Ave,40.68312489,-73.97895137
+ObjectId("5e4e2e36dbd3e62f6ebce6e9"),468,Broadway & W 56 St,40.7652654,-73.98192338
+ObjectId("5e4e2e36dbd3e62f6ebce6ea"),469,Broadway & W 53 St,40.76344058,-73.98268129
+ObjectId("5e4e2e36dbd3e62f6ebce6eb"),470,W 20 St & 8 Ave,40.74345335,-74.00004031
+ObjectId("5e4e2e36dbd3e62f6ebce6ec"),471,Grand St & Havemeyer St,40.71286844,-73.95698119
+ObjectId("5e4e2e36dbd3e62f6ebce6ed"),472,E 32 St & Park Ave,40.7457121,-73.98194829
+ObjectId("5e4e2e36dbd3e62f6ebce6ee"),473,Rivington St & Chrystie St,40.72110063,-73.9919254
+ObjectId("5e4e2e36dbd3e62f6ebce6ef"),474,5 Ave & E 29 St,40.7451677,-73.98683077
+ObjectId("5e4e2e36dbd3e62f6ebce6f0"),476,E 31 St & 3 Ave,40.74394314,-73.97966069
+ObjectId("5e4e2e36dbd3e62f6ebce6f1"),477,W 41 St & 8 Ave,40.75640548,-73.9900262
+ObjectId("5e4e2e36dbd3e62f6ebce6f2"),478,11 Ave & W 41 St,40.76030096,-73.99884222
+ObjectId("5e4e2e36dbd3e62f6ebce6f3"),479,9 Ave & W 45 St,40.76019252,-73.9912551
+ObjectId("5e4e2e36dbd3e62f6ebce6f4"),480,W 53 St & 10 Ave,40.76669671,-73.99061728
+ObjectId("5e4e2e36dbd3e62f6ebce6f5"),481,S 3 St & Bedford Ave,40.71260486,-73.96264403
+ObjectId("5e4e2e36dbd3e62f6ebce6f6"),482,W 15 St & 7 Ave,40.73935542,-73.99931783
+ObjectId("5e4e2e36dbd3e62f6ebce6f7"),483,E 12 St & 3 Ave,40.73223272,-73.98889957
+ObjectId("5e4e2e36dbd3e62f6ebce6f8"),484,W 44 St & 5 Ave,40.75500254,-73.98014437
+ObjectId("5e4e2e36dbd3e62f6ebce6f9"),485,W 37 St & 5 Ave,40.75038009,-73.98338988
+ObjectId("5e4e2e36dbd3e62f6ebce6fa"),486,Broadway & W 29 St,40.7462009,-73.98855723
+ObjectId("5e4e2e36dbd3e62f6ebce6fb"),487,E 20 St & FDR Drive,40.73314259,-73.97573881
+ObjectId("5e4e2e36dbd3e62f6ebce6fc"),488,W 39 St & 9 Ave,40.75645824,-73.99372222
+ObjectId("5e4e2e36dbd3e62f6ebce6fd"),489,10 Ave & W 28 St,40.75066386,-74.00176802
+ObjectId("5e4e2e36dbd3e62f6ebce6fe"),490,8 Ave & W 33 St,40.751551,-73.993934
+ObjectId("5e4e2e36dbd3e62f6ebce6ff"),491,E 24 St & Park Ave S,40.74096374,-73.98602213
+ObjectId("5e4e2e36dbd3e62f6ebce700"),492,W 33 St & 7 Ave,40.75019995,-73.99093085
+ObjectId("5e4e2e36dbd3e62f6ebce701"),493,W 45 St & 6 Ave,40.7568001,-73.98291153
+ObjectId("5e4e2e36dbd3e62f6ebce702"),494,W 26 St & 8 Ave,40.74734825,-73.99723551
+ObjectId("5e4e2e36dbd3e62f6ebce703"),495,W 47 St & 10 Ave,40.76269882,-73.99301222
+ObjectId("5e4e2e36dbd3e62f6ebce704"),496,E 16 St & 5 Ave,40.73726186,-73.99238967
+ObjectId("5e4e2e36dbd3e62f6ebce705"),497,E 17 St & Broadway,40.73704984,-73.99009296
+ObjectId("5e4e2e36dbd3e62f6ebce706"),499,Broadway & W 60 St,40.76915505,-73.98191841
+ObjectId("5e4e2e36dbd3e62f6ebce707"),500,Broadway & W 51 St,40.76228826,-73.98336183
+ObjectId("5e4e2e36dbd3e62f6ebce708"),501,FDR Drive & E 35 St,40.744219,-73.97121214
+ObjectId("5e4e2e36dbd3e62f6ebce709"),502,Henry St & Grand St,40.714215,-73.981346
+ObjectId("5e4e2e36dbd3e62f6ebce70a"),503,E 20 St & Park Ave,40.73827428,-73.98751968
+ObjectId("5e4e2e36dbd3e62f6ebce70b"),504,1 Ave & E 16 St,40.73221853,-73.98165557
+ObjectId("5e4e2e36dbd3e62f6ebce70c"),505,6 Ave & W 33 St,40.74901271,-73.98848395
+ObjectId("5e4e2e36dbd3e62f6ebce70d"),507,E 25 St & 2 Ave,40.73912601,-73.97973776
+ObjectId("5e4e2e36dbd3e62f6ebce70e"),508,W 46 St & 11 Ave,40.76341379,-73.99667444
+ObjectId("5e4e2e36dbd3e62f6ebce70f"),509,9 Ave & W 22 St,40.7454973,-74.00197139
+ObjectId("5e4e2e36dbd3e62f6ebce710"),513,W 56 St & 10 Ave,40.768254,-73.988639
+ObjectId("5e4e2e36dbd3e62f6ebce711"),514,12 Ave & W 40 St,40.76087502,-74.00277668
+ObjectId("5e4e2e36dbd3e62f6ebce712"),515,W 43 St & 10 Ave,40.76009437,-73.99461843
+ObjectId("5e4e2e36dbd3e62f6ebce713"),516,E 47 St & 1 Ave,40.75206862,-73.96784384
+ObjectId("5e4e2e36dbd3e62f6ebce714"),517,Pershing Square South,40.751581,-73.97791
+ObjectId("5e4e2e36dbd3e62f6ebce715"),518,E 39 St & 2 Ave,40.74780373,-73.9734419
+ObjectId("5e4e2e36dbd3e62f6ebce716"),519,Pershing Square North,40.751873,-73.977706
+ObjectId("5e4e2e36dbd3e62f6ebce717"),520,W 52 St & 5 Ave,40.75992262,-73.97648516
+ObjectId("5e4e2e36dbd3e62f6ebce718"),522,E 51 St & Lexington Ave,40.75714758,-73.97207836
+ObjectId("5e4e2e36dbd3e62f6ebce719"),523,W 38 St & 8 Ave,40.75466591,-73.99138152
+ObjectId("5e4e2e36dbd3e62f6ebce71a"),525,W 34 St & 11 Ave,40.75594159,-74.0021163
+ObjectId("5e4e2e36dbd3e62f6ebce71b"),526,E 33 St & 5 Ave,40.74765947,-73.98490707
+ObjectId("5e4e2e36dbd3e62f6ebce71c"),528,2 Ave & E 31 St,40.74290902,-73.97706058
+ObjectId("5e4e2e36dbd3e62f6ebce71d"),529,W 42 St & 8 Ave,40.7575699,-73.99098507
+ObjectId("5e4e2e36dbd3e62f6ebce71e"),530,11 Ave & W 59 St,40.77149671,-73.99046034
+ObjectId("5e4e2e36dbd3e62f6ebce71f"),531,Forsyth St & Broome St,40.71893904,-73.99266288
+ObjectId("5e4e2e36dbd3e62f6ebce720"),532,S 5 Pl & S 5 St,40.710451,-73.960876
+ObjectId("5e4e2e36dbd3e62f6ebce721"),533,Broadway & W 38 St,40.75299641,-73.98721619
+ObjectId("5e4e2e36dbd3e62f6ebce722"),534,Water - Whitehall Plaza,40.70255065,-74.0127234
+ObjectId("5e4e2e36dbd3e62f6ebce723"),536,1 Ave & E 30 St,40.74144387,-73.97536082
+ObjectId("5e4e2e36dbd3e62f6ebce724"),539,Metropolitan Ave & Bedford Ave,40.71534825,-73.96024116
+ObjectId("5e4e2e36dbd3e62f6ebce725"),540,Lexington Ave & E 29 St,40.74311555,-73.98215353
+ObjectId("5e4e2e36dbd3e62f6ebce726"),545,E 23 St & 1 Ave,40.736502,-73.97809472
+ObjectId("5e4e2e36dbd3e62f6ebce727"),546,E 30 St & Park Ave S,40.74444921,-73.98303529
+ObjectId("5e4e2e36dbd3e62f6ebce728"),72,W 52 St & 11 Ave,40.76727216,-73.99392888
+ObjectId("5e4e2e36dbd3e62f6ebce729"),79,Franklin St & W Broadway,40.71911552,-74.00666661
+ObjectId("5e4e2e36dbd3e62f6ebce72a"),82,St James Pl & Pearl St,40.71117416,-74.00016545
+ObjectId("5e4e2e36dbd3e62f6ebce72b"),83,Atlantic Ave & Fort Greene Pl,40.68382604,-73.97632328

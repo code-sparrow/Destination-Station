@@ -1,0 +1,791 @@
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce415"},"start_station_id":"116","start_station_name":"W 17 St & 8 Ave","start_station_latitude":"40.74177603","start_station_longitude":"-74.00149746"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce416"},"start_station_id":"119","start_station_name":"Park Ave & St Edwards St","start_station_latitude":"40.69608941","start_station_longitude":"-73.97803415"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce417"},"start_station_id":"120","start_station_name":"Lexington Ave & Classon Ave","start_station_latitude":"40.68676793","start_station_longitude":"-73.95928168"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce418"},"start_station_id":"127","start_station_name":"Barrow St & Hudson St","start_station_latitude":"40.73172428","start_station_longitude":"-74.00674436"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce419"},"start_station_id":"128","start_station_name":"MacDougal St & Prince St","start_station_latitude":"40.72710258","start_station_longitude":"-74.00297088"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce41a"},"start_station_id":"143","start_station_name":"Clinton St & Joralemon St","start_station_latitude":"40.69239502","start_station_longitude":"-73.99337909"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce41b"},"start_station_id":"144","start_station_name":"Nassau St & Navy St","start_station_latitude":"40.69839895","start_station_longitude":"-73.98068914"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce41c"},"start_station_id":"146","start_station_name":"Hudson St & Reade St","start_station_latitude":"40.71625008","start_station_longitude":"-74.0091059"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce41d"},"start_station_id":"150","start_station_name":"E 2 St & Avenue C","start_station_latitude":"40.7208736","start_station_longitude":"-73.98085795"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce41e"},"start_station_id":"151","start_station_name":"Cleveland Pl & Spring St","start_station_latitude":"40.72210379","start_station_longitude":"-73.99724901"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce41f"},"start_station_id":"157","start_station_name":"Henry St & Atlantic Ave","start_station_latitude":"40.69089272","start_station_longitude":"-73.99612349"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce420"},"start_station_id":"161","start_station_name":"LaGuardia Pl & W 3 St","start_station_latitude":"40.72917025","start_station_longitude":"-73.99810231"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce421"},"start_station_id":"164","start_station_name":"E 47 St & 2 Ave","start_station_latitude":"40.75323098","start_station_longitude":"-73.97032517"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce422"},"start_station_id":"167","start_station_name":"E 39 St & 3 Ave","start_station_latitude":"40.7489006","start_station_longitude":"-73.97604882"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce423"},"start_station_id":"168","start_station_name":"W 18 St & 6 Ave","start_station_latitude":"40.73971301","start_station_longitude":"-73.99456405"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce424"},"start_station_id":"173","start_station_name":"Broadway & W 49 St","start_station_latitude":"40.76068327","start_station_longitude":"-73.98452729"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce425"},"start_station_id":"174","start_station_name":"E 25 St & 1 Ave","start_station_latitude":"40.7381765","start_station_longitude":"-73.97738662"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce426"},"start_station_id":"195","start_station_name":"Liberty St & Broadway","start_station_latitude":"40.70905623","start_station_longitude":"-74.01043382"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce427"},"start_station_id":"2000","start_station_name":"Front St & Washington St","start_station_latitude":"40.70255088","start_station_longitude":"-73.98940236"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce428"},"start_station_id":"2002","start_station_name":"Wythe Ave & Metropolitan Ave","start_station_latitude":"40.716887","start_station_longitude":"-73.963198"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce429"},"start_station_id":"2003","start_station_name":"1 Ave & E 18 St","start_station_latitude":"40.73381219","start_station_longitude":"-73.98054421"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce42a"},"start_station_id":"2005","start_station_name":"Railroad Ave & Kay Ave","start_station_latitude":"40.70531194","start_station_longitude":"-73.97100056"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce42b"},"start_station_id":"2006","start_station_name":"Central Park S & 6 Ave","start_station_latitude":"40.76590936","start_station_longitude":"-73.97634151"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce42c"},"start_station_id":"2008","start_station_name":"Little West St & 1 Pl","start_station_latitude":"40.70569254","start_station_longitude":"-74.01677685"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce42d"},"start_station_id":"2009","start_station_name":"Catherine St & Monroe St","start_station_latitude":"40.71117444","start_station_longitude":"-73.99682619"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce42e"},"start_station_id":"2012","start_station_name":"E 27 St & 1 Ave","start_station_latitude":"40.739445","start_station_longitude":"-73.976806"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce42f"},"start_station_id":"2017","start_station_name":"E 43 St & 2 Ave","start_station_latitude":"40.75022392","start_station_longitude":"-73.97121414"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce430"},"start_station_id":"2021","start_station_name":"W 45 St & 8 Ave","start_station_latitude":"40.75929124","start_station_longitude":"-73.98859651"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce431"},"start_station_id":"2022","start_station_name":"E 60 St & York Ave","start_station_latitude":"40.759107","start_station_longitude":"-73.959223"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce432"},"start_station_id":"212","start_station_name":"W 16 St & The High Line","start_station_latitude":"40.74334935","start_station_longitude":"-74.00681753"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce433"},"start_station_id":"216","start_station_name":"Columbia Heights & Cranberry St","start_station_latitude":"40.70037867","start_station_longitude":"-73.99548059"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce434"},"start_station_id":"217","start_station_name":"Old Fulton St","start_station_latitude":"40.70277159","start_station_longitude":"-73.99383605"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce435"},"start_station_id":"223","start_station_name":"W 13 St & 7 Ave","start_station_latitude":"40.73781509","start_station_longitude":"-73.99994661"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce436"},"start_station_id":"224","start_station_name":"Spruce St & Nassau St","start_station_latitude":"40.71146364","start_station_longitude":"-74.00552427"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce437"},"start_station_id":"228","start_station_name":"E 48 St & 3 Ave","start_station_latitude":"40.7546011","start_station_longitude":"-73.97187886"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce438"},"start_station_id":"229","start_station_name":"Great Jones St","start_station_latitude":"40.72743423","start_station_longitude":"-73.99379025"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce439"},"start_station_id":"236","start_station_name":"St Marks Pl & 2 Ave","start_station_latitude":"40.7284186","start_station_longitude":"-73.98713956"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce43a"},"start_station_id":"237","start_station_name":"E 11 St & 2 Ave","start_station_latitude":"40.73047309","start_station_longitude":"-73.98672378"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce43b"},"start_station_id":"238","start_station_name":"Bank St & Washington St","start_station_latitude":"40.7361967","start_station_longitude":"-74.00859207"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce43c"},"start_station_id":"239","start_station_name":"Willoughby St & Fleet St","start_station_latitude":"40.69196566","start_station_longitude":"-73.9813018"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce43d"},"start_station_id":"241","start_station_name":"DeKalb Ave & S Portland Ave","start_station_latitude":"40.68981035","start_station_longitude":"-73.97493121"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce43e"},"start_station_id":"242","start_station_name":"Carlton Ave & Flushing Ave","start_station_latitude":"40.697787","start_station_longitude":"-73.973736"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce43f"},"start_station_id":"243","start_station_name":"Fulton St & Rockwell Pl","start_station_latitude":"40.68841","start_station_longitude":"-73.979458"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce440"},"start_station_id":"244","start_station_name":"Willoughby Ave & Hall St","start_station_latitude":"40.69196035","start_station_longitude":"-73.96536851"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce441"},"start_station_id":"245","start_station_name":"Myrtle Ave & St Edwards St","start_station_latitude":"40.69327018","start_station_longitude":"-73.97703874"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce442"},"start_station_id":"247","start_station_name":"Perry St & Bleecker St","start_station_latitude":"40.73535398","start_station_longitude":"-74.00483091"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce443"},"start_station_id":"248","start_station_name":"Laight St & Hudson St","start_station_latitude":"40.72185379","start_station_longitude":"-74.00771779"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce444"},"start_station_id":"249","start_station_name":"Harrison St & Hudson St","start_station_latitude":"40.71870987","start_station_longitude":"-74.0090009"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce445"},"start_station_id":"250","start_station_name":"Lafayette St & Jersey St","start_station_latitude":"40.72456089","start_station_longitude":"-73.99565293"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce446"},"start_station_id":"251","start_station_name":"Mott St & Prince St","start_station_latitude":"40.72317958","start_station_longitude":"-73.99480012"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce447"},"start_station_id":"252","start_station_name":"MacDougal St & Washington Sq","start_station_latitude":"40.73226398","start_station_longitude":"-73.99852205"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce448"},"start_station_id":"254","start_station_name":"W 11 St & 6 Ave","start_station_latitude":"40.73532427","start_station_longitude":"-73.99800419"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce449"},"start_station_id":"257","start_station_name":"Lispenard St & Broadway","start_station_latitude":"40.71939226","start_station_longitude":"-74.00247214"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce44a"},"start_station_id":"258","start_station_name":"DeKalb Ave & Vanderbilt Ave","start_station_latitude":"40.68940747","start_station_longitude":"-73.96885458"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce44b"},"start_station_id":"259","start_station_name":"South St & Whitehall St","start_station_latitude":"40.70122128","start_station_longitude":"-74.01234218"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce44c"},"start_station_id":"260","start_station_name":"Broad St & Bridge St","start_station_latitude":"40.70365182","start_station_longitude":"-74.01167797"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce44d"},"start_station_id":"261","start_station_name":"Johnson St & Gold St","start_station_latitude":"40.69474881","start_station_longitude":"-73.98362464"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce44e"},"start_station_id":"262","start_station_name":"Washington Park","start_station_latitude":"40.6917823","start_station_longitude":"-73.9737299"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce44f"},"start_station_id":"264","start_station_name":"Maiden Ln & Pearl St","start_station_latitude":"40.70706456","start_station_longitude":"-74.00731853"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce450"},"start_station_id":"265","start_station_name":"Stanton St & Chrystie St","start_station_latitude":"40.72229346","start_station_longitude":"-73.99147535"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce451"},"start_station_id":"266","start_station_name":"Avenue D & E 8 St","start_station_latitude":"40.72368361","start_station_longitude":"-73.97574813"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce452"},"start_station_id":"267","start_station_name":"Broadway & W 36 St","start_station_latitude":"40.75097711","start_station_longitude":"-73.98765428"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce453"},"start_station_id":"268","start_station_name":"Howard St & Centre St","start_station_latitude":"40.71910537","start_station_longitude":"-73.99973337"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce454"},"start_station_id":"270","start_station_name":"Adelphi St & Myrtle Ave","start_station_latitude":"40.69308257","start_station_longitude":"-73.97178913"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce455"},"start_station_id":"274","start_station_name":"Lafayette Ave & Fort Greene Pl","start_station_latitude":"40.68691865","start_station_longitude":"-73.976682"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce456"},"start_station_id":"275","start_station_name":"Washington Ave & Greene Ave","start_station_latitude":"40.68650065","start_station_longitude":"-73.96563307"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce457"},"start_station_id":"276","start_station_name":"Duane St & Greenwich St","start_station_latitude":"40.71748752","start_station_longitude":"-74.0104554"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce458"},"start_station_id":"278","start_station_name":"Concord St & Bridge St","start_station_latitude":"40.69766564","start_station_longitude":"-73.98476437"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce459"},"start_station_id":"279","start_station_name":"Peck Slip & Front St","start_station_latitude":"40.707873","start_station_longitude":"-74.00167"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce45a"},"start_station_id":"280","start_station_name":"E 10 St & 5 Ave","start_station_latitude":"40.73331967","start_station_longitude":"-73.99510132"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce45b"},"start_station_id":"281","start_station_name":"Grand Army Plaza & Central Park S","start_station_latitude":"40.7643971","start_station_longitude":"-73.97371465"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce45c"},"start_station_id":"282","start_station_name":"Kent Ave & S 11 St","start_station_latitude":"40.70764494","start_station_longitude":"-73.96841526"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce45d"},"start_station_id":"284","start_station_name":"Greenwich Ave & 8 Ave","start_station_latitude":"40.73901691","start_station_longitude":"-74.00263761"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce45e"},"start_station_id":"285","start_station_name":"Broadway & E 14 St","start_station_latitude":"40.73454567","start_station_longitude":"-73.99074142"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce45f"},"start_station_id":"289","start_station_name":"Monroe St & Classon Ave","start_station_latitude":"40.6845683","start_station_longitude":"-73.95881081"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce460"},"start_station_id":"291","start_station_name":"Madison St & Montgomery St","start_station_latitude":"40.713126","start_station_longitude":"-73.984844"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce461"},"start_station_id":"293","start_station_name":"Lafayette St & E 8 St","start_station_latitude":"40.73020661","start_station_longitude":"-73.99102628"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce462"},"start_station_id":"295","start_station_name":"Pike St & E Broadway","start_station_latitude":"40.71406667","start_station_longitude":"-73.99293911"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce463"},"start_station_id":"296","start_station_name":"Division St & Bowery","start_station_latitude":"40.71413089","start_station_longitude":"-73.9970468"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce464"},"start_station_id":"297","start_station_name":"E 15 St & 3 Ave","start_station_latitude":"40.734232","start_station_longitude":"-73.986923"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce465"},"start_station_id":"298","start_station_name":"3 Ave & Schermerhorn St","start_station_latitude":"40.68683208","start_station_longitude":"-73.9796772"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce466"},"start_station_id":"3002","start_station_name":"South End Ave & Liberty St","start_station_latitude":"40.711512","start_station_longitude":"-74.015756"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce467"},"start_station_id":"301","start_station_name":"E 2 St & Avenue B","start_station_latitude":"40.72217444","start_station_longitude":"-73.98368779"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce468"},"start_station_id":"3016","start_station_name":"Kent Ave & N 7 St","start_station_latitude":"40.72036775","start_station_longitude":"-73.96165073"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce469"},"start_station_id":"302","start_station_name":"Avenue D & E 3 St","start_station_latitude":"40.72082834","start_station_longitude":"-73.97793172"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce46a"},"start_station_id":"303","start_station_name":"Mercer St & Spring St","start_station_latitude":"40.72362738","start_station_longitude":"-73.99949601"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce46b"},"start_station_id":"304","start_station_name":"Broadway & Battery Pl","start_station_latitude":"40.70463334","start_station_longitude":"-74.01361706"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce46c"},"start_station_id":"3041","start_station_name":"Kingston Ave & Herkimer St","start_station_latitude":"40.67890679","start_station_longitude":"-73.94142771"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce46d"},"start_station_id":"3042","start_station_name":"Fulton St & Utica Ave","start_station_latitude":"40.6794268","start_station_longitude":"-73.9298911"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce46e"},"start_station_id":"3043","start_station_name":"Lewis Ave & Decatur St","start_station_latitude":"40.6814598","start_station_longitude":"-73.934903"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce46f"},"start_station_id":"3044","start_station_name":"Albany Ave & Fulton St","start_station_latitude":"40.6800105","start_station_longitude":"-73.938475"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce470"},"start_station_id":"3046","start_station_name":"Marcus Garvey Blvd & Macon St","start_station_latitude":"40.682601","start_station_longitude":"-73.938037"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce471"},"start_station_id":"3047","start_station_name":"Halsey St & Tompkins Ave","start_station_latitude":"40.6823687","start_station_longitude":"-73.944118"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce472"},"start_station_id":"3048","start_station_name":"Putnam Ave & Nostrand Ave","start_station_latitude":"40.68402","start_station_longitude":"-73.94977"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce473"},"start_station_id":"3049","start_station_name":"Cambridge Pl & Gates Ave","start_station_latitude":"40.68488","start_station_longitude":"-73.96304"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce474"},"start_station_id":"305","start_station_name":"E 58 St & 3 Ave","start_station_latitude":"40.76095756","start_station_longitude":"-73.96724467"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce475"},"start_station_id":"3050","start_station_name":"Putnam Ave & Throop Ave","start_station_latitude":"40.6851532","start_station_longitude":"-73.94111"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce476"},"start_station_id":"3052","start_station_name":"Lewis Ave & Madison St","start_station_latitude":"40.686312","start_station_longitude":"-73.935775"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce477"},"start_station_id":"3053","start_station_name":"Marcy Ave & Lafayette Ave","start_station_latitude":"40.6900815","start_station_longitude":"-73.947915"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce478"},"start_station_id":"3054","start_station_name":"Greene Ave & Throop Ave","start_station_latitude":"40.6894932","start_station_longitude":"-73.942061"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce479"},"start_station_id":"3055","start_station_name":"Greene Ave & Nostrand Ave","start_station_latitude":"40.6883337","start_station_longitude":"-73.950916"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce47a"},"start_station_id":"3056","start_station_name":"Kosciuszko St & Nostrand Ave","start_station_latitude":"40.69072549","start_station_longitude":"-73.95133465"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce47b"},"start_station_id":"3057","start_station_name":"Kosciuszko St & Tompkins Ave","start_station_latitude":"40.69128258","start_station_longitude":"-73.9452416"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce47c"},"start_station_id":"3058","start_station_name":"Lewis Ave & Kosciuszko St","start_station_latitude":"40.69237074","start_station_longitude":"-73.93705428"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce47d"},"start_station_id":"3059","start_station_name":"Pulaski St & Marcus Garvey Blvd","start_station_latitude":"40.6933982","start_station_longitude":"-73.939877"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce47e"},"start_station_id":"3060","start_station_name":"Willoughby Ave & Tompkins Ave","start_station_latitude":"40.69425403","start_station_longitude":"-73.94626915"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce47f"},"start_station_id":"3061","start_station_name":"Throop Ave & Myrtle Ave","start_station_latitude":"40.69622937","start_station_longitude":"-73.94371094"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce480"},"start_station_id":"3062","start_station_name":"Myrtle Ave & Marcy Ave","start_station_latitude":"40.69539817","start_station_longitude":"-73.94954908"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce481"},"start_station_id":"3063","start_station_name":"Nostrand Ave & Myrtle Ave","start_station_latitude":"40.69527008","start_station_longitude":"-73.95238108"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce482"},"start_station_id":"3064","start_station_name":"Myrtle Ave & Lewis Ave","start_station_latitude":"40.69681963","start_station_longitude":"-73.93756926"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce483"},"start_station_id":"3065","start_station_name":"Union Ave & Wallabout St","start_station_latitude":"40.70029511","start_station_longitude":"-73.95032283"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce484"},"start_station_id":"3066","start_station_name":"Tompkins Ave & Hopkins St","start_station_latitude":"40.69957608","start_station_longitude":"-73.94708417"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce485"},"start_station_id":"3067","start_station_name":"Broadway & Whipple St","start_station_latitude":"40.7016657","start_station_longitude":"-73.9437303"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce486"},"start_station_id":"3068","start_station_name":"Humboldt St & Varet St","start_station_latitude":"40.7031724","start_station_longitude":"-73.940636"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce487"},"start_station_id":"3069","start_station_name":"Lorimer St & Broadway","start_station_latitude":"40.70411791","start_station_longitude":"-73.94818595"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce488"},"start_station_id":"307","start_station_name":"Canal St & Rutgers St","start_station_latitude":"40.71427487","start_station_longitude":"-73.98990025"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce489"},"start_station_id":"3070","start_station_name":"McKibbin St & Manhattan Ave","start_station_latitude":"40.70510918","start_station_longitude":"-73.94407279"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce48a"},"start_station_id":"3071","start_station_name":"Boerum St & Broadway","start_station_latitude":"40.70538077","start_station_longitude":"-73.94976519"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce48b"},"start_station_id":"3072","start_station_name":"Leonard St & Boerum St","start_station_latitude":"40.70583339","start_station_longitude":"-73.94644578"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce48c"},"start_station_id":"3074","start_station_name":"Montrose Ave & Bushwick Ave","start_station_latitude":"40.70767788","start_station_longitude":"-73.94016171"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce48d"},"start_station_id":"3075","start_station_name":"Division Ave & Marcy Ave","start_station_latitude":"40.70708701","start_station_longitude":"-73.95796783"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce48e"},"start_station_id":"3076","start_station_name":"Scholes St & Manhattan Ave","start_station_latitude":"40.70870368","start_station_longitude":"-73.9448625"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce48f"},"start_station_id":"3077","start_station_name":"Stagg St & Union Ave","start_station_latitude":"40.70877084","start_station_longitude":"-73.95095259"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce490"},"start_station_id":"3078","start_station_name":"Broadway & Roebling St","start_station_latitude":"40.70924826","start_station_longitude":"-73.96063149"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce491"},"start_station_id":"308","start_station_name":"St James Pl & Oliver St","start_station_latitude":"40.71307916","start_station_longitude":"-73.99851193"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce492"},"start_station_id":"3080","start_station_name":"S 4 St & Rodney St","start_station_latitude":"40.70934","start_station_longitude":"-73.95608"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce493"},"start_station_id":"3081","start_station_name":"Graham Ave & Grand St","start_station_latitude":"40.711863","start_station_longitude":"-73.944024"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce494"},"start_station_id":"3082","start_station_name":"Hope St & Union Ave","start_station_latitude":"40.71167351","start_station_longitude":"-73.95141312"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce495"},"start_station_id":"3083","start_station_name":"Bushwick Ave & Powers St","start_station_latitude":"40.71247661","start_station_longitude":"-73.94100005"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce496"},"start_station_id":"3085","start_station_name":"Roebling St & N 4 St","start_station_latitude":"40.71469","start_station_longitude":"-73.95739"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce497"},"start_station_id":"3086","start_station_name":"Graham Ave & Conselyea St","start_station_latitude":"40.715143","start_station_longitude":"-73.944507"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce498"},"start_station_id":"3087","start_station_name":"Metropolitan Ave & Meeker Ave","start_station_latitude":"40.71413311","start_station_longitude":"-73.95234386"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce499"},"start_station_id":"3088","start_station_name":"Union Ave & Jackson St","start_station_latitude":"40.7160751","start_station_longitude":"-73.952029"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce49a"},"start_station_id":"309","start_station_name":"Murray St & West St","start_station_latitude":"40.7149787","start_station_longitude":"-74.013012"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce49b"},"start_station_id":"3092","start_station_name":"Berry St & N 8 St","start_station_latitude":"40.7190095","start_station_longitude":"-73.95852515"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce49c"},"start_station_id":"3093","start_station_name":"N 6 St & Bedford Ave","start_station_latitude":"40.71745169","start_station_longitude":"-73.95850939"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce49d"},"start_station_id":"3094","start_station_name":"Graham Ave & Withers St","start_station_latitude":"40.7169811","start_station_longitude":"-73.94485918"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce49e"},"start_station_id":"3095","start_station_name":"Graham Ave & Herbert St","start_station_latitude":"40.71929301","start_station_longitude":"-73.94500379"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce49f"},"start_station_id":"3096","start_station_name":"Union Ave & N 12 St","start_station_latitude":"40.71924","start_station_longitude":"-73.95242"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4a0"},"start_station_id":"310","start_station_name":"State St & Smith St","start_station_latitude":"40.68926942","start_station_longitude":"-73.98912867"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4a1"},"start_station_id":"3100","start_station_name":"Nassau Ave & Newell St","start_station_latitude":"40.72481256","start_station_longitude":"-73.94752622"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4a2"},"start_station_id":"3101","start_station_name":"N 12 St & Bedford Ave","start_station_latitude":"40.72079821","start_station_longitude":"-73.95484712"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4a3"},"start_station_id":"3102","start_station_name":"Driggs Ave & Lorimer St","start_station_latitude":"40.72179134","start_station_longitude":"-73.9504154"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4a4"},"start_station_id":"3105","start_station_name":"N 15 St & Wythe Ave","start_station_latitude":"40.724055","start_station_longitude":"-73.955736"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4a5"},"start_station_id":"3106","start_station_name":"Driggs Ave & N Henry St","start_station_latitude":"40.72325","start_station_longitude":"-73.94308"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4a6"},"start_station_id":"3107","start_station_name":"Bedford Ave & Nassau Ave","start_station_latitude":"40.72311651","start_station_longitude":"-73.95212324"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4a7"},"start_station_id":"3108","start_station_name":"Nassau Ave & Russell St","start_station_latitude":"40.72557","start_station_longitude":"-73.94434"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4a8"},"start_station_id":"3109","start_station_name":"Banker St & Meserole Ave","start_station_latitude":"40.72606","start_station_longitude":"-73.95621"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4a9"},"start_station_id":"311","start_station_name":"Norfolk St & Broome St","start_station_latitude":"40.7172274","start_station_longitude":"-73.98802084"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4aa"},"start_station_id":"3110","start_station_name":"Meserole Ave & Manhattan Ave","start_station_latitude":"40.72708584","start_station_longitude":"-73.95299117"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4ab"},"start_station_id":"3112","start_station_name":"Milton St & Franklin St","start_station_latitude":"40.72906","start_station_longitude":"-73.95779"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4ac"},"start_station_id":"3113","start_station_name":"Greenpoint Ave & Manhattan Ave","start_station_latitude":"40.73026","start_station_longitude":"-73.95394"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4ad"},"start_station_id":"3115","start_station_name":"India St & Manhattan Ave","start_station_latitude":"40.73232194","start_station_longitude":"-73.9550858"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4ae"},"start_station_id":"3116","start_station_name":"Huron St & Franklin St","start_station_latitude":"40.73266","start_station_longitude":"-73.95826"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4af"},"start_station_id":"3117","start_station_name":"Franklin St & Dupont St","start_station_latitude":"40.73564","start_station_longitude":"-73.95866"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4b0"},"start_station_id":"3118","start_station_name":"McGuinness Blvd & Eagle St","start_station_latitude":"40.73555","start_station_longitude":"-73.95284"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4b1"},"start_station_id":"3119","start_station_name":"Vernon Blvd & 50 Ave","start_station_latitude":"40.74232744","start_station_longitude":"-73.95411749"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4b2"},"start_station_id":"312","start_station_name":"Allen St & Stanton St","start_station_latitude":"40.722055","start_station_longitude":"-73.989111"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4b3"},"start_station_id":"3121","start_station_name":"Jackson Ave & 46 Rd","start_station_latitude":"40.74524768","start_station_longitude":"-73.94733276"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4b4"},"start_station_id":"3122","start_station_name":"48 Ave & 5 St","start_station_latitude":"40.74436329","start_station_longitude":"-73.95587325"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4b5"},"start_station_id":"3123","start_station_name":"31 St & Thomson Ave","start_station_latitude":"40.74469738","start_station_longitude":"-73.93540375"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4b6"},"start_station_id":"3124","start_station_name":"46 Ave & 5 St","start_station_latitude":"40.74731","start_station_longitude":"-73.95451"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4b7"},"start_station_id":"3125","start_station_name":"45 Rd & 11 St","start_station_latitude":"40.74708586","start_station_longitude":"-73.94977234"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4b8"},"start_station_id":"3126","start_station_name":"44 Dr & Jackson Ave","start_station_latitude":"40.74718234","start_station_longitude":"-73.9432635"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4b9"},"start_station_id":"3127","start_station_name":"9 St & 44 Rd","start_station_latitude":"40.74966","start_station_longitude":"-73.9521"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4ba"},"start_station_id":"3128","start_station_name":"21 St & 43 Ave","start_station_latitude":"40.75052534","start_station_longitude":"-73.94594845"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4bb"},"start_station_id":"3129","start_station_name":"Queens Plaza North & Crescent St","start_station_latitude":"40.75110165","start_station_longitude":"-73.94073717"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4bc"},"start_station_id":"313","start_station_name":"Washington Ave & Park Ave","start_station_latitude":"40.69610226","start_station_longitude":"-73.96751037"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4bd"},"start_station_id":"3130","start_station_name":"21 St & Queens Plaza North","start_station_latitude":"40.75325964","start_station_longitude":"-73.94335788"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4be"},"start_station_id":"3131","start_station_name":"E 68 St & 3 Ave","start_station_latitude":"40.7671284","start_station_longitude":"-73.96224618"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4bf"},"start_station_id":"3132","start_station_name":"E 59 St & Madison Ave","start_station_latitude":"40.76350532","start_station_longitude":"-73.97109243"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4c0"},"start_station_id":"3134","start_station_name":"3 Ave & E 62 St","start_station_latitude":"40.76312584","start_station_longitude":"-73.96526895"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4c1"},"start_station_id":"3135","start_station_name":"E 75 St & 3 Ave","start_station_latitude":"40.77112927","start_station_longitude":"-73.95772297"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4c2"},"start_station_id":"3136","start_station_name":"5 Ave & E 63 St","start_station_latitude":"40.766368","start_station_longitude":"-73.971518"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4c3"},"start_station_id":"3137","start_station_name":"5 Ave & E 73 St","start_station_latitude":"40.77282817","start_station_longitude":"-73.96685276"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4c4"},"start_station_id":"3139","start_station_name":"E 72 St & Park Ave","start_station_latitude":"40.77118288","start_station_longitude":"-73.96409422"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4c5"},"start_station_id":"314","start_station_name":"Cadman Plaza West & Montague St","start_station_latitude":"40.69383","start_station_longitude":"-73.990539"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4c6"},"start_station_id":"3140","start_station_name":"1 Ave & E 78 St","start_station_latitude":"40.77140426","start_station_longitude":"-73.9535166"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4c7"},"start_station_id":"3141","start_station_name":"1 Ave & E 68 St","start_station_latitude":"40.76500525","start_station_longitude":"-73.95818491"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4c8"},"start_station_id":"3142","start_station_name":"1 Ave & E 62 St","start_station_latitude":"40.7612274","start_station_longitude":"-73.96094022"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4c9"},"start_station_id":"3143","start_station_name":"5 Ave & E 78 St","start_station_latitude":"40.77632142","start_station_longitude":"-73.96427393"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4ca"},"start_station_id":"3145","start_station_name":"E 84 St & Park Ave","start_station_latitude":"40.77862688","start_station_longitude":"-73.95772073"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4cb"},"start_station_id":"3146","start_station_name":"E 81 St & 3 Ave","start_station_latitude":"40.77573034","start_station_longitude":"-73.9567526"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4cc"},"start_station_id":"3148","start_station_name":"E 84 St & 1 Ave","start_station_latitude":"40.77565541","start_station_longitude":"-73.95068615"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4cd"},"start_station_id":"315","start_station_name":"South St & Gouverneur Ln","start_station_latitude":"40.70355377","start_station_longitude":"-74.00670227"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4ce"},"start_station_id":"3150","start_station_name":"E 85 St & York Ave","start_station_latitude":"40.77536905","start_station_longitude":"-73.94803392"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4cf"},"start_station_id":"3151","start_station_name":"E 81 St & York Ave","start_station_latitude":"40.7728384","start_station_longitude":"-73.94989233"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4d0"},"start_station_id":"3152","start_station_name":"3 Ave & E 71 St","start_station_latitude":"40.76873687","start_station_longitude":"-73.96119945"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4d1"},"start_station_id":"3154","start_station_name":"E 77 St & 3 Ave","start_station_latitude":"40.77314236","start_station_longitude":"-73.95856158"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4d2"},"start_station_id":"3155","start_station_name":"Lexington Ave & E 63 St","start_station_latitude":"40.76440023","start_station_longitude":"-73.96648977"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4d3"},"start_station_id":"3156","start_station_name":"E 72 St & York Ave","start_station_latitude":"40.76663814","start_station_longitude":"-73.95348296"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4d4"},"start_station_id":"3157","start_station_name":"East End Ave & E 86 St","start_station_latitude":"40.77518615","start_station_longitude":"-73.94446054"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4d5"},"start_station_id":"3158","start_station_name":"W 63 St & Broadway","start_station_latitude":"40.77163851","start_station_longitude":"-73.98261428"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4d6"},"start_station_id":"3159","start_station_name":"W 67 St & Broadway","start_station_latitude":"40.77492513","start_station_longitude":"-73.98266566"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4d7"},"start_station_id":"316","start_station_name":"Fulton St & William St","start_station_latitude":"40.70955958","start_station_longitude":"-74.00653609"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4d8"},"start_station_id":"3160","start_station_name":"Central Park West & W 76 St","start_station_latitude":"40.77896784","start_station_longitude":"-73.97374737"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4d9"},"start_station_id":"3161","start_station_name":"W 76 St & Columbus Ave","start_station_latitude":"40.78018397","start_station_longitude":"-73.97728533"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4da"},"start_station_id":"3162","start_station_name":"W 78 St & Broadway","start_station_latitude":"40.78339981","start_station_longitude":"-73.98093133"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4db"},"start_station_id":"3163","start_station_name":"Central Park West & W 68 St","start_station_latitude":"40.7734066","start_station_longitude":"-73.97782542"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4dc"},"start_station_id":"3164","start_station_name":"Columbus Ave & W 72 St","start_station_latitude":"40.7770575","start_station_longitude":"-73.97898475"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4dd"},"start_station_id":"3165","start_station_name":"Central Park West & W 72 St","start_station_latitude":"40.77579377","start_station_longitude":"-73.97620574"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4de"},"start_station_id":"3166","start_station_name":"Riverside Dr & W 72 St","start_station_latitude":"40.78057799","start_station_longitude":"-73.98562431"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4df"},"start_station_id":"3167","start_station_name":"Amsterdam Ave & W 73 St","start_station_latitude":"40.77966809","start_station_longitude":"-73.98093045"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4e0"},"start_station_id":"3168","start_station_name":"Central Park West & W 85 St","start_station_latitude":"40.78472675","start_station_longitude":"-73.96961715"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4e1"},"start_station_id":"3169","start_station_name":"Riverside Dr & W 82 St","start_station_latitude":"40.78720869","start_station_longitude":"-73.98128127"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4e2"},"start_station_id":"317","start_station_name":"E 6 St & Avenue B","start_station_latitude":"40.72453734","start_station_longitude":"-73.98185424"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4e3"},"start_station_id":"3170","start_station_name":"W 84 St & Columbus Ave","start_station_latitude":"40.78499979","start_station_longitude":"-73.97283406"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4e4"},"start_station_id":"3171","start_station_name":"Amsterdam Ave & W 82 St","start_station_latitude":"40.78524672","start_station_longitude":"-73.97667321"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4e5"},"start_station_id":"3172","start_station_name":"W 74 St & Columbus Ave","start_station_latitude":"40.7785669","start_station_longitude":"-73.97754961"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4e6"},"start_station_id":"3173","start_station_name":"Riverside Blvd & W 67 St","start_station_latitude":"40.77750703","start_station_longitude":"-73.98888588"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4e7"},"start_station_id":"3175","start_station_name":"W 70 St & Amsterdam Ave","start_station_latitude":"40.77748046","start_station_longitude":"-73.98288594"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4e8"},"start_station_id":"3177","start_station_name":"W 84 St & Broadway","start_station_latitude":"40.7867947","start_station_longitude":"-73.977112"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4e9"},"start_station_id":"3178","start_station_name":"Riverside Dr & W 78 St","start_station_latitude":"40.78414472","start_station_longitude":"-73.98362492"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4ea"},"start_station_id":"3179","start_station_name":"Park Ave & Marcus Garvey Blvd","start_station_latitude":"40.698617","start_station_longitude":"-73.941342"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4eb"},"start_station_id":"3182","start_station_name":"Yankee Ferry Terminal","start_station_latitude":"40.686931","start_station_longitude":"-74.016966"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4ec"},"start_station_id":"319","start_station_name":"Fulton St & Broadway","start_station_latitude":"40.711066","start_station_longitude":"-74.009447"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4ed"},"start_station_id":"320","start_station_name":"Leonard St & Church St","start_station_latitude":"40.717571","start_station_longitude":"-74.005549"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4ee"},"start_station_id":"321","start_station_name":"Cadman Plaza E & Red Cross Pl","start_station_latitude":"40.69991755","start_station_longitude":"-73.98971773"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4ef"},"start_station_id":"3221","start_station_name":"47 Ave & 31 St","start_station_latitude":"40.743","start_station_longitude":"-73.93561"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4f0"},"start_station_id":"323","start_station_name":"Lawrence St & Willoughby St","start_station_latitude":"40.69236178","start_station_longitude":"-73.98631746"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4f1"},"start_station_id":"3231","start_station_name":"E 67 St & Park Ave","start_station_latitude":"40.7678008","start_station_longitude":"-73.96592081"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4f2"},"start_station_id":"3232","start_station_name":"Bond St & Fulton St","start_station_latitude":"40.68962189","start_station_longitude":"-73.98304269"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4f3"},"start_station_id":"3233","start_station_name":"E 48 St & 5 Ave","start_station_latitude":"40.75724568","start_station_longitude":"-73.97805914"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4f4"},"start_station_id":"3235","start_station_name":"E 41 St & Madison Ave","start_station_latitude":"40.75216528","start_station_longitude":"-73.97992194"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4f5"},"start_station_id":"3236","start_station_name":"W 42 St & Dyer Ave","start_station_latitude":"40.75898481","start_station_longitude":"-73.99379969"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4f6"},"start_station_id":"324","start_station_name":"DeKalb Ave & Hudson Ave","start_station_latitude":"40.689888","start_station_longitude":"-73.981013"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4f7"},"start_station_id":"3241","start_station_name":"Monroe St & Tompkins Ave","start_station_latitude":"40.686203","start_station_longitude":"-73.944694"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4f8"},"start_station_id":"3242","start_station_name":"Schermerhorn St & Court St","start_station_latitude":"40.69102926","start_station_longitude":"-73.99183363"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4f9"},"start_station_id":"3243","start_station_name":"E 58 St & 1 Ave (NE Corner)","start_station_latitude":"40.75892386","start_station_longitude":"-73.96226227"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4fa"},"start_station_id":"3244","start_station_name":"University Pl & E 8 St","start_station_latitude":"40.73143724","start_station_longitude":"-73.99490342"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4fb"},"start_station_id":"3249","start_station_name":"Verona Pl & Fulton St","start_station_latitude":"40.68035608","start_station_longitude":"-73.9476791"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4fc"},"start_station_id":"325","start_station_name":"E 19 St & 3 Ave","start_station_latitude":"40.73624527","start_station_longitude":"-73.98473765"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4fd"},"start_station_id":"3254","start_station_name":"Soissons Landing","start_station_latitude":"40.69231661","start_station_longitude":"-74.01486576"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4fe"},"start_station_id":"3255","start_station_name":"8 Ave & W 31 St","start_station_latitude":"40.75058535","start_station_longitude":"-73.99468482"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce4ff"},"start_station_id":"3256","start_station_name":"Pier 40 - Hudson River Park","start_station_latitude":"40.72771408","start_station_longitude":"-74.01129574"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce500"},"start_station_id":"3259","start_station_name":"9 Ave & W 28 St","start_station_latitude":"40.74937024","start_station_longitude":"-73.99923384"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce501"},"start_station_id":"326","start_station_name":"E 11 St & 1 Ave","start_station_latitude":"40.72953837","start_station_longitude":"-73.98426726"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce502"},"start_station_id":"3260","start_station_name":"Mercer St & Bleecker St","start_station_latitude":"40.72706363","start_station_longitude":"-73.99662137"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce503"},"start_station_id":"3263","start_station_name":"Cooper Square & Astor Pl","start_station_latitude":"40.72951496","start_station_longitude":"-73.9907527"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce504"},"start_station_id":"327","start_station_name":"Vesey Pl & River Terrace","start_station_latitude":"40.7153379","start_station_longitude":"-74.01658354"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce505"},"start_station_id":"328","start_station_name":"Watts St & Greenwich St","start_station_latitude":"40.72405549","start_station_longitude":"-74.00965965"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce506"},"start_station_id":"3282","start_station_name":"5 Ave & E 88 St","start_station_latitude":"40.78307","start_station_longitude":"-73.95939"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce507"},"start_station_id":"3283","start_station_name":"W 89 St & Columbus Ave","start_station_latitude":"40.7882213","start_station_longitude":"-73.97041561"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce508"},"start_station_id":"3284","start_station_name":"E 88 St & Park Ave","start_station_latitude":"40.7814107","start_station_longitude":"-73.95595908"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce509"},"start_station_id":"3285","start_station_name":"W 87 St & Amsterdam Ave","start_station_latitude":"40.78839","start_station_longitude":"-73.9747"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce50a"},"start_station_id":"3286","start_station_name":"E 89 St & 3 Ave","start_station_latitude":"40.7806284","start_station_longitude":"-73.9521667"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce50b"},"start_station_id":"3287","start_station_name":"W 87 St & West End Ave","start_station_latitude":"40.789622","start_station_longitude":"-73.97757"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce50c"},"start_station_id":"3288","start_station_name":"E 88 St & 1 Ave","start_station_latitude":"40.778301","start_station_longitude":"-73.9488134"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce50d"},"start_station_id":"3289","start_station_name":"W 90 St & Amsterdam Ave","start_station_latitude":"40.79017948","start_station_longitude":"-73.97288918"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce50e"},"start_station_id":"3290","start_station_name":"E 89 St & York Ave","start_station_latitude":"40.7779453","start_station_longitude":"-73.946041"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce50f"},"start_station_id":"3292","start_station_name":"5 Ave & E 93 St","start_station_latitude":"40.7857851","start_station_longitude":"-73.957481"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce510"},"start_station_id":"3293","start_station_name":"W 92 St & Broadway","start_station_latitude":"40.7921","start_station_longitude":"-73.9739"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce511"},"start_station_id":"3294","start_station_name":"E 91 St & Park Ave","start_station_latitude":"40.7835016","start_station_longitude":"-73.955327"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce512"},"start_station_id":"3295","start_station_name":"Central Park W & W 96 St","start_station_latitude":"40.79127","start_station_longitude":"-73.964839"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce513"},"start_station_id":"3296","start_station_name":"E 93 St & 2 Ave","start_station_latitude":"40.78245418","start_station_longitude":"-73.94891962"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce514"},"start_station_id":"3297","start_station_name":"6 St & 7 Ave","start_station_latitude":"40.6686627","start_station_longitude":"-73.97988067"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce515"},"start_station_id":"3298","start_station_name":"Warren St & Court St","start_station_latitude":"40.686371","start_station_longitude":"-73.99383324"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce516"},"start_station_id":"3299","start_station_name":"E 98 St & Park Ave","start_station_latitude":"40.78813","start_station_longitude":"-73.95206"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce517"},"start_station_id":"330","start_station_name":"Reade St & Broadway","start_station_latitude":"40.71450451","start_station_longitude":"-74.00562789"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce518"},"start_station_id":"3300","start_station_name":"Prospect Park West & 8 St","start_station_latitude":"40.66514682","start_station_longitude":"-73.97637606"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce519"},"start_station_id":"3301","start_station_name":"Columbus Ave & W 95 St","start_station_latitude":"40.7919557","start_station_longitude":"-73.968087"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce51a"},"start_station_id":"3302","start_station_name":"Columbus Ave & W 103 St","start_station_latitude":"40.7969347","start_station_longitude":"-73.96434123"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce51b"},"start_station_id":"3303","start_station_name":"Butler St & Court St","start_station_latitude":"40.6849894","start_station_longitude":"-73.99440329"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce51c"},"start_station_id":"3304","start_station_name":"6 Ave & 9 St","start_station_latitude":"40.668127","start_station_longitude":"-73.98377641"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce51d"},"start_station_id":"3305","start_station_name":"E 91 St & 2 Ave","start_station_latitude":"40.7811223","start_station_longitude":"-73.94965589"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce51e"},"start_station_id":"3306","start_station_name":"10 St & 7 Ave","start_station_latitude":"40.6662078","start_station_longitude":"-73.98199886"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce51f"},"start_station_id":"3307","start_station_name":"West End Ave & W 94 St","start_station_latitude":"40.7941654","start_station_longitude":"-73.974124"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce520"},"start_station_id":"3308","start_station_name":"Kane St & Clinton St","start_station_latitude":"40.6861758","start_station_longitude":"-73.99645295"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce521"},"start_station_id":"3309","start_station_name":"E 97 St & 3 Ave","start_station_latitude":"40.7859201","start_station_longitude":"-73.94860294"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce522"},"start_station_id":"331","start_station_name":"Pike St & Monroe St","start_station_latitude":"40.71173107","start_station_longitude":"-73.99193043"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce523"},"start_station_id":"3310","start_station_name":"14 St & 7 Ave","start_station_latitude":"40.663779","start_station_longitude":"-73.98396846"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce524"},"start_station_id":"3311","start_station_name":"Columbia St & Kane St","start_station_latitude":"40.68763155","start_station_longitude":"-74.0016256"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce525"},"start_station_id":"3312","start_station_name":"1 Ave & E 94 St","start_station_latitude":"40.7817212","start_station_longitude":"-73.94594"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce526"},"start_station_id":"3313","start_station_name":"6 Ave & 12 St","start_station_latitude":"40.6663181","start_station_longitude":"-73.9854617"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce527"},"start_station_id":"3314","start_station_name":"W 95 St & Broadway","start_station_latitude":"40.7937704","start_station_longitude":"-73.971888"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce528"},"start_station_id":"3315","start_station_name":"Henry St & Degraw St","start_station_latitude":"40.6847514","start_station_longitude":"-73.99917254"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce529"},"start_station_id":"3317","start_station_name":"10 St & 5 Ave","start_station_latitude":"40.6686273","start_station_longitude":"-73.98700053"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce52a"},"start_station_id":"3318","start_station_name":"2 Ave & E 96 St","start_station_latitude":"40.7839636","start_station_longitude":"-73.9471673"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce52b"},"start_station_id":"3319","start_station_name":"14 St & 5 Ave","start_station_latitude":"40.666287","start_station_longitude":"-73.98895053"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce52c"},"start_station_id":"332","start_station_name":"Cherry St","start_station_latitude":"40.71219906","start_station_longitude":"-73.97948148"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce52d"},"start_station_id":"3320","start_station_name":"Central Park West & W 100 St","start_station_latitude":"40.79406661","start_station_longitude":"-73.96286845"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce52e"},"start_station_id":"3321","start_station_name":"Clinton St & Union St","start_station_latitude":"40.6831164","start_station_longitude":"-73.99785267"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce52f"},"start_station_id":"3322","start_station_name":"12 St & 4 Ave","start_station_latitude":"40.668603","start_station_longitude":"-73.9904394"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce530"},"start_station_id":"3323","start_station_name":"W 106 St & Central Park West","start_station_latitude":"40.7981856","start_station_longitude":"-73.9605909"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce531"},"start_station_id":"3324","start_station_name":"3 Ave & 14 St","start_station_latitude":"40.6685455","start_station_longitude":"-73.99333264"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce532"},"start_station_id":"3325","start_station_name":"E 95 St & 3 Ave","start_station_latitude":"40.7849032","start_station_longitude":"-73.950503"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce533"},"start_station_id":"3326","start_station_name":"Clinton St & Centre St","start_station_latitude":"40.67434","start_station_longitude":"-74.00194698"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce534"},"start_station_id":"3327","start_station_name":"3 Ave & E 100 St","start_station_latitude":"40.7877214","start_station_longitude":"-73.94728331"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce535"},"start_station_id":"3328","start_station_name":"W 100 St & Manhattan Ave","start_station_latitude":"40.795","start_station_longitude":"-73.9645"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce536"},"start_station_id":"3329","start_station_name":"Degraw St & Smith St","start_station_latitude":"40.6829151","start_station_longitude":"-73.99318208"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce537"},"start_station_id":"3330","start_station_name":"Henry St & Bay St","start_station_latitude":"40.6725058","start_station_longitude":"-74.00494695"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce538"},"start_station_id":"3331","start_station_name":"Riverside Dr & W 104 St","start_station_latitude":"40.8013434","start_station_longitude":"-73.97114574"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce539"},"start_station_id":"3332","start_station_name":"Degraw St & Hoyt St","start_station_latitude":"40.68199044","start_station_longitude":"-73.99079025"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce53a"},"start_station_id":"3333","start_station_name":"Columbia St & Lorraine St","start_station_latitude":"40.6747055","start_station_longitude":"-74.0075572"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce53b"},"start_station_id":"3335","start_station_name":"Union St & 4 Ave","start_station_latitude":"40.6772744","start_station_longitude":"-73.98282002"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce53c"},"start_station_id":"3336","start_station_name":"E 97 St & Madison Ave","start_station_latitude":"40.787801","start_station_longitude":"-73.953559"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce53d"},"start_station_id":"3337","start_station_name":"Dwight St & Van Dyke St","start_station_latitude":"40.67363551","start_station_longitude":"-74.01195556"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce53e"},"start_station_id":"3338","start_station_name":"2 Ave & E 99 St","start_station_latitude":"40.7862586","start_station_longitude":"-73.94552579"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce53f"},"start_station_id":"3339","start_station_name":"Berkeley Pl & 6 Ave","start_station_latitude":"40.6765304","start_station_longitude":"-73.97846879"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce540"},"start_station_id":"334","start_station_name":"W 20 St & 7 Ave","start_station_latitude":"40.74238787","start_station_longitude":"-73.99726235"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce541"},"start_station_id":"3340","start_station_name":"Wolcott St & Dwight St","start_station_latitude":"40.6753274","start_station_longitude":"-74.0100698"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce542"},"start_station_id":"3341","start_station_name":"Central Park West & W 102 St","start_station_latitude":"40.795346","start_station_longitude":"-73.96186"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce543"},"start_station_id":"3342","start_station_name":"Pioneer St & Richards St","start_station_latitude":"40.6777748","start_station_longitude":"-74.0094613"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce544"},"start_station_id":"3343","start_station_name":"W 107 St & Columbus Ave","start_station_latitude":"40.7997568","start_station_longitude":"-73.96211287"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce545"},"start_station_id":"3344","start_station_name":"Pioneer St & Van Brunt St","start_station_latitude":"40.679043","start_station_longitude":"-74.011169"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce546"},"start_station_id":"3345","start_station_name":"Madison Ave & E 99 St","start_station_latitude":"40.78948542","start_station_longitude":"-73.95242929"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce547"},"start_station_id":"3346","start_station_name":"Berkeley Pl & 7 Ave","start_station_latitude":"40.67514684","start_station_longitude":"-73.97523209"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce548"},"start_station_id":"3347","start_station_name":"Van Brunt St & Wolcott St","start_station_latitude":"40.6773429","start_station_longitude":"-74.01275056"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce549"},"start_station_id":"3348","start_station_name":"Coffey St & Conover St","start_station_latitude":"40.677236","start_station_longitude":"-74.015665"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce54a"},"start_station_id":"3349","start_station_name":"Grand Army Plaza & Plaza St West","start_station_latitude":"40.6729679","start_station_longitude":"-73.97087984"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce54b"},"start_station_id":"335","start_station_name":"Washington Pl & Broadway","start_station_latitude":"40.72903917","start_station_longitude":"-73.99404649"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce54c"},"start_station_id":"3350","start_station_name":"W 100 St & Broadway","start_station_latitude":"40.7973721","start_station_longitude":"-73.97041192"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce54d"},"start_station_id":"3351","start_station_name":"E 102 St & 1 Ave","start_station_latitude":"40.7869946","start_station_longitude":"-73.94164802"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce54e"},"start_station_id":"3352","start_station_name":"Sigourney St & Columbia St","start_station_latitude":"40.67267243","start_station_longitude":"-74.00879525"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce54f"},"start_station_id":"3354","start_station_name":"3 St & Prospect Park West","start_station_latitude":"40.668132","start_station_longitude":"-73.97363831"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce550"},"start_station_id":"3355","start_station_name":"E 66 St & Madison Ave","start_station_latitude":"40.76800889","start_station_longitude":"-73.96845281"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce551"},"start_station_id":"3356","start_station_name":"Amsterdam Ave & W 66 St","start_station_latitude":"40.7746671","start_station_longitude":"-73.98470567"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce552"},"start_station_id":"3357","start_station_name":"W 106 St & Amsterdam Ave","start_station_latitude":"40.8008363","start_station_longitude":"-73.96644925"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce553"},"start_station_id":"3358","start_station_name":"Garfield Pl & 8 Ave","start_station_latitude":"40.6711978","start_station_longitude":"-73.97484126"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce554"},"start_station_id":"3359","start_station_name":"E 68 St & Madison Ave","start_station_latitude":"40.7691572","start_station_longitude":"-73.96703464"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce555"},"start_station_id":"336","start_station_name":"Sullivan St & Washington Sq","start_station_latitude":"40.73047747","start_station_longitude":"-73.99906065"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce556"},"start_station_id":"3360","start_station_name":"Amsterdam Ave & W 79 St","start_station_latitude":"40.7829391","start_station_longitude":"-73.9786517"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce557"},"start_station_id":"3362","start_station_name":"Madison Ave & E 82 St","start_station_latitude":"40.7781314","start_station_longitude":"-73.96069399"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce558"},"start_station_id":"3363","start_station_name":"E 102 St & Park Ave","start_station_latitude":"40.7904828","start_station_longitude":"-73.95033068"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce559"},"start_station_id":"3364","start_station_name":"Carroll St & 5 Ave","start_station_latitude":"40.6751622","start_station_longitude":"-73.9814832"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce55a"},"start_station_id":"3365","start_station_name":"3 St & 7 Ave","start_station_latitude":"40.6703837","start_station_longitude":"-73.97839676"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce55b"},"start_station_id":"3366","start_station_name":"West End Ave & W 107 St","start_station_latitude":"40.8021174","start_station_longitude":"-73.96818053"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce55c"},"start_station_id":"3367","start_station_name":"5 Ave & E 103 St","start_station_latitude":"40.7922553","start_station_longitude":"-73.95249933"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce55d"},"start_station_id":"3368","start_station_name":"5 Ave & 3 St","start_station_latitude":"40.6728155","start_station_longitude":"-73.98352355"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce55e"},"start_station_id":"3369","start_station_name":"E 82 St & East End Ave","start_station_latitude":"40.7724607","start_station_longitude":"-73.9468208"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce55f"},"start_station_id":"337","start_station_name":"Old Slip & Front St","start_station_latitude":"40.7037992","start_station_longitude":"-74.00838676"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce560"},"start_station_id":"3370","start_station_name":"E 78 St & 2 Ave","start_station_latitude":"40.7727966","start_station_longitude":"-73.95577801"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce561"},"start_station_id":"3372","start_station_name":"E 74 St & 1 Ave","start_station_latitude":"40.7689738","start_station_longitude":"-73.95482273"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce562"},"start_station_id":"3373","start_station_name":"3 St & 3 Ave","start_station_latitude":"40.6750705","start_station_longitude":"-73.98775226"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce563"},"start_station_id":"3374","start_station_name":"Central Park North & Adam Clayton Powell Blvd","start_station_latitude":"40.799484","start_station_longitude":"-73.955613"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce564"},"start_station_id":"3375","start_station_name":"3 Ave & E 72 St","start_station_latitude":"40.7699426","start_station_longitude":"-73.96060712"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce565"},"start_station_id":"3376","start_station_name":"E 65 St & 2 Ave","start_station_latitude":"40.76471852","start_station_longitude":"-73.9622207"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce566"},"start_station_id":"3377","start_station_name":"Carroll St & Bond St","start_station_latitude":"40.6786115","start_station_longitude":"-73.99037292"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce567"},"start_station_id":"3378","start_station_name":"E 76 St & Park Ave","start_station_latitude":"40.773763","start_station_longitude":"-73.96222088"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce568"},"start_station_id":"3379","start_station_name":"E 103 St & Lexington Ave","start_station_latitude":"40.7903051","start_station_longitude":"-73.94755757"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce569"},"start_station_id":"3381","start_station_name":"3 St & Hoyt St","start_station_latitude":"40.6777287","start_station_longitude":"-73.99364123"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce56a"},"start_station_id":"3382","start_station_name":"Carroll St & Smith St","start_station_latitude":"40.680611","start_station_longitude":"-73.99475825"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce56b"},"start_station_id":"3383","start_station_name":"Cathedral Pkwy & Broadway","start_station_latitude":"40.804213","start_station_longitude":"-73.96699104"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce56c"},"start_station_id":"3384","start_station_name":"Smith St & 3 St","start_station_latitude":"40.6787242","start_station_longitude":"-73.99599099"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce56d"},"start_station_id":"3386","start_station_name":"1 Pl & Clinton St","start_station_latitude":"40.6809591","start_station_longitude":"-73.99905709"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce56e"},"start_station_id":"3387","start_station_name":"E 106 St & Madison Ave","start_station_latitude":"40.7934337","start_station_longitude":"-73.94945003"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce56f"},"start_station_id":"3388","start_station_name":"President St & Henry St","start_station_latitude":"40.6828003","start_station_longitude":"-73.99990419"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce570"},"start_station_id":"3389","start_station_name":"Carroll St & Columbia St","start_station_latitude":"40.6830456","start_station_longitude":"-74.00348559"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce571"},"start_station_id":"339","start_station_name":"Avenue D & E 12 St","start_station_latitude":"40.72580614","start_station_longitude":"-73.97422494"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce572"},"start_station_id":"3390","start_station_name":"E 109 St & 3 Ave","start_station_latitude":"40.79329668","start_station_longitude":"-73.9432083"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce573"},"start_station_id":"3391","start_station_name":"E 106 St & 1 Ave","start_station_latitude":"40.7892529","start_station_longitude":"-73.93956237"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce574"},"start_station_id":"3392","start_station_name":"Commerce St & Van Brunt St","start_station_latitude":"40.6812117","start_station_longitude":"-74.00860912"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce575"},"start_station_id":"3393","start_station_name":"Richards St & Delavan St","start_station_latitude":"40.6794327","start_station_longitude":"-74.00785041"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce576"},"start_station_id":"3394","start_station_name":"Columbia St & W 9 St","start_station_latitude":"40.6769993","start_station_longitude":"-74.00647134"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce577"},"start_station_id":"3395","start_station_name":"Henry St & W 9 St","start_station_latitude":"40.6763744","start_station_longitude":"-74.00324957"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce578"},"start_station_id":"3396","start_station_name":"Clinton St & 4 Place","start_station_latitude":"40.6783563","start_station_longitude":"-74.00014502"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce579"},"start_station_id":"3397","start_station_name":"Court St & Nelson St","start_station_latitude":"40.6763947","start_station_longitude":"-73.99869893"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce57a"},"start_station_id":"3398","start_station_name":"Smith St & 9 St","start_station_latitude":"40.6746957","start_station_longitude":"-73.99785768"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce57b"},"start_station_id":"3399","start_station_name":"7 St & 3 Ave","start_station_latitude":"40.67260298","start_station_longitude":"-73.98983002"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce57c"},"start_station_id":"340","start_station_name":"Madison St & Clinton St","start_station_latitude":"40.71269042","start_station_longitude":"-73.98776323"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce57d"},"start_station_id":"3400","start_station_name":"E 110 St & Madison Ave","start_station_latitude":"40.7961535","start_station_longitude":"-73.94782145"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce57e"},"start_station_id":"3402","start_station_name":"Court St & State St","start_station_latitude":"40.6902375","start_station_longitude":"-73.99203074"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce57f"},"start_station_id":"3403","start_station_name":"4 Ave & 9 St","start_station_latitude":"40.6705135","start_station_longitude":"-73.98876585"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce580"},"start_station_id":"3404","start_station_name":"7 St & 5 Ave","start_station_latitude":"40.6704922","start_station_longitude":"-73.98541675"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce581"},"start_station_id":"3405","start_station_name":"5 St & 6 Ave","start_station_latitude":"40.6704836","start_station_longitude":"-73.98208968"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce582"},"start_station_id":"3407","start_station_name":"Union St & Nevins St","start_station_latitude":"40.679098","start_station_longitude":"-73.98765475"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce583"},"start_station_id":"3408","start_station_name":"Congress St & Clinton St","start_station_latitude":"40.6881529","start_station_longitude":"-73.99520919"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce584"},"start_station_id":"3409","start_station_name":"Bergen St & Smith St","start_station_latitude":"40.6867443","start_station_longitude":"-73.99063168"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce585"},"start_station_id":"341","start_station_name":"Stanton St & Mangin St","start_station_latitude":"40.71782143","start_station_longitude":"-73.97628939"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce586"},"start_station_id":"3410","start_station_name":"Dean St & Hoyt St","start_station_latitude":"40.6864442","start_station_longitude":"-73.98759104"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce587"},"start_station_id":"3411","start_station_name":"Bond St & Bergen St","start_station_latitude":"40.6849668","start_station_longitude":"-73.98620772"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce588"},"start_station_id":"3412","start_station_name":"Pacific St & Nevins St","start_station_latitude":"40.6853761","start_station_longitude":"-73.98302136"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce589"},"start_station_id":"3413","start_station_name":"Wyckoff St & 3 Ave","start_station_latitude":"40.6827549","start_station_longitude":"-73.98258555"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce58a"},"start_station_id":"3414","start_station_name":"Bergen St & Flatbush Ave","start_station_latitude":"40.68094472","start_station_longitude":"-73.97567332"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce58b"},"start_station_id":"3415","start_station_name":"Prospect Pl & 6 Ave","start_station_latitude":"40.6793307","start_station_longitude":"-73.97519523"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce58c"},"start_station_id":"3416","start_station_name":"7 Ave & Park Pl","start_station_latitude":"40.6776147","start_station_longitude":"-73.97324283"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce58d"},"start_station_id":"3417","start_station_name":"Baltic St & 5 Ave","start_station_latitude":"40.6795766","start_station_longitude":"-73.97854971"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce58e"},"start_station_id":"3418","start_station_name":"Plaza St West & Flatbush Ave","start_station_latitude":"40.6750207","start_station_longitude":"-73.97111473"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce58f"},"start_station_id":"3419","start_station_name":"Douglass St & 4 Ave","start_station_latitude":"40.6792788","start_station_longitude":"-73.98154004"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce590"},"start_station_id":"342","start_station_name":"Columbia St & Rivington St","start_station_latitude":"40.71739973","start_station_longitude":"-73.98016555"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce591"},"start_station_id":"3420","start_station_name":"Douglass St & 3 Ave","start_station_latitude":"40.6802133","start_station_longitude":"-73.98432695"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce592"},"start_station_id":"3422","start_station_name":"Columbia St & Degraw St","start_station_latitude":"40.6859296","start_station_longitude":"-74.00242364"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce593"},"start_station_id":"3423","start_station_name":"West Drive & Prospect Park West","start_station_latitude":"40.66106337","start_station_longitude":"-73.97945255"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce594"},"start_station_id":"3424","start_station_name":"E 106 St & Lexington Ave","start_station_latitude":"40.791976","start_station_longitude":"-73.945993"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce595"},"start_station_id":"3425","start_station_name":"2 Ave & E 104 St","start_station_latitude":"40.7892105","start_station_longitude":"-73.94370784"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce596"},"start_station_id":"3429","start_station_name":"Hanson Pl & Ashland Pl","start_station_latitude":"40.68506807","start_station_longitude":"-73.9779076"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce597"},"start_station_id":"343","start_station_name":"Clinton Ave & Flushing Ave","start_station_latitude":"40.69794","start_station_longitude":"-73.96986848"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce598"},"start_station_id":"3430","start_station_name":"Richardson St & N Henry St","start_station_latitude":"40.71907891","start_station_longitude":"-73.9422369"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce599"},"start_station_id":"3435","start_station_name":"Grand St & Elizabeth St","start_station_latitude":"40.718822","start_station_longitude":"-73.99596"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce59a"},"start_station_id":"3437","start_station_name":"Riverside Dr & W 91 St","start_station_latitude":"40.79313481","start_station_longitude":"-73.97700369"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce59b"},"start_station_id":"344","start_station_name":"Monroe St & Bedford Ave","start_station_latitude":"40.6851443","start_station_longitude":"-73.95380904"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce59c"},"start_station_id":"3440","start_station_name":"Fulton St & Adams St","start_station_latitude":"40.69241829","start_station_longitude":"-73.98949474"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce59d"},"start_station_id":"3441","start_station_name":"10 Hudson Yards","start_station_latitude":"40.752957","start_station_longitude":"-74.00264"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce59e"},"start_station_id":"3443","start_station_name":"W 52 St & 6 Ave","start_station_latitude":"40.76132983","start_station_longitude":"-73.97982001"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce59f"},"start_station_id":"3449","start_station_name":"Eckford St & Engert Ave","start_station_latitude":"40.72146256","start_station_longitude":"-73.94800901"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5a0"},"start_station_id":"3452","start_station_name":"Bayard St & Leonard St","start_station_latitude":"40.71915572","start_station_longitude":"-73.94885391"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5a1"},"start_station_id":"3453","start_station_name":"Devoe St & Lorimer St","start_station_latitude":"40.71335226","start_station_longitude":"-73.94910336"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5a2"},"start_station_id":"3454","start_station_name":"Leonard St & Maujer St","start_station_latitude":"40.71036854","start_station_longitude":"-73.94705951"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5a3"},"start_station_id":"3456","start_station_name":"Jackson St & Leonard St","start_station_latitude":"40.71638032","start_station_longitude":"-73.94821286"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5a4"},"start_station_id":"3457","start_station_name":"E 58 St & Madison Ave","start_station_latitude":"40.76302594","start_station_longitude":"-73.97209525"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5a5"},"start_station_id":"3459","start_station_name":"E 53 St & 3 Ave","start_station_latitude":"40.75763228","start_station_longitude":"-73.96930575"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5a6"},"start_station_id":"346","start_station_name":"Bank St & Hudson St","start_station_latitude":"40.73652889","start_station_longitude":"-74.00618026"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5a7"},"start_station_id":"3461","start_station_name":"Murray St & Greenwich St","start_station_latitude":"40.71485151","start_station_longitude":"-74.01122332"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5a8"},"start_station_id":"3463","start_station_name":"E 16 St & Irving Pl","start_station_latitude":"40.73536706","start_station_longitude":"-73.98797393"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5a9"},"start_station_id":"3467","start_station_name":"W Broadway & Spring Street","start_station_latitude":"40.72494672","start_station_longitude":"-74.00165856"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5aa"},"start_station_id":"3469","start_station_name":"India St & West St","start_station_latitude":"40.73181402","start_station_longitude":"-73.95995021"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5ab"},"start_station_id":"347","start_station_name":"Greenwich St & W Houston St","start_station_latitude":"40.728846","start_station_longitude":"-74.008591"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5ac"},"start_station_id":"3472","start_station_name":"W 15 St & 10 Ave","start_station_latitude":"40.74275383","start_station_longitude":"-74.00747359"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5ad"},"start_station_id":"3477","start_station_name":"39 St & 2 Ave - Citi Bike HQ at Industry City","start_station_latitude":"40.65539977","start_station_longitude":"-74.01062787"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5ae"},"start_station_id":"3478","start_station_name":"2 Ave & 36 St - Citi Bike HQ at Industry City","start_station_latitude":"40.65708867","start_station_longitude":"-74.00870204"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5af"},"start_station_id":"3479","start_station_name":"Picnic Point","start_station_latitude":"40.6851256","start_station_longitude":"-74.02535319"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5b0"},"start_station_id":"3486","start_station_name":"Schermerhorn St & Bond St","start_station_latitude":"40.68841743","start_station_longitude":"-73.98451656"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5b1"},"start_station_id":"349","start_station_name":"Rivington St & Ridge St","start_station_latitude":"40.71850211","start_station_longitude":"-73.98329859"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5b2"},"start_station_id":"3490","start_station_name":"E 116 St & 2 Ave","start_station_latitude":"40.796879","start_station_longitude":"-73.937261"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5b3"},"start_station_id":"3491","start_station_name":"E 118 St & 1 Ave","start_station_latitude":"40.79747","start_station_longitude":"-73.93504"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5b4"},"start_station_id":"3492","start_station_name":"E 118 St & Park Ave","start_station_latitude":"40.8005385","start_station_longitude":"-73.9419949"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5b5"},"start_station_id":"3493","start_station_name":"E 118 St & 3 Ave","start_station_latitude":"40.799139","start_station_longitude":"-73.9389152"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5b6"},"start_station_id":"3494","start_station_name":"E 115 St & Lexington Ave","start_station_latitude":"40.797911","start_station_longitude":"-73.9423"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5b7"},"start_station_id":"3495","start_station_name":"E 114 St & 1 Ave","start_station_latitude":"40.7945663","start_station_longitude":"-73.9362541"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5b8"},"start_station_id":"3496","start_station_name":"1 Ave & E 110 St","start_station_latitude":"40.7923272","start_station_longitude":"-73.9383"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5b9"},"start_station_id":"3497","start_station_name":"Pleasant Ave & E 116 St","start_station_latitude":"40.7949879","start_station_longitude":"-73.9333349"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5ba"},"start_station_id":"3498","start_station_name":"Pleasant Ave & E 120 St","start_station_latitude":"40.7974772","start_station_longitude":"-73.9311847"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5bb"},"start_station_id":"3499","start_station_name":"2 Ave & E 122 St","start_station_latitude":"40.8006721","start_station_longitude":"-73.9349"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5bc"},"start_station_id":"350","start_station_name":"Clinton St & Grand St","start_station_latitude":"40.71559509","start_station_longitude":"-73.9870295"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5bd"},"start_station_id":"3500","start_station_name":"E 115 St & Madison Ave","start_station_latitude":"40.7989445","start_station_longitude":"-73.944846"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5be"},"start_station_id":"3501","start_station_name":"E 118 St & Madison Ave","start_station_latitude":"40.8014866","start_station_longitude":"-73.9442507"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5bf"},"start_station_id":"3502","start_station_name":"Lexington Ave & E 111 St","start_station_latitude":"40.7954121","start_station_longitude":"-73.9441232"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5c0"},"start_station_id":"3503","start_station_name":"Madison Ave & E 120 St","start_station_latitude":"40.80295","start_station_longitude":"-73.942954"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5c1"},"start_station_id":"3504","start_station_name":"E 123 St & Lexington Ave","start_station_latitude":"40.8029263","start_station_longitude":"-73.9379"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5c2"},"start_station_id":"3505","start_station_name":"Lexington Ave & E 127 St","start_station_latitude":"40.805726","start_station_longitude":"-73.936322"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5c3"},"start_station_id":"3506","start_station_name":"Lexington Ave & E 120 St","start_station_latitude":"40.8013066","start_station_longitude":"-73.9398167"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5c4"},"start_station_id":"3507","start_station_name":"Park Ave & E 124 St","start_station_latitude":"40.8045555","start_station_longitude":"-73.9396861"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5c5"},"start_station_id":"3508","start_station_name":"St Nicholas Ave & Manhattan Ave","start_station_latitude":"40.809725","start_station_longitude":"-73.953149"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5c6"},"start_station_id":"3509","start_station_name":"Lenox Ave & W 115 St","start_station_latitude":"40.8011939","start_station_longitude":"-73.9500739"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5c7"},"start_station_id":"351","start_station_name":"Front St & Maiden Ln","start_station_latitude":"40.70530954","start_station_longitude":"-74.00612572"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5c8"},"start_station_id":"3510","start_station_name":"Adam Clayton Powell Blvd & W 123 St","start_station_latitude":"40.8078316","start_station_longitude":"-73.949373"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5c9"},"start_station_id":"3511","start_station_name":"Adam Clayton Powell Blvd & W 115 St","start_station_latitude":"40.802535","start_station_longitude":"-73.9532423"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5ca"},"start_station_id":"3513","start_station_name":"21 St & Hoyt Ave S","start_station_latitude":"40.774645","start_station_longitude":"-73.923706"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5cb"},"start_station_id":"3514","start_station_name":"Astoria Park S & Shore Blvd","start_station_latitude":"40.7767","start_station_longitude":"-73.927631"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5cc"},"start_station_id":"3515","start_station_name":"24 Ave & 26 St","start_station_latitude":"40.774591","start_station_longitude":"-73.918544"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5cd"},"start_station_id":"3516","start_station_name":"31 St & Astoria Blvd","start_station_latitude":"40.7699176","start_station_longitude":"-73.9184057"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5ce"},"start_station_id":"3517","start_station_name":"31 St & Hoyt Ave N","start_station_latitude":"40.7711528","start_station_longitude":"-73.9170074"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5cf"},"start_station_id":"3518","start_station_name":"Lenox Ave & W 126 St","start_station_latitude":"40.808442","start_station_longitude":"-73.9452087"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5d0"},"start_station_id":"3520","start_station_name":"Adam Clayton Powell Blvd & W 118 St","start_station_latitude":"40.804372","start_station_longitude":"-73.951475"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5d1"},"start_station_id":"3521","start_station_name":"Lenox Ave & W 111 St","start_station_latitude":"40.7987859","start_station_longitude":"-73.9523"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5d2"},"start_station_id":"3522","start_station_name":"37 St & 24 Ave","start_station_latitude":"40.7701477","start_station_longitude":"-73.9120938"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5d3"},"start_station_id":"3523","start_station_name":"24 Ave & 29 St","start_station_latitude":"40.7729","start_station_longitude":"-73.916142"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5d4"},"start_station_id":"3524","start_station_name":"19 St & 24 Ave","start_station_latitude":"40.7774552","start_station_longitude":"-73.9225403"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5d5"},"start_station_id":"3525","start_station_name":"23 Ave & 27 St","start_station_latitude":"40.776165","start_station_longitude":"-73.9153175"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5d6"},"start_station_id":"3526","start_station_name":"31 St & 23 Ave","start_station_latitude":"40.7747878","start_station_longitude":"-73.9125551"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5d7"},"start_station_id":"3527","start_station_name":"5 Ave & E 126 St","start_station_latitude":"40.80698","start_station_longitude":"-73.941747"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5d8"},"start_station_id":"3528","start_station_name":"Steinway St & 23 Ave","start_station_latitude":"40.7713937","start_station_longitude":"-73.9077436"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5d9"},"start_station_id":"3529","start_station_name":"Lenox Ave & W 130 St","start_station_latitude":"40.8107922","start_station_longitude":"-73.9430681"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5da"},"start_station_id":"353","start_station_name":"S Portland Ave & Hanson Pl","start_station_latitude":"40.68539567","start_station_longitude":"-73.97431458"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5db"},"start_station_id":"3530","start_station_name":"Crescent St & Ditmars Blvd","start_station_latitude":"40.7787185","start_station_longitude":"-73.9145645"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5dc"},"start_station_id":"3531","start_station_name":"Frederick Douglass Blvd & W 129 St","start_station_latitude":"40.8125511","start_station_longitude":"-73.9492286"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5dd"},"start_station_id":"3532","start_station_name":"Ditmars Blvd & 19 St","start_station_latitude":"40.78145","start_station_longitude":"-73.9183302"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5de"},"start_station_id":"3533","start_station_name":"St. Nicholas Ave & W 126 St","start_station_latitude":"40.8114323","start_station_longitude":"-73.9518776"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5df"},"start_station_id":"3534","start_station_name":"Frederick Douglass Blvd & W 117 St","start_station_latitude":"40.805159","start_station_longitude":"-73.954692"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5e0"},"start_station_id":"3535","start_station_name":"Mt Morris Park W & W 120 St","start_station_latitude":"40.804038","start_station_longitude":"-73.945925"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5e1"},"start_station_id":"3536","start_station_name":"W 116 St & Broadway","start_station_latitude":"40.8082","start_station_longitude":"-73.9641"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5e2"},"start_station_id":"3537","start_station_name":"Carlton Ave & Dean St","start_station_latitude":"40.6809741","start_station_longitude":"-73.9710097"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5e3"},"start_station_id":"3538","start_station_name":"W 110 St & Amsterdam Ave","start_station_latitude":"40.802692","start_station_longitude":"-73.96295"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5e4"},"start_station_id":"3539","start_station_name":"W 116 St & Amsterdam Ave","start_station_latitude":"40.8067581","start_station_longitude":"-73.9607082"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5e5"},"start_station_id":"354","start_station_name":"Emerson Pl & Myrtle Ave","start_station_latitude":"40.69363137","start_station_longitude":"-73.96223558"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5e6"},"start_station_id":"3540","start_station_name":"Morningside Ave & W 123 St","start_station_latitude":"40.81","start_station_longitude":"-73.9551508"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5e7"},"start_station_id":"3541","start_station_name":"Amsterdam Ave & W 125 St","start_station_latitude":"40.813358","start_station_longitude":"-73.956461"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5e8"},"start_station_id":"3542","start_station_name":"Amsterdam Ave & W 119 St","start_station_latitude":"40.8086249","start_station_longitude":"-73.9596214"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5e9"},"start_station_id":"3543","start_station_name":"Morningside Dr & Amsterdam Ave","start_station_latitude":"40.81028506","start_station_longitude":"-73.95736456"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5ea"},"start_station_id":"3544","start_station_name":"Underhill Ave & Pacific St","start_station_latitude":"40.6804836","start_station_longitude":"-73.9646795"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5eb"},"start_station_id":"3545","start_station_name":"Broadway & W 122 St","start_station_latitude":"40.8120562","start_station_longitude":"-73.9612547"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5ec"},"start_station_id":"3546","start_station_name":"Pacific St & Classon Ave","start_station_latitude":"40.6791944","start_station_longitude":"-73.9587903"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5ed"},"start_station_id":"3547","start_station_name":"Broadway & Moylan Pl","start_station_latitude":"40.8143256","start_station_longitude":"-73.9590255"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5ee"},"start_station_id":"3549","start_station_name":"Grand Ave & Bergen St","start_station_latitude":"40.678045","start_station_longitude":"-73.962408"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5ef"},"start_station_id":"355","start_station_name":"Bayard St & Baxter St","start_station_latitude":"40.71602118","start_station_longitude":"-73.99974372"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5f0"},"start_station_id":"3551","start_station_name":"3 Ave & E 112 St","start_station_latitude":"40.795508","start_station_longitude":"-73.941606"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5f1"},"start_station_id":"3552","start_station_name":"W 113 St & Broadway","start_station_latitude":"40.805973","start_station_longitude":"-73.964928"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5f2"},"start_station_id":"3553","start_station_name":"Frederick Douglass Blvd & W 112 St","start_station_latitude":"40.801694","start_station_longitude":"-73.957145"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5f3"},"start_station_id":"3554","start_station_name":"Vernon Blvd & 41 Rd","start_station_latitude":"40.7552433","start_station_longitude":"-73.9485678"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5f4"},"start_station_id":"3555","start_station_name":"28 St & 41 Ave","start_station_latitude":"40.751047","start_station_longitude":"-73.93797"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5f5"},"start_station_id":"3556","start_station_name":"24 St & 41 Ave","start_station_latitude":"40.7527085","start_station_longitude":"-73.9397405"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5f6"},"start_station_id":"3557","start_station_name":"40 Ave & 9 St","start_station_latitude":"40.75742","start_station_longitude":"-73.945133"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5f7"},"start_station_id":"3558","start_station_name":"Bergen St & Vanderbilt Ave","start_station_latitude":"40.6794388","start_station_longitude":"-73.9680438"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5f8"},"start_station_id":"3559","start_station_name":"21 St & 38 Ave","start_station_latitude":"40.7576314","start_station_longitude":"-73.9391224"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5f9"},"start_station_id":"356","start_station_name":"Bialystoker Pl & Delancey St","start_station_latitude":"40.71622644","start_station_longitude":"-73.98261206"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5fa"},"start_station_id":"3560","start_station_name":"28 St & 38 Ave","start_station_latitude":"40.754876","start_station_longitude":"-73.934326"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5fb"},"start_station_id":"3561","start_station_name":"37 Ave & 35 St","start_station_latitude":"40.7531106","start_station_longitude":"-73.9279917"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5fc"},"start_station_id":"3562","start_station_name":"Classon Ave & St Marks Ave","start_station_latitude":"40.6765198","start_station_longitude":"-73.9596082"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5fd"},"start_station_id":"3563","start_station_name":"28 St & 36 Ave","start_station_latitude":"40.757186","start_station_longitude":"-73.932719"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5fe"},"start_station_id":"3564","start_station_name":"21 St & 36 Ave","start_station_latitude":"40.7601853","start_station_longitude":"-73.9362726"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce5ff"},"start_station_id":"3565","start_station_name":"36 Ave & 10 St","start_station_latitude":"40.7614376","start_station_longitude":"-73.9411265"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce600"},"start_station_id":"3566","start_station_name":"Crescent St & 35 Ave","start_station_latitude":"40.7596276","start_station_longitude":"-73.9321455"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce601"},"start_station_id":"3567","start_station_name":"11 St & 35 Ave","start_station_latitude":"40.7627442","start_station_longitude":"-73.9391141"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce602"},"start_station_id":"3568","start_station_name":"34 St & 35 Ave","start_station_latitude":"40.7569332","start_station_longitude":"-73.9262231"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce603"},"start_station_id":"3569","start_station_name":"Franklin Ave & St Marks Ave","start_station_latitude":"40.6758324","start_station_longitude":"-73.9561677"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce604"},"start_station_id":"3570","start_station_name":"35 Ave & 37 St","start_station_latitude":"40.7557327","start_station_longitude":"-73.9236611"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce605"},"start_station_id":"3571","start_station_name":"Bedford Ave & Bergen St","start_station_latitude":"40.676368","start_station_longitude":"-73.952918"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce606"},"start_station_id":"3572","start_station_name":"34 Ave & 38 St","start_station_latitude":"40.756913","start_station_longitude":"-73.921631"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce607"},"start_station_id":"3573","start_station_name":"35 St & 34 Ave","start_station_latitude":"40.7580583","start_station_longitude":"-73.9242751"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce608"},"start_station_id":"3574","start_station_name":"Prospect Pl & Underhill Ave","start_station_latitude":"40.6769694","start_station_longitude":"-73.96579"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce609"},"start_station_id":"3575","start_station_name":"Crescent St & 34 Ave","start_station_latitude":"40.76108","start_station_longitude":"-73.930562"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce60a"},"start_station_id":"3576","start_station_name":"Park Pl & Vanderbilt Ave","start_station_latitude":"40.6767","start_station_longitude":"-73.969024"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce60b"},"start_station_id":"3577","start_station_name":"34 Ave & 21 St","start_station_latitude":"40.7628138","start_station_longitude":"-73.9342862"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce60c"},"start_station_id":"3578","start_station_name":"Park Pl & Franklin Ave","start_station_latitude":"40.6741806","start_station_longitude":"-73.9564947"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce60d"},"start_station_id":"3579","start_station_name":"Sterling Pl & Bedford Ave","start_station_latitude":"40.672695","start_station_longitude":"-73.954131"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce60e"},"start_station_id":"358","start_station_name":"Christopher St & Greenwich St","start_station_latitude":"40.73291553","start_station_longitude":"-74.00711384"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce60f"},"start_station_id":"3580","start_station_name":"St Johns Pl & Washington Ave","start_station_latitude":"40.6737236","start_station_longitude":"-73.9631611"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce610"},"start_station_id":"3581","start_station_name":"Underhill Ave & Lincoln Pl","start_station_latitude":"40.6740123","start_station_longitude":"-73.9671457"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce611"},"start_station_id":"3582","start_station_name":"Lincoln Pl & Classon Ave","start_station_latitude":"40.6721683","start_station_longitude":"-73.9609"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce612"},"start_station_id":"3583","start_station_name":"Eastern Pkwy & Washington Ave","start_station_latitude":"40.6716493","start_station_longitude":"-73.9631145"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce613"},"start_station_id":"3584","start_station_name":"Eastern Pkwy & Franklin Ave","start_station_latitude":"40.6707767","start_station_longitude":"-73.9576801"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce614"},"start_station_id":"3585","start_station_name":"Union St & Bedford Ave","start_station_latitude":"40.6691783","start_station_longitude":"-73.9554162"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce615"},"start_station_id":"3586","start_station_name":"34 Ave & 13 St","start_station_latitude":"40.7638753","start_station_longitude":"-73.9364848"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce616"},"start_station_id":"3587","start_station_name":"Carroll St & Washington Ave","start_station_latitude":"40.6686744","start_station_longitude":"-73.9618148"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce617"},"start_station_id":"3588","start_station_name":"Vernon Blvd & 10 St","start_station_latitude":"40.7671863","start_station_longitude":"-73.9373554"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce618"},"start_station_id":"3589","start_station_name":"Broadway & 12 St","start_station_latitude":"40.7668","start_station_longitude":"-73.9347774"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce619"},"start_station_id":"359","start_station_name":"E 47 St & Park Ave","start_station_latitude":"40.75510267","start_station_longitude":"-73.97498696"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce61a"},"start_station_id":"3590","start_station_name":"Carroll St & Franklin Ave","start_station_latitude":"40.6679411","start_station_longitude":"-73.9588"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce61b"},"start_station_id":"3591","start_station_name":"21 St & 31 Dr","start_station_latitude":"40.7659","start_station_longitude":"-73.930819"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce61c"},"start_station_id":"3592","start_station_name":"Crescent St & Broadway","start_station_latitude":"40.7633589","start_station_longitude":"-73.9286471"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce61d"},"start_station_id":"3593","start_station_name":"31 St & Broadway","start_station_latitude":"40.761584","start_station_longitude":"-73.925921"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce61e"},"start_station_id":"3595","start_station_name":"35 St & Broadway","start_station_latitude":"40.760339","start_station_longitude":"-73.9222427"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce61f"},"start_station_id":"3596","start_station_name":"Sullivan Pl & Bedford Ave","start_station_latitude":"40.6642406","start_station_longitude":"-73.9574686"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce620"},"start_station_id":"3597","start_station_name":"43 St & Broadway","start_station_latitude":"40.7577284","start_station_longitude":"-73.9166368"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce621"},"start_station_id":"3598","start_station_name":"Newton Rd & 44 St","start_station_latitude":"40.7595701","start_station_longitude":"-73.9142678"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce622"},"start_station_id":"3599","start_station_name":"Franklin Ave & Empire Blvd","start_station_latitude":"40.66314","start_station_longitude":"-73.9605695"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce623"},"start_station_id":"360","start_station_name":"William St & Pine St","start_station_latitude":"40.70717936","start_station_longitude":"-74.00887308"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce624"},"start_station_id":"3601","start_station_name":"Sterling St & Bedford Ave","start_station_latitude":"40.6627059","start_station_longitude":"-73.9569115"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce625"},"start_station_id":"3602","start_station_name":"31 Ave & 34 St","start_station_latitude":"40.763154","start_station_longitude":"-73.920827"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce626"},"start_station_id":"3603","start_station_name":"31 Ave & 30 St","start_station_latitude":"40.7647","start_station_longitude":"-73.9240312"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce627"},"start_station_id":"3604","start_station_name":"Rogers Ave & Sterling St","start_station_latitude":"40.6630619","start_station_longitude":"-73.9538746"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce628"},"start_station_id":"3605","start_station_name":"31 Ave & Crescent St","start_station_latitude":"40.7658346","start_station_longitude":"-73.9265474"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce629"},"start_station_id":"3606","start_station_name":"49 Ave & 21 St","start_station_latitude":"40.74252","start_station_longitude":"-73.948852"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce62a"},"start_station_id":"3607","start_station_name":"31 Ave & 14 St","start_station_latitude":"40.7682","start_station_longitude":"-73.9322662"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce62b"},"start_station_id":"3608","start_station_name":"5 St & 51 Ave","start_station_latitude":"40.7423737","start_station_longitude":"-73.9566"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce62c"},"start_station_id":"3609","start_station_name":"Vernon Blvd & 31 Ave","start_station_latitude":"40.7692475","start_station_longitude":"-73.9354504"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce62d"},"start_station_id":"361","start_station_name":"Allen St & Hester St","start_station_latitude":"40.71605866","start_station_longitude":"-73.99190759"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce62e"},"start_station_id":"3610","start_station_name":"Vernon Blvd & 30 Rd","start_station_latitude":"40.770845","start_station_longitude":"-73.934171"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce62f"},"start_station_id":"3611","start_station_name":"Vernon Blvd & 47 Rd","start_station_latitude":"40.7449067","start_station_longitude":"-73.9534573"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce630"},"start_station_id":"3612","start_station_name":"30 Ave & 21 St","start_station_latitude":"40.7703743","start_station_longitude":"-73.9286078"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce631"},"start_station_id":"3613","start_station_name":"Center Blvd & 48 Ave","start_station_latitude":"40.745038","start_station_longitude":"-73.957539"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce632"},"start_station_id":"3614","start_station_name":"Crescent St & 30 Ave","start_station_latitude":"40.768692","start_station_longitude":"-73.9249574"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce633"},"start_station_id":"3615","start_station_name":"44 Dr & 21 St","start_station_latitude":"40.748","start_station_longitude":"-73.9460927"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce634"},"start_station_id":"3616","start_station_name":"Steinway St & 28 Ave","start_station_latitude":"40.7656251","start_station_longitude":"-73.9136695"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce635"},"start_station_id":"3617","start_station_name":"28 Ave & 35 St","start_station_latitude":"40.7671","start_station_longitude":"-73.9169858"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce636"},"start_station_id":"3618","start_station_name":"27 St & Hunter St","start_station_latitude":"40.7485","start_station_longitude":"-73.941275"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce637"},"start_station_id":"3619","start_station_name":"Newtown Ave & 23 St","start_station_latitude":"40.7713615","start_station_longitude":"-73.9246145"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce638"},"start_station_id":"362","start_station_name":"Broadway & W 37 St","start_station_latitude":"40.75172632","start_station_longitude":"-73.98753523"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce639"},"start_station_id":"3620","start_station_name":"11 St & 43 Ave","start_station_latitude":"40.7519071","start_station_longitude":"-73.9479119"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce63a"},"start_station_id":"3621","start_station_name":"27 Ave & 9 St","start_station_latitude":"40.7739825","start_station_longitude":"-73.9309134"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce63b"},"start_station_id":"3622","start_station_name":"E 128 St & Madison Ave","start_station_latitude":"40.80756","start_station_longitude":"-73.939182"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce63c"},"start_station_id":"3623","start_station_name":"W 120 St & Claremont Ave","start_station_latitude":"40.8109494","start_station_longitude":"-73.9634"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce63d"},"start_station_id":"3628","start_station_name":"Lenox Ave & W 117 St","start_station_latitude":"40.8025566","start_station_longitude":"-73.9490782"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce63e"},"start_station_id":"3629","start_station_name":"Adam Clayton Powell Blvd & W 126 St","start_station_latitude":"40.80949535","start_station_longitude":"-73.94776493"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce63f"},"start_station_id":"363","start_station_name":"West Thames St","start_station_latitude":"40.70834698","start_station_longitude":"-74.01713445"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce640"},"start_station_id":"3630","start_station_name":"Frederick Douglass Blvd & W 115 St","start_station_latitude":"40.8038654","start_station_longitude":"-73.9559308"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce641"},"start_station_id":"3637","start_station_name":"Fulton St & Waverly Ave","start_station_latitude":"40.68323865","start_station_longitude":"-73.96599591"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce642"},"start_station_id":"364","start_station_name":"Lafayette Ave & Classon Ave","start_station_latitude":"40.68900443","start_station_longitude":"-73.96023854"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce643"},"start_station_id":"3641","start_station_name":"Broadway & W 25 St","start_station_latitude":"40.74286877","start_station_longitude":"-73.98918629"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce644"},"start_station_id":"3646","start_station_name":"35 Ave & 10 St","start_station_latitude":"40.76315482","start_station_longitude":"-73.9398551"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce645"},"start_station_id":"3647","start_station_name":"48 Ave & 30 Pl","start_station_latitude":"40.74128309","start_station_longitude":"-73.93725872"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce646"},"start_station_id":"3648","start_station_name":"Flushing Ave & Vanderbilt Ave","start_station_latitude":"40.69795032","start_station_longitude":"-73.9707756"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce647"},"start_station_id":"3649","start_station_name":"W 129 St & Convent Ave","start_station_latitude":"40.81439444","start_station_longitude":"-73.95324737"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce648"},"start_station_id":"3654","start_station_name":"31 St & Northern Blvd","start_station_latitude":"40.75186951","start_station_longitude":"-73.9334929"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce649"},"start_station_id":"3656","start_station_name":"E 2 St & Avenue A","start_station_latitude":"40.72307749","start_station_longitude":"-73.98583621"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce64a"},"start_station_id":"3658","start_station_name":"W 18 St & 9 Ave","start_station_latitude":"40.74353373","start_station_longitude":"-74.00367558"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce64b"},"start_station_id":"366","start_station_name":"Clinton Ave & Myrtle Ave","start_station_latitude":"40.693261","start_station_longitude":"-73.968896"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce64c"},"start_station_id":"3661","start_station_name":"Montgomery St & Franklin Ave","start_station_latitude":"40.66643931","start_station_longitude":"-73.96055639"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce64d"},"start_station_id":"3662","start_station_name":"31 Ave & Steinway St","start_station_latitude":"40.7612939","start_station_longitude":"-73.91691685"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce64e"},"start_station_id":"3664","start_station_name":"North Moore St & Greenwich St","start_station_latitude":"40.72019521","start_station_longitude":"-74.01030064"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce64f"},"start_station_id":"3668","start_station_name":"Leonard St & Nassau Ave","start_station_latitude":"40.72395678","start_station_longitude":"-73.94984365"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce650"},"start_station_id":"3671","start_station_name":"E 81 St & 2 Ave","start_station_latitude":"40.77477945","start_station_longitude":"-73.95427465"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce651"},"start_station_id":"3673","start_station_name":"Dean St & Franklin Ave","start_station_latitude":"40.67759207","start_station_longitude":"-73.95563722"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce652"},"start_station_id":"3674","start_station_name":"Jay St & York St","start_station_latitude":"40.70140317","start_station_longitude":"-73.9867267"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce653"},"start_station_id":"3675","start_station_name":"3 Ave & E 95 St","start_station_latitude":"40.7845968","start_station_longitude":"-73.94968539"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce654"},"start_station_id":"3676","start_station_name":"Van Brunt St & Van Dyke St","start_station_latitude":"40.67583294","start_station_longitude":"-74.01472628"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce655"},"start_station_id":"368","start_station_name":"Carmine St & 6 Ave","start_station_latitude":"40.73038599","start_station_longitude":"-74.00214988"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce656"},"start_station_id":"3680","start_station_name":"E 43 St & 5 Ave","start_station_latitude":"40.75412081","start_station_longitude":"-73.98025185"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce657"},"start_station_id":"3686","start_station_name":"Gansevoort St & Hudson St","start_station_latitude":"40.7394482","start_station_longitude":"-74.00507033"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce658"},"start_station_id":"3687","start_station_name":"E 33 St & 1 Ave","start_station_latitude":"40.74322681","start_station_longitude":"-73.97449784"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce659"},"start_station_id":"3689","start_station_name":"W 104 St & Amsterdam Ave","start_station_latitude":"40.79904139","start_station_longitude":"-73.9664948"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce65a"},"start_station_id":"369","start_station_name":"Washington Pl & 6 Ave","start_station_latitude":"40.73224119","start_station_longitude":"-74.00026394"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce65b"},"start_station_id":"3690","start_station_name":"Park Pl & Church St","start_station_latitude":"40.71334184","start_station_longitude":"-74.00935516"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce65c"},"start_station_id":"3691","start_station_name":"28 Ave & 44 St","start_station_latitude":"40.76408932","start_station_longitude":"-73.91065121"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce65d"},"start_station_id":"3692","start_station_name":"5 St & Market St","start_station_latitude":"40.69999748","start_station_longitude":"-73.97440128"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce65e"},"start_station_id":"3693","start_station_name":"N 11 St & Kent Ave","start_station_latitude":"40.72248189","start_station_longitude":"-73.95921931"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce65f"},"start_station_id":"3697","start_station_name":"W 64 St & Thelonious Monk Circle","start_station_latitude":"40.77515953","start_station_longitude":"-73.98918696"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce660"},"start_station_id":"3699","start_station_name":"W 50 St & 9 Ave","start_station_latitude":"40.76360468","start_station_longitude":"-73.98917958"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce661"},"start_station_id":"3704","start_station_name":"47 Ave & Skillman Ave","start_station_latitude":"40.74375241","start_station_longitude":"-73.94176483"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce662"},"start_station_id":"3707","start_station_name":"Lexington Ave & E 26 St","start_station_latitude":"40.741459","start_station_longitude":"-73.983293"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce663"},"start_station_id":"3708","start_station_name":"W 13 St & 5 Ave","start_station_latitude":"40.735445","start_station_longitude":"-73.99431"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce664"},"start_station_id":"3711","start_station_name":"E 13 St & Avenue A","start_station_latitude":"40.72966729","start_station_longitude":"-73.98067966"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce665"},"start_station_id":"3712","start_station_name":"W 35 St & Dyer Ave","start_station_latitude":"40.75469175","start_station_longitude":"-73.99740189"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce666"},"start_station_id":"3714","start_station_name":"Division Av & Hooper St","start_station_latitude":"40.70684203","start_station_longitude":"-73.9544354"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce667"},"start_station_id":"3715","start_station_name":"Driggs Ave & N 9 St","start_station_latitude":"40.71816969","start_station_longitude":"-73.95520136"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce668"},"start_station_id":"3716","start_station_name":"40 Ave & Crescent St","start_station_latitude":"40.7535992","start_station_longitude":"-73.93795609"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce669"},"start_station_id":"3718","start_station_name":"E 11 St & Avenue B","start_station_latitude":"40.72746421","start_station_longitude":"-73.97950418"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce66a"},"start_station_id":"372","start_station_name":"Franklin Ave & Myrtle Ave","start_station_latitude":"40.69454609","start_station_longitude":"-73.95801365"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce66b"},"start_station_id":"3720","start_station_name":"Wyckoff St & Bond St","start_station_latitude":"40.68461654","start_station_longitude":"-73.98721285"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce66c"},"start_station_id":"3721","start_station_name":"31 St & Newtown Ave","start_station_latitude":"40.76754878","start_station_longitude":"-73.92093346"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce66d"},"start_station_id":"3723","start_station_name":"Cadman Plaza E & Johnson St","start_station_latitude":"40.69531728","start_station_longitude":"-73.99015725"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce66e"},"start_station_id":"3724","start_station_name":"7 Ave & Central Park South","start_station_latitude":"40.76674056","start_station_longitude":"-73.97906899"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce66f"},"start_station_id":"3725","start_station_name":"2 Ave & E 72 St","start_station_latitude":"40.76876203","start_station_longitude":"-73.95840794"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce670"},"start_station_id":"3726","start_station_name":"Center Blvd & 51 Ave","start_station_latitude":"40.74336608","start_station_longitude":"-73.95960689"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce671"},"start_station_id":"3727","start_station_name":"Frost St & Meeker Ave","start_station_latitude":"40.71766197","start_station_longitude":"-73.94880027"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce672"},"start_station_id":"3728","start_station_name":"Pierrepont St & Monroe Pl","start_station_latitude":"40.69535693","start_station_longitude":"-73.99344027"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce673"},"start_station_id":"373","start_station_name":"Willoughby Ave & Walworth St","start_station_latitude":"40.69331716","start_station_longitude":"-73.95381995"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce674"},"start_station_id":"3733","start_station_name":"Avenue C & E 18 St","start_station_latitude":"40.730563","start_station_longitude":"-73.973984"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce675"},"start_station_id":"3734","start_station_name":"E 58 St &  1 Ave (NW Corner)","start_station_latitude":"40.759125","start_station_longitude":"-73.962658"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce676"},"start_station_id":"3737","start_station_name":"Stanton St & Norfolk St","start_station_latitude":"40.720747","start_station_longitude":"-73.986274"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce677"},"start_station_id":"3745","start_station_name":"36 Ave & 31 St","start_station_latitude":"40.75651273","start_station_longitude":"-73.92957486"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce678"},"start_station_id":"3746","start_station_name":"6 Ave & Broome St","start_station_latitude":"40.72430832","start_station_longitude":"-74.00473036"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce679"},"start_station_id":"3747","start_station_name":"E 84 St & 3 Ave","start_station_latitude":"40.77755374","start_station_longitude":"-73.9551276"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce67a"},"start_station_id":"3749","start_station_name":"Lexington Ave & E 36 St","start_station_latitude":"40.74757396","start_station_longitude":"-73.97880077"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce67b"},"start_station_id":"3755","start_station_name":"DeKalb Ave & Franklin Ave","start_station_latitude":"40.69064807","start_station_longitude":"-73.95746179"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce67c"},"start_station_id":"3756","start_station_name":"White St & Moore St","start_station_latitude":"40.704508","start_station_longitude":"-73.9351"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce67d"},"start_station_id":"3757","start_station_name":"Stagg St & Morgan Ave","start_station_latitude":"40.710681","start_station_longitude":"-73.93372"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce67e"},"start_station_id":"3758","start_station_name":"George St & Wilson Ave","start_station_latitude":"40.702997","start_station_longitude":"-73.92997"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce67f"},"start_station_id":"3759","start_station_name":"Irving Ave & Jefferson St","start_station_latitude":"40.70538","start_station_longitude":"-73.92535"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce680"},"start_station_id":"376","start_station_name":"John St & William St","start_station_latitude":"40.70862144","start_station_longitude":"-74.00722156"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce681"},"start_station_id":"3760","start_station_name":"Willoughby Ave & Wyckoff Ave","start_station_latitude":"40.705614","start_station_longitude":"-73.92153"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce682"},"start_station_id":"3761","start_station_name":"Cedar St & Myrtle Ave","start_station_latitude":"40.697842","start_station_longitude":"-73.926241"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce683"},"start_station_id":"3762","start_station_name":"3 Ave & Carroll St","start_station_latitude":"40.677027","start_station_longitude":"-73.9865"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce684"},"start_station_id":"3763","start_station_name":"Wyckoff Av & Jefferson St","start_station_latitude":"40.707165","start_station_longitude":"-73.923711"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce685"},"start_station_id":"3764","start_station_name":"Bushwick Ave & McKibbin St","start_station_latitude":"40.705517","start_station_longitude":"-73.93936"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce686"},"start_station_id":"3765","start_station_name":"Bushwick Ave & Stagg St","start_station_latitude":"40.709897","start_station_longitude":"-73.94008"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce687"},"start_station_id":"3766","start_station_name":"Sharon St & Olive St","start_station_latitude":"40.715353","start_station_longitude":"-73.93856"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce688"},"start_station_id":"3767","start_station_name":"Powers St & Olive St","start_station_latitude":"40.71323","start_station_longitude":"-73.93894"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce689"},"start_station_id":"3768","start_station_name":"Waterbury St & Stagg St","start_station_latitude":"40.71019","start_station_longitude":"-73.93734"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce68a"},"start_station_id":"3769","start_station_name":"White St & Johnson Ave","start_station_latitude":"40.707174","start_station_longitude":"-73.93581"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce68b"},"start_station_id":"377","start_station_name":"6 Ave & Canal St","start_station_latitude":"40.72243797","start_station_longitude":"-74.00566443"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce68c"},"start_station_id":"3770","start_station_name":"Central Ave & Flushing Ave","start_station_latitude":"40.702831","start_station_longitude":"-73.9333"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce68d"},"start_station_id":"3771","start_station_name":"McKibbin St & Bogart St","start_station_latitude":"40.706237","start_station_longitude":"-73.933871"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce68e"},"start_station_id":"3772","start_station_name":"Devoe St & Morgan Ave","start_station_latitude":"40.713811","start_station_longitude":"-73.93515"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce68f"},"start_station_id":"3773","start_station_name":"Knickerbocker Ave & Thames St","start_station_latitude":"40.70539","start_station_longitude":"-73.92976"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce690"},"start_station_id":"3774","start_station_name":"Knickerbocker Ave & George St","start_station_latitude":"40.704425","start_station_longitude":"-73.92836"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce691"},"start_station_id":"3775","start_station_name":"Suydam St & Knickerbocker Ave","start_station_latitude":"40.702013","start_station_longitude":"-73.923769"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce692"},"start_station_id":"3776","start_station_name":"Central Ave & Starr Street","start_station_latitude":"40.700003","start_station_longitude":"-73.92834"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce693"},"start_station_id":"3777","start_station_name":"Stockholm St & Wilson Ave","start_station_latitude":"40.699304","start_station_longitude":"-73.923044"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce694"},"start_station_id":"3778","start_station_name":"Irving Ave & DeKalb Ave","start_station_latitude":"40.7027","start_station_longitude":"-73.92095"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce695"},"start_station_id":"3779","start_station_name":"Hart St & Wyckoff Ave","start_station_latitude":"40.704876","start_station_longitude":"-73.919911"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce696"},"start_station_id":"3781","start_station_name":"Greene Av & Myrtle Av","start_station_latitude":"40.698568","start_station_longitude":"-73.918877"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce697"},"start_station_id":"3782","start_station_name":"Brooklyn Bridge Park - Pier 2","start_station_latitude":"40.698458","start_station_longitude":"-73.997178"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce698"},"start_station_id":"3783","start_station_name":"Cliff St & Fulton St","start_station_latitude":"40.70838","start_station_longitude":"-74.00495"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce699"},"start_station_id":"3787","start_station_name":"Dock 72 Way & Market St","start_station_latitude":"40.69985","start_station_longitude":"-73.97141"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce69a"},"start_station_id":"3788","start_station_name":"E 12 St & 4 Av","start_station_latitude":"40.73269","start_station_longitude":"-73.98974"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce69b"},"start_station_id":"3789","start_station_name":"Fulton St & Irving Pl","start_station_latitude":"40.68186","start_station_longitude":"-73.959432"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce69c"},"start_station_id":"379","start_station_name":"W 31 St & 7 Ave","start_station_latitude":"40.749156","start_station_longitude":"-73.9916"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce69d"},"start_station_id":"3790","start_station_name":"Henry St & Middagh St","start_station_latitude":"40.7003","start_station_longitude":"-73.991581"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce69e"},"start_station_id":"3793","start_station_name":"Stuyvesant Walk & 1 Av Loop","start_station_latitude":"40.73233978","start_station_longitude":"-73.97898383"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce69f"},"start_station_id":"3795","start_station_name":"10 St & 2 Ave","start_station_latitude":"40.671907","start_station_longitude":"-73.993612"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6a0"},"start_station_id":"3798","start_station_name":"W 40 St & 5 Ave","start_station_latitude":"40.752269","start_station_longitude":"-73.982079"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6a1"},"start_station_id":"3799","start_station_name":"6 Ave & W 34 St","start_station_latitude":"40.74964","start_station_longitude":"-73.98805"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6a2"},"start_station_id":"380","start_station_name":"W 4 St & 7 Ave S","start_station_latitude":"40.73401143","start_station_longitude":"-74.00293877"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6a3"},"start_station_id":"3803","start_station_name":"Bedford Ave & Montgomery St","start_station_latitude":"40.665816","start_station_longitude":"-73.956934"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6a4"},"start_station_id":"3804","start_station_name":"Front St & Jay St","start_station_latitude":"40.702461","start_station_longitude":"-73.986842"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6a5"},"start_station_id":"3805","start_station_name":"E 80 St & Park Ave","start_station_latitude":"40.776173","start_station_longitude":"-73.959757"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6a6"},"start_station_id":"3809","start_station_name":"W 55 St & 6 Ave","start_station_latitude":"40.763189","start_station_longitude":"-73.978434"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6a7"},"start_station_id":"3810","start_station_name":"Central Park West & W 82 St","start_station_latitude":"40.782593","start_station_longitude":"-73.971211"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6a8"},"start_station_id":"3811","start_station_name":"27 Ave & 3 St","start_station_latitude":"40.77485","start_station_longitude":"-73.9342"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6a9"},"start_station_id":"383","start_station_name":"Greenwich Ave & Charles St","start_station_latitude":"40.735238","start_station_longitude":"-74.000271"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6aa"},"start_station_id":"385","start_station_name":"E 55 St & 2 Ave","start_station_latitude":"40.75797322","start_station_longitude":"-73.96603308"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6ab"},"start_station_id":"386","start_station_name":"Centre St & Worth St","start_station_latitude":"40.71494807","start_station_longitude":"-74.00234482"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6ac"},"start_station_id":"387","start_station_name":"Centre St & Chambers St","start_station_latitude":"40.71273266","start_station_longitude":"-74.0046073"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6ad"},"start_station_id":"388","start_station_name":"W 26 St & 10 Ave","start_station_latitude":"40.74971775","start_station_longitude":"-74.00295035"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6ae"},"start_station_id":"389","start_station_name":"Broadway & Berry St","start_station_latitude":"40.71044554","start_station_longitude":"-73.96525063"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6af"},"start_station_id":"390","start_station_name":"Duffield St & Willoughby St","start_station_latitude":"40.69221589","start_station_longitude":"-73.9842844"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6b0"},"start_station_id":"391","start_station_name":"Clark St & Henry St","start_station_latitude":"40.69760127","start_station_longitude":"-73.99344559"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6b1"},"start_station_id":"392","start_station_name":"Jay St & Tech Pl","start_station_latitude":"40.695065","start_station_longitude":"-73.987167"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6b2"},"start_station_id":"393","start_station_name":"E 5 St & Avenue C","start_station_latitude":"40.72299208","start_station_longitude":"-73.97995466"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6b3"},"start_station_id":"394","start_station_name":"E 9 St & Avenue C","start_station_latitude":"40.72521311","start_station_longitude":"-73.97768752"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6b4"},"start_station_id":"396","start_station_name":"Lefferts Pl & Franklin Ave","start_station_latitude":"40.68034242","start_station_longitude":"-73.95576894"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6b5"},"start_station_id":"397","start_station_name":"Fulton St & Clermont Ave","start_station_latitude":"40.68415748","start_station_longitude":"-73.96922273"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6b6"},"start_station_id":"398","start_station_name":"Atlantic Ave & Furman St","start_station_latitude":"40.69165183","start_station_longitude":"-73.9999786"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6b7"},"start_station_id":"399","start_station_name":"Lafayette Ave & St James Pl","start_station_latitude":"40.68851534","start_station_longitude":"-73.9647628"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6b8"},"start_station_id":"400","start_station_name":"Pitt St & Stanton St","start_station_latitude":"40.71926081","start_station_longitude":"-73.98178024"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6b9"},"start_station_id":"401","start_station_name":"Allen St & Rivington St","start_station_latitude":"40.72019576","start_station_longitude":"-73.98997825"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6ba"},"start_station_id":"402","start_station_name":"Broadway & E 22 St","start_station_latitude":"40.7403432","start_station_longitude":"-73.98955109"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6bb"},"start_station_id":"403","start_station_name":"E 2 St & 2 Ave","start_station_latitude":"40.72502876","start_station_longitude":"-73.99069656"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6bc"},"start_station_id":"405","start_station_name":"Washington St & Gansevoort St","start_station_latitude":"40.739323","start_station_longitude":"-74.008119"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6bd"},"start_station_id":"406","start_station_name":"Hicks St & Montague St","start_station_latitude":"40.69512845","start_station_longitude":"-73.99595065"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6be"},"start_station_id":"408","start_station_name":"Market St & Cherry St","start_station_latitude":"40.71076228","start_station_longitude":"-73.99400398"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6bf"},"start_station_id":"410","start_station_name":"Suffolk St & Stanton St","start_station_latitude":"40.72066442","start_station_longitude":"-73.98517977"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6c0"},"start_station_id":"411","start_station_name":"E 6 St & Avenue D","start_station_latitude":"40.72228087","start_station_longitude":"-73.97668709"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6c1"},"start_station_id":"412","start_station_name":"Forsyth St & Canal St","start_station_latitude":"40.7158155","start_station_longitude":"-73.99422366"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6c2"},"start_station_id":"415","start_station_name":"Pearl St & Hanover Square","start_station_latitude":"40.7047177","start_station_longitude":"-74.00926027"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6c3"},"start_station_id":"416","start_station_name":"Cumberland St & Lafayette Ave","start_station_latitude":"40.68753406","start_station_longitude":"-73.97265183"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6c4"},"start_station_id":"417","start_station_name":"Barclay St & Church St","start_station_latitude":"40.71291224","start_station_longitude":"-74.01020234"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6c5"},"start_station_id":"418","start_station_name":"Front St & Gold St","start_station_latitude":"40.70224","start_station_longitude":"-73.982578"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6c6"},"start_station_id":"419","start_station_name":"Carlton Ave & Park Ave","start_station_latitude":"40.69580705","start_station_longitude":"-73.97355569"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6c7"},"start_station_id":"420","start_station_name":"Clermont Ave & Lafayette Ave","start_station_latitude":"40.68764484","start_station_longitude":"-73.96968902"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6c8"},"start_station_id":"421","start_station_name":"Clermont Ave & Park Ave","start_station_latitude":"40.69573398","start_station_longitude":"-73.97129668"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6c9"},"start_station_id":"422","start_station_name":"W 59 St & 10 Ave","start_station_latitude":"40.770513","start_station_longitude":"-73.988038"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6ca"},"start_station_id":"423","start_station_name":"W 54 St & 9 Ave","start_station_latitude":"40.76584941","start_station_longitude":"-73.98690506"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6cb"},"start_station_id":"426","start_station_name":"West St & Chambers St","start_station_latitude":"40.71754834","start_station_longitude":"-74.01322069"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6cc"},"start_station_id":"427","start_station_name":"Bus Slip & State St","start_station_latitude":"40.701907","start_station_longitude":"-74.013942"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6cd"},"start_station_id":"432","start_station_name":"E 7 St & Avenue A","start_station_latitude":"40.72621788","start_station_longitude":"-73.98379855"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6ce"},"start_station_id":"434","start_station_name":"9 Ave & W 18 St","start_station_latitude":"40.74317449","start_station_longitude":"-74.00366443"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6cf"},"start_station_id":"435","start_station_name":"W 21 St & 6 Ave","start_station_latitude":"40.74173969","start_station_longitude":"-73.99415556"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6d0"},"start_station_id":"436","start_station_name":"Hancock St & Bedford Ave","start_station_latitude":"40.68216564","start_station_longitude":"-73.95399026"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6d1"},"start_station_id":"437","start_station_name":"Macon St & Nostrand Ave","start_station_latitude":"40.68098339","start_station_longitude":"-73.95004798"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6d2"},"start_station_id":"438","start_station_name":"St Marks Pl & 1 Ave","start_station_latitude":"40.72779126","start_station_longitude":"-73.98564945"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6d3"},"start_station_id":"439","start_station_name":"E 4 St & 2 Ave","start_station_latitude":"40.7262807","start_station_longitude":"-73.98978041"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6d4"},"start_station_id":"440","start_station_name":"E 45 St & 3 Ave","start_station_latitude":"40.75255434","start_station_longitude":"-73.97282625"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6d5"},"start_station_id":"442","start_station_name":"W 27 St & 7 Ave","start_station_latitude":"40.746647","start_station_longitude":"-73.993915"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6d6"},"start_station_id":"443","start_station_name":"Bedford Ave & S 9 St","start_station_latitude":"40.70853074","start_station_longitude":"-73.96408963"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6d7"},"start_station_id":"445","start_station_name":"E 10 St & Avenue A","start_station_latitude":"40.72740794","start_station_longitude":"-73.98142006"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6d8"},"start_station_id":"446","start_station_name":"W 24 St & 7 Ave","start_station_latitude":"40.74487634","start_station_longitude":"-73.99529885"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6d9"},"start_station_id":"447","start_station_name":"8 Ave & W 52 St","start_station_latitude":"40.76370739","start_station_longitude":"-73.9851615"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6da"},"start_station_id":"448","start_station_name":"W 37 St & 10 Ave","start_station_latitude":"40.75660359","start_station_longitude":"-73.9979009"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6db"},"start_station_id":"450","start_station_name":"W 49 St & 8 Ave","start_station_latitude":"40.76227205","start_station_longitude":"-73.98788205"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6dc"},"start_station_id":"453","start_station_name":"W 22 St & 8 Ave","start_station_latitude":"40.74475148","start_station_longitude":"-73.99915362"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6dd"},"start_station_id":"454","start_station_name":"E 51 St & 1 Ave","start_station_latitude":"40.75455731","start_station_longitude":"-73.96592976"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6de"},"start_station_id":"455","start_station_name":"1 Ave & E 44 St","start_station_latitude":"40.75001986","start_station_longitude":"-73.96905301"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6df"},"start_station_id":"456","start_station_name":"E 53 St & Madison Ave","start_station_latitude":"40.7597108","start_station_longitude":"-73.97402311"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6e0"},"start_station_id":"458","start_station_name":"11 Ave & W 27 St","start_station_latitude":"40.751396","start_station_longitude":"-74.005226"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6e1"},"start_station_id":"459","start_station_name":"W 20 St & 11 Ave","start_station_latitude":"40.746745","start_station_longitude":"-74.007756"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6e2"},"start_station_id":"460","start_station_name":"S 4 St & Wythe Ave","start_station_latitude":"40.71285887","start_station_longitude":"-73.96590294"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6e3"},"start_station_id":"461","start_station_name":"E 20 St & 2 Ave","start_station_latitude":"40.73587678","start_station_longitude":"-73.98205027"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6e4"},"start_station_id":"462","start_station_name":"W 22 St & 10 Ave","start_station_latitude":"40.74691959","start_station_longitude":"-74.00451887"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6e5"},"start_station_id":"464","start_station_name":"E 56 St & 3 Ave","start_station_latitude":"40.75934501","start_station_longitude":"-73.96759673"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6e6"},"start_station_id":"465","start_station_name":"Broadway & W 41 St","start_station_latitude":"40.75513557","start_station_longitude":"-73.98658032"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6e7"},"start_station_id":"466","start_station_name":"W 25 St & 6 Ave","start_station_latitude":"40.74395411","start_station_longitude":"-73.99144871"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6e8"},"start_station_id":"467","start_station_name":"Dean St & 4 Ave","start_station_latitude":"40.68312489","start_station_longitude":"-73.97895137"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6e9"},"start_station_id":"468","start_station_name":"Broadway & W 56 St","start_station_latitude":"40.7652654","start_station_longitude":"-73.98192338"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6ea"},"start_station_id":"469","start_station_name":"Broadway & W 53 St","start_station_latitude":"40.76344058","start_station_longitude":"-73.98268129"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6eb"},"start_station_id":"470","start_station_name":"W 20 St & 8 Ave","start_station_latitude":"40.74345335","start_station_longitude":"-74.00004031"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6ec"},"start_station_id":"471","start_station_name":"Grand St & Havemeyer St","start_station_latitude":"40.71286844","start_station_longitude":"-73.95698119"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6ed"},"start_station_id":"472","start_station_name":"E 32 St & Park Ave","start_station_latitude":"40.7457121","start_station_longitude":"-73.98194829"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6ee"},"start_station_id":"473","start_station_name":"Rivington St & Chrystie St","start_station_latitude":"40.72110063","start_station_longitude":"-73.9919254"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6ef"},"start_station_id":"474","start_station_name":"5 Ave & E 29 St","start_station_latitude":"40.7451677","start_station_longitude":"-73.98683077"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6f0"},"start_station_id":"476","start_station_name":"E 31 St & 3 Ave","start_station_latitude":"40.74394314","start_station_longitude":"-73.97966069"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6f1"},"start_station_id":"477","start_station_name":"W 41 St & 8 Ave","start_station_latitude":"40.75640548","start_station_longitude":"-73.9900262"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6f2"},"start_station_id":"478","start_station_name":"11 Ave & W 41 St","start_station_latitude":"40.76030096","start_station_longitude":"-73.99884222"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6f3"},"start_station_id":"479","start_station_name":"9 Ave & W 45 St","start_station_latitude":"40.76019252","start_station_longitude":"-73.9912551"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6f4"},"start_station_id":"480","start_station_name":"W 53 St & 10 Ave","start_station_latitude":"40.76669671","start_station_longitude":"-73.99061728"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6f5"},"start_station_id":"481","start_station_name":"S 3 St & Bedford Ave","start_station_latitude":"40.71260486","start_station_longitude":"-73.96264403"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6f6"},"start_station_id":"482","start_station_name":"W 15 St & 7 Ave","start_station_latitude":"40.73935542","start_station_longitude":"-73.99931783"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6f7"},"start_station_id":"483","start_station_name":"E 12 St & 3 Ave","start_station_latitude":"40.73223272","start_station_longitude":"-73.98889957"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6f8"},"start_station_id":"484","start_station_name":"W 44 St & 5 Ave","start_station_latitude":"40.75500254","start_station_longitude":"-73.98014437"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6f9"},"start_station_id":"485","start_station_name":"W 37 St & 5 Ave","start_station_latitude":"40.75038009","start_station_longitude":"-73.98338988"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6fa"},"start_station_id":"486","start_station_name":"Broadway & W 29 St","start_station_latitude":"40.7462009","start_station_longitude":"-73.98855723"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6fb"},"start_station_id":"487","start_station_name":"E 20 St & FDR Drive","start_station_latitude":"40.73314259","start_station_longitude":"-73.97573881"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6fc"},"start_station_id":"488","start_station_name":"W 39 St & 9 Ave","start_station_latitude":"40.75645824","start_station_longitude":"-73.99372222"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6fd"},"start_station_id":"489","start_station_name":"10 Ave & W 28 St","start_station_latitude":"40.75066386","start_station_longitude":"-74.00176802"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6fe"},"start_station_id":"490","start_station_name":"8 Ave & W 33 St","start_station_latitude":"40.751551","start_station_longitude":"-73.993934"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce6ff"},"start_station_id":"491","start_station_name":"E 24 St & Park Ave S","start_station_latitude":"40.74096374","start_station_longitude":"-73.98602213"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce700"},"start_station_id":"492","start_station_name":"W 33 St & 7 Ave","start_station_latitude":"40.75019995","start_station_longitude":"-73.99093085"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce701"},"start_station_id":"493","start_station_name":"W 45 St & 6 Ave","start_station_latitude":"40.7568001","start_station_longitude":"-73.98291153"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce702"},"start_station_id":"494","start_station_name":"W 26 St & 8 Ave","start_station_latitude":"40.74734825","start_station_longitude":"-73.99723551"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce703"},"start_station_id":"495","start_station_name":"W 47 St & 10 Ave","start_station_latitude":"40.76269882","start_station_longitude":"-73.99301222"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce704"},"start_station_id":"496","start_station_name":"E 16 St & 5 Ave","start_station_latitude":"40.73726186","start_station_longitude":"-73.99238967"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce705"},"start_station_id":"497","start_station_name":"E 17 St & Broadway","start_station_latitude":"40.73704984","start_station_longitude":"-73.99009296"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce706"},"start_station_id":"499","start_station_name":"Broadway & W 60 St","start_station_latitude":"40.76915505","start_station_longitude":"-73.98191841"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce707"},"start_station_id":"500","start_station_name":"Broadway & W 51 St","start_station_latitude":"40.76228826","start_station_longitude":"-73.98336183"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce708"},"start_station_id":"501","start_station_name":"FDR Drive & E 35 St","start_station_latitude":"40.744219","start_station_longitude":"-73.97121214"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce709"},"start_station_id":"502","start_station_name":"Henry St & Grand St","start_station_latitude":"40.714215","start_station_longitude":"-73.981346"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce70a"},"start_station_id":"503","start_station_name":"E 20 St & Park Ave","start_station_latitude":"40.73827428","start_station_longitude":"-73.98751968"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce70b"},"start_station_id":"504","start_station_name":"1 Ave & E 16 St","start_station_latitude":"40.73221853","start_station_longitude":"-73.98165557"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce70c"},"start_station_id":"505","start_station_name":"6 Ave & W 33 St","start_station_latitude":"40.74901271","start_station_longitude":"-73.98848395"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce70d"},"start_station_id":"507","start_station_name":"E 25 St & 2 Ave","start_station_latitude":"40.73912601","start_station_longitude":"-73.97973776"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce70e"},"start_station_id":"508","start_station_name":"W 46 St & 11 Ave","start_station_latitude":"40.76341379","start_station_longitude":"-73.99667444"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce70f"},"start_station_id":"509","start_station_name":"9 Ave & W 22 St","start_station_latitude":"40.7454973","start_station_longitude":"-74.00197139"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce710"},"start_station_id":"513","start_station_name":"W 56 St & 10 Ave","start_station_latitude":"40.768254","start_station_longitude":"-73.988639"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce711"},"start_station_id":"514","start_station_name":"12 Ave & W 40 St","start_station_latitude":"40.76087502","start_station_longitude":"-74.00277668"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce712"},"start_station_id":"515","start_station_name":"W 43 St & 10 Ave","start_station_latitude":"40.76009437","start_station_longitude":"-73.99461843"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce713"},"start_station_id":"516","start_station_name":"E 47 St & 1 Ave","start_station_latitude":"40.75206862","start_station_longitude":"-73.96784384"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce714"},"start_station_id":"517","start_station_name":"Pershing Square South","start_station_latitude":"40.751581","start_station_longitude":"-73.97791"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce715"},"start_station_id":"518","start_station_name":"E 39 St & 2 Ave","start_station_latitude":"40.74780373","start_station_longitude":"-73.9734419"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce716"},"start_station_id":"519","start_station_name":"Pershing Square North","start_station_latitude":"40.751873","start_station_longitude":"-73.977706"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce717"},"start_station_id":"520","start_station_name":"W 52 St & 5 Ave","start_station_latitude":"40.75992262","start_station_longitude":"-73.97648516"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce718"},"start_station_id":"522","start_station_name":"E 51 St & Lexington Ave","start_station_latitude":"40.75714758","start_station_longitude":"-73.97207836"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce719"},"start_station_id":"523","start_station_name":"W 38 St & 8 Ave","start_station_latitude":"40.75466591","start_station_longitude":"-73.99138152"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce71a"},"start_station_id":"525","start_station_name":"W 34 St & 11 Ave","start_station_latitude":"40.75594159","start_station_longitude":"-74.0021163"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce71b"},"start_station_id":"526","start_station_name":"E 33 St & 5 Ave","start_station_latitude":"40.74765947","start_station_longitude":"-73.98490707"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce71c"},"start_station_id":"528","start_station_name":"2 Ave & E 31 St","start_station_latitude":"40.74290902","start_station_longitude":"-73.97706058"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce71d"},"start_station_id":"529","start_station_name":"W 42 St & 8 Ave","start_station_latitude":"40.7575699","start_station_longitude":"-73.99098507"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce71e"},"start_station_id":"530","start_station_name":"11 Ave & W 59 St","start_station_latitude":"40.77149671","start_station_longitude":"-73.99046034"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce71f"},"start_station_id":"531","start_station_name":"Forsyth St & Broome St","start_station_latitude":"40.71893904","start_station_longitude":"-73.99266288"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce720"},"start_station_id":"532","start_station_name":"S 5 Pl & S 5 St","start_station_latitude":"40.710451","start_station_longitude":"-73.960876"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce721"},"start_station_id":"533","start_station_name":"Broadway & W 38 St","start_station_latitude":"40.75299641","start_station_longitude":"-73.98721619"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce722"},"start_station_id":"534","start_station_name":"Water - Whitehall Plaza","start_station_latitude":"40.70255065","start_station_longitude":"-74.0127234"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce723"},"start_station_id":"536","start_station_name":"1 Ave & E 30 St","start_station_latitude":"40.74144387","start_station_longitude":"-73.97536082"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce724"},"start_station_id":"539","start_station_name":"Metropolitan Ave & Bedford Ave","start_station_latitude":"40.71534825","start_station_longitude":"-73.96024116"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce725"},"start_station_id":"540","start_station_name":"Lexington Ave & E 29 St","start_station_latitude":"40.74311555","start_station_longitude":"-73.98215353"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce726"},"start_station_id":"545","start_station_name":"E 23 St & 1 Ave","start_station_latitude":"40.736502","start_station_longitude":"-73.97809472"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce727"},"start_station_id":"546","start_station_name":"E 30 St & Park Ave S","start_station_latitude":"40.74444921","start_station_longitude":"-73.98303529"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce728"},"start_station_id":"72","start_station_name":"W 52 St & 11 Ave","start_station_latitude":"40.76727216","start_station_longitude":"-73.99392888"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce729"},"start_station_id":"79","start_station_name":"Franklin St & W Broadway","start_station_latitude":"40.71911552","start_station_longitude":"-74.00666661"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce72a"},"start_station_id":"82","start_station_name":"St James Pl & Pearl St","start_station_latitude":"40.71117416","start_station_longitude":"-74.00016545"}
+{"_id":{"$oid":"5e4e2e36dbd3e62f6ebce72b"},"start_station_id":"83","start_station_name":"Atlantic Ave & Fort Greene Pl","start_station_latitude":"40.68382604","start_station_longitude":"-73.97632328"}

@@ -23,7 +23,9 @@ def logic():
     # Initialize data arrays
     station_data = []
     popular_destination_data = []
+    restaurant_data = []
 
+    # query different collections for all records
     for cursor in mongo.db.stations.find({}):
         del cursor["_id"]
         station_data.append(cursor)
@@ -32,27 +34,15 @@ def logic():
         del cursor["_id"]
         popular_destination_data.append(cursor)
 
+    for cursor in mongo.db.restaurants.find({}):
+        del cursor["_id"]
+        restaurant_data.append(cursor)
 
-    combined_data = [station_data, popular_destination_data]
+
+    combined_data = [station_data, popular_destination_data, restaurant_data]
     
     # Return template and data
     return render_template("logic.js", combined_data=combined_data)
-
-
-# # Route that will trigger the scrape function
-# @app.route("/scrape")
-# def scrape():
-
-#     # Run the scrape function
-#     new_yelp_data = scrape_yelp.scrape()
-
-#     # Update the Mongo database using update and upsert=True
-#     # Again: Not sure exactly the MongoDB/Pymongo syntax for referencing a
-#     # particular document (in this case yelp) within the collection
-#     mongo.db.collection.yelp.update({}, new_yelp_data, upsert=True)
-
-#     # Redirect back to home page
-#     return redirect("/")
 
 
 if __name__ == "__main__":
