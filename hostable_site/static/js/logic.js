@@ -167,7 +167,7 @@ function createCustomIcon (feature, latlng) {
         iconSize: [36, 36],
         iconAnchor: [18, 36],
         popupAnchor:  [1, -33],
-        iconUrl: '/static/images/location.png'
+        iconUrl: '/project-2/hostable_site/static/images/location.png'
     });
 
     return L.marker(latlng, { icon: smallIcon })
