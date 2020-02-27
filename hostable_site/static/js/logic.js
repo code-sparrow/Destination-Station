@@ -134,7 +134,7 @@ L.marker([40.73, -74.0059]).addTo(map);
 
 
 // Subway Lines layer
-d3.json("/project-2/hostable-site/static/data/SubwayLines.geojson", function(data) {
+d3.json("/project-2/hostable_site/static/data/SubwayLines.geojson", function(data) {
         // Creating a geoJSON layer with the retrieved data
         L.geoJson(data, {
         // Style each feature
@@ -148,7 +148,7 @@ d3.json("/project-2/hostable-site/static/data/SubwayLines.geojson", function(dat
 });
 
 // Subway Stations layer
-d3.json("/project-2/hostable-site/static/data/SubwayStations.geojson", function(data) {
+d3.json("/project-2/hostable_site/static/data/SubwayStations.geojson", function(data) {
     // Creating a geoJSON layer with the retrieved data
     L.geoJson(data, {
 
