@@ -4,6 +4,14 @@ citibikeData.forEach(d => {
     d.start_station_latitude = +d.start_station_latitude;
     d.start_station_longitude = +d.start_station_longitude;
 });
+
+// getting rid of weird key inserted by mongo export
+restaurantData.forEach(d => {
+    d.restaurants.forEach(d2 => {
+        d2["rating"] = d2.rating[Object.keys(d2.rating)[0]];
+    });
+});
+
 console.log(citibikeData);
 console.log(restaurantData);
 
