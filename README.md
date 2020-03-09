@@ -1,6 +1,6 @@
 ## Destination Station (project-2)
 
-NYC bike and yelp scraping app
+NYC Citi Bike and Yelp Querying App
 
 ![TitleSlide](static/images/Title_Slide.PNG)
 
