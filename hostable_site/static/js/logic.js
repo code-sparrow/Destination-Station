@@ -142,7 +142,7 @@ L.marker([40.73, -74.0059]).addTo(map);
 
 
 // Subway Lines layer
-d3.json("/project-2/hostable_site/static/data/SubwayLines.geojson", function(data) {
+d3.json("/Destination-Station/hostable_site/static/data/SubwayLines.geojson", function(data) {
         // Creating a geoJSON layer with the retrieved data
         L.geoJson(data, {
         // Style each feature
@@ -156,7 +156,7 @@ d3.json("/project-2/hostable_site/static/data/SubwayLines.geojson", function(dat
 });
 
 // Subway Stations layer
-d3.json("/project-2/hostable_site/static/data/SubwayStations.geojson", function(data) {
+d3.json("/Destination-Station/hostable_site/static/data/SubwayStations.geojson", function(data) {
     // Creating a geoJSON layer with the retrieved data
     L.geoJson(data, {
 
@@ -175,7 +175,7 @@ function createCustomIcon (feature, latlng) {
         iconSize: [36, 36],
         iconAnchor: [18, 36],
         popupAnchor:  [1, -33],
-        iconUrl: '/project-2/hostable_site/static/images/location.png'
+        iconUrl: '/Destination-Station/hostable_site/static/images/location.png'
     });
 
     return L.marker(latlng, { icon: smallIcon })
