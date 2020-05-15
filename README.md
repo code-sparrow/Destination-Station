@@ -19,13 +19,13 @@ We would like to explore the city bike sharing system of New York City and popul
 ## Data Prep  
 
 * The original million+ record data set was queried to make a smaller collection of only all the unique bike stations, containing ID, NAME, LATITUDE and LONGITUDE. This was used to plot base map containing all bike stations. An example of the resulting mongoDB collection is pictured below.   
-<img src="static/images/unique_stations.png" width="60%">  
+<img src="static/images/unique_stations.png" width="28%">  
 
 * A second collection was prepared with all the bike stations, containing the ID and the 10 most popular destination stations from that station. This was used to plot an overlay of the 10 most popular destination stations. The overlaid destinations will vary in color and opacity based on relative popularity. An example of the resulting mongoDB collection is pictured below.  
-<img src="static/images/popular_stations.png" width="60%">  
+<img src="static/images/popular_stations.png" width="35%">  
 
 * Yelp was used to query atrractions within a half of a mile of each bike station, based on the stations latitude and longitude. This was used to list attractions below the map for the chosen destination station. An example of the resulting mongoDB collection is pictured below.  
-<img src="static/images/attractions.png" width="60%">   
+<img src="static/images/attractions.png" width="70%">   
 
 * Static database collections were chosen for a significantly faster loading app:  
 	- The cost of not having live data was deemed minimal, as the need for live data for this application was not essential (business data not changing on that fine of a scale)  
