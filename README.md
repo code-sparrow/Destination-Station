@@ -33,14 +33,21 @@ We would like to explore the city bike sharing system of New York City and popul
 
 
 ## Backend  
-A Flask API:  
+A Flask App:  
 * connects to the Mongo database using PyMongo  
-* routes to and renders the HTML and Javascript templates  
-* and injects the appropriate data.
+* routes to and renders the HTML and Javascript templates    
+* and injects the appropriate data.  
 
 
 ## Frontend
-
+* The mongoDB collections (bike stations, 10 most popular destination stations, and yelp attraction data) are injected in by render_template via the Flask app.  
+* The subway station and subway line geojson data are read in with D3.  
+* A marker layer array is set up using the bike station latitude and longitude as black circles.  
+* The marker layer is modified as a `featureGroup` to attach an event listener that will recolor the appropriate "Top 10" markers, as well as write the HTML to list the attraction data for the destination that is selected.  
+* The mapbox street-map is used for the baseMaps/tileLayer.  
+* Bike station markerLayer, subway station layer, and suway line layer, are set as overlayMaps.  
+* The map is created with the JavaScript library, Leaflet, and the control layer is added.  
+* A custom icon is set for the subway station markers <img src="/static/images/location.png">  
 
 ## Future State  
 <img src="static/images/Future_State.PNG" width="60%">
