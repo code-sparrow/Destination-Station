@@ -22,10 +22,10 @@ We would like to explore the city bike sharing system of New York City and popul
 <img src="static/images/unique_stations.png" width="28%">  
 
 * A second collection was prepared with all the bike stations, containing the ID and the 10 most popular destination stations from that station. This was used to plot an overlay of the 10 most popular destination stations. The overlaid destinations will vary in color and opacity based on relative popularity. An example of the resulting mongoDB collection is pictured below.  
-<img src="static/images/popular_stations.png" width="35%">  
+<img src="static/images/popular_stations.png" width="30%">  
 
 * Yelp was used to query atrractions within a half of a mile of each bike station, based on the stations latitude and longitude. This was used to list attractions below the map for the chosen destination station. An example of the resulting mongoDB collection is pictured below.  
-<img src="static/images/attractions.png" width="70%">   
+<img src="static/images/attractions.png" width="62%">   
 
 * Static database collections were chosen for a significantly faster loading app:  
 	- The cost of not having live data was deemed minimal, as the need for live data for this application was not essential (business data not changing on that fine of a scale)  
@@ -47,10 +47,10 @@ A Flask App:
 * The mapbox street-map is used for the baseMaps/tileLayer.  
 * Bike station markerLayer, subway station layer, and suway line layer, are set as overlayMaps.  
 * The map is created with the JavaScript library, Leaflet, and the control layer is added.  
-* A custom icon is set for the subway station markers <img src="/static/images/location.png" width="50%">  
+* A custom icon is set for the subway station markers <img src="/static/images/location.png" width="36px" height="36px">  
 
 ## Future State  
-<img src="static/images/Future_State.PNG" width="60%">
+<img src="static/images/Future_State.PNG" width="65%">
 
 
 ## Current Hostable Site
