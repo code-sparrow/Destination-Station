@@ -47,7 +47,7 @@ A Flask App:
 * The mapbox street-map is used for the baseMaps/tileLayer.  
 * Bike station markerLayer, subway station layer, and suway line layer, are set as overlayMaps.  
 * The map is created with the JavaScript library, Leaflet, and the control layer is added.  
-* A custom icon is set for the subway station markers <img src="/static/images/location.png">  
+* A custom icon is set for the subway station markers <img src="/static/images/location.png" width="50%">  
 
 ## Future State  
 <img src="static/images/Future_State.PNG" width="60%">
